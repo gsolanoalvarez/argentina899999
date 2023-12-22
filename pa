@@ -1,0 +1,40 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://cdn.m3u.cl/logo/807_LIM_TV.png", LIM TV ✪ | PY
+https://tv.invasivamedia.com/hls/limtv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="836" tvg-name="ABC TV" tvg-logo="https://cdn.m3u.cl/logo/836_ABC_TV.png", ABC TV | PY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="834" tvg-name="Aregua TV" tvg-logo="https://cdn.m3u.cl/logo/834_Aregua_TV.jpg", Aregua TV | PY
+https://inliveserver.com:1936/11038/11038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="832" tvg-name="Cablemas TV" tvg-logo="https://cdn.m3u.cl/logo/832_Cablemas_TV.png", Cablemas TV | PY
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="808" tvg-name="Canal Noticias PY" tvg-logo="https://cdn.m3u.cl/logo/808_Canal_Noticias_PY.jpg", Canal Noticias PY | PY
+http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1192" tvg-name="Costanera TV" tvg-logo="https://cdn.m3u.cl/logo/1192_Costanera_TV.png", Costanera TV | PY
+https://inliveserver.com:1936/11034/11034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="830" tvg-name="Dismar TV" tvg-logo="https://cdn.m3u.cl/logo/830_Dismar_TV.jpg", Dismar TV | PY
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="835" tvg-name="Estacion Cristal" tvg-logo="https://cdn.m3u.cl/logo/835_Estacion_Cristal.jpg", Estacion Cristal | PY
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="816" tvg-name="Farra Play" tvg-logo="https://cdn.m3u.cl/logo/816_Farra_Play.jpg", Farra Play | PY
+http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1021" tvg-name="Fiera TV" tvg-logo="https://cdn.m3u.cl/logo/1021_Fiera_TV.png", Fiera TV | PY
+https://streamcasthd.com:19360/fieraproducciones/fieraproducciones.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="833" tvg-name="Integracion TV" tvg-logo="https://cdn.m3u.cl/logo/833_Integracion_TV.png", Integracion TV | PY
+http://nextplayparaguay.live/hls/integraciontv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="819" tvg-name="Mi TV" tvg-logo="https://cdn.m3u.cl/logo/819_Mi_TV.png", Mi TV | PY
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="811" tvg-name="Paravision" tvg-logo="https://cdn.m3u.cl/logo/811_Paravision.jpg", Paravision | PY
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="831" tvg-name="RCC TV" tvg-logo="https://cdn.m3u.cl/logo/831_RCC_TV.png", RCC TV | PY
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="818" tvg-name="RCN TV" tvg-logo="https://cdn.m3u.cl/logo/818_RCN_TV.jpg", RCN TV | PY
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://cdn.m3u.cl/logo/828_Somos_Del_Este_TV.jpg", Somos Del Este TV | PY
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="812" tvg-name="Suceso TV" tvg-logo="https://cdn.m3u.cl/logo/812_Suceso_TV.png", Suceso TV | PY
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="817" tvg-name="Unicanal" tvg-logo="https://cdn.m3u.cl/logo/817_Unicanal.jpg", Unicanal | PY
+http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="827" tvg-name="Uniradio TV" tvg-logo="https://cdn.m3u.cl/logo/827_Uniradio_TV.png", Uniradio TV | PY
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
