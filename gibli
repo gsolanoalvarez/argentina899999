@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Cuentos_de_Terramar-162148520-large.jpg",Cuentos de Terramar
+#EXTINF:-1 tvg-id="807" tvg-name="Cuentos de Terramar" tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Cuentos_de_Terramar-162148520-large.jpg"
 https://archive.org/download/peliculas-studio-ghibli-latino/Cuentos%20de%20Terramar.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Earwig_y_la_bruja-802898174-large.jpg",Earwig y la bruja
 https://archive.org/download/peliculas-studio-ghibli-latino/Earwig%20y%20la%20bruja.mp4
