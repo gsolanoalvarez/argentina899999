@@ -44,7 +44,7 @@ https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://cdn.m3u.cl/logo/206_Paka_Paka.jpg", Paka Paka | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png", VariedTV | AR
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://cdn.m3u.cl/logo/251_13_Max_Television.png", 13 Max Television | AR
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/221_5R_TV_Santa_Fe.png", 5R TV Santa Fe | AR
