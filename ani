@@ -1,29 +1,29 @@
 #EXTM3U 
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.imgur.com/rLuceDU.jpeg" group-title="",
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1 tvg-name="ETC" tvg-id="" tvg-logo="https://i.imgur.com/rLuceDU.jpeg" group-title="",
+#EXTINF:-1 tvg-name="ETC" tvg-id="" tvg-logo="https://i.imgur.com/zP8jO8X.png" group-title="",
 http://live.mundogo.cl/senpaitv/index.m3u8
-#EXTINF:-1  tvg-name="Taltal TV HD" tvg-id="" tvg-logo="https://i.imgur.com/QOBY5mL.jpeg" group-title="JOVENES Y ADULTOS",Taltal TV HD
+#EXTINF:-1  tvg-name="Taltal TV HD" tvg-id="" tvg-logo="https://i.imgur.com/QOBY5mL.jpeg" group-title="",
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-name="Pandamax" tvg-id="" tvg-logo="https://i.imgur.com/WIT3g1b.png" group-title="",
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-name="Telenorte" tvg-id="" tvg-logo="https://i.imgur.com/GmLQNep.png" group-title="",
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="JOVENES Y ADULTOS",VariedTV
+#EXTINF:-1 tvg-name="VariedTV" tvg-id="" tvg-logo="https://i.imgur.com/UeIoh3b.png" group-title="",
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-#EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
+#EXTINF:-1 tvg-name="Anime TV" tvg-id="" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="",
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares",Dreiko TV
+#EXTINF:-1 tvg-name="Dreiko TV" tvg-id="" tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="",
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
+#EXTINF:-1 tvg-name="Magic" tvg-id="" tvg-logo="https://i.imgur.com/CVijpD6.png" group-title="",
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="Familiares",Big TV
+#EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="Familiares",
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
+#EXTINF:-1 tvg-name="Latino Kids TV" tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="",
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
+#EXTINF:-1 tvg-name="Zaz TV" tvg-id="" tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="",
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV
+#EXTINF:-1 tvg-name="Gogoplay TV" tvg-id="" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="",
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
