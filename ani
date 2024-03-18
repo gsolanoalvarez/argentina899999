@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.imgur.com/ru0iCsN.png" group-title="JOVENES Y ADULTOS",Max Anime
+#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.imgur.com/rLuceDU.jpeg" group-title="JOVENES Y ADULTOS",Max Anime
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qlTFGpx.png" group-title="JOVENES Y ADULTOS",Taltal TV HD
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
