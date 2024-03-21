@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fSYwbt7.png" group-title="",PlanetaTV Movies
+#EXTINF:-1 tvg-name="PlanetaTV Movies" tvg-id="" tvg-logo="https://i.imgur.com/fSYwbt7.png" group-title="",
 https://scl.edge.grupoz.cl/movie/live/chunklist_w406008822.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f0RhdYn.jpg" group-title="LATINO",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
