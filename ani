@@ -25,8 +25,6 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-name="Zaz TV" tvg-id="" tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="",
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-name="Planetatv family" tvg-id="" tvg-logo="https://i.imgur.com/egTCzdI.jpeg" group-title="Familiares",
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Chilevisual Kids HD" tvg-id="" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="Familiares",
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 
