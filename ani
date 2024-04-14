@@ -27,4 +27,6 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="Chilevisual Kids HD" tvg-id="" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="Familiares",
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="1081"  tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png",
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 
