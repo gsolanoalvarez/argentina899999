@@ -1,18 +1,16 @@
 #EXTM3U 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="1081"  tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png",
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="ETC" tvg-id="" tvg-logo="https://i.imgur.com/zP8jO8X.png" group-title="",
-http://live.mundogo.cl/senpaitv/index.m3u8
-#EXTINF:-1 tvg-name="Gogoplay TV" tvg-id="" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="",
-https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
+#EXTINF:-1 tvg-name="Dreiko TV" tvg-id="" tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="",
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-name="Pandamax" tvg-id="" tvg-logo="https://i.imgur.com/WIT3g1b.png" group-title="",
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-name="Latino Kids" tvg-id="" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="",
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-name="VariedTV" tvg-id="" tvg-logo="https://i.imgur.com/UeIoh3b.png" group-title="",
 https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 #EXTINF:-1 tvg-name="Anime TV" tvg-id="" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="",
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Dreiko TV" tvg-id="" tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="",
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1  tvg-name="Taltal TV HD" tvg-id="" tvg-logo="https://i.imgur.com/QOBY5mL.jpeg" group-title="",
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-name="Telenorte" tvg-id="" tvg-logo="https://i.imgur.com/GmLQNep.png" group-title="",
@@ -21,6 +19,8 @@ https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="",
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="Gogoplay TV" tvg-id="" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="",
+https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-name="Latino Kids TV" tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="",
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-name="Zaz TV" tvg-id="" tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="",
