@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.imgur.com/rLuceDU.jpeg" group-title="",
-https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="1081"  tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png",
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="ETC" tvg-id="" tvg-logo="https://i.imgur.com/zP8jO8X.png" group-title="",
 http://live.mundogo.cl/senpaitv/index.m3u8
 #EXTINF:-1 tvg-name="Gogoplay TV" tvg-id="" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="",
@@ -27,6 +27,5 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="Chilevisual Kids HD" tvg-id="" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="Familiares",
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="1081"  tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png",
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
+
 
