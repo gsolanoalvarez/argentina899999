@@ -5,3 +5,7 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w406008822.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
 #EXTINF:-1 tvg-name="Planetatv family" tvg-id="" tvg-logo="https://i.imgur.com/egTCzdI.jpeg" group-title="Familiares",
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Monitos tv" tvg-id="" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Familiares",
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-name="+Cine" tvg-id="" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="Familiares",
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
