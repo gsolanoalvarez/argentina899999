@@ -1,1 +1,3 @@
+#EXTM3U 
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="1081"  tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png",
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
