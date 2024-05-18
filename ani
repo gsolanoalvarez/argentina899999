@@ -27,5 +27,7 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/chunks.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="Chilevisual Kids HD" tvg-id="" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="Familiares",
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-name="ETC TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="Familiares",
+http://45.160.12.200:8008/play/007
 
 
