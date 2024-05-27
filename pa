@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 tvg-name="Next HD" tvg-id="" tvg-logo="https://latinartv.com/sites/default/files/styles/re/public/logos/nexthd.webp?itok=tSUkMx6S" group-title="",
+https://scl.edge.grupoz.cl/movie/live/chunklist_w406008822.m3u8
 #EXTINF:-1 tvg-name="PlanetaTV Movies" tvg-id="" tvg-logo="https://i.imgur.com/egTCzdI.jpeg" group-title="",
 https://scl.edge.grupoz.cl/movie/live/chunklist_w406008822.m3u8
 #EXTINF:-1 tvg-name="Wow tv" tvg-id="" tvg-logo="https://i.imgur.com/DHrNjwV.png" group-title="LATINO",Cinerama TV
