@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="1081"  tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png",
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Dreiko TV" tvg-id="" tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="",
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-name="Pandamax" tvg-id="" tvg-logo="https://i.imgur.com/WIT3g1b.png" group-title="",
@@ -27,8 +27,7 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/chunks.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="Chilevisual Kids HD" tvg-id="" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="Familiares",
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-#EXTINF:-1 tvg-name="Chilevisual Kids HD" tvg-id="" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="Familiares",
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37815
+
 
 
 
