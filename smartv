@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", Willax TV
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", Latina TV
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", América TV
 https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", ATV
@@ -50,11 +51,15 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DHrNjwV.png" group-title="PELICULAS", Wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
-#EXTINF:-1 tvg-name="Monitos tv" tvg-id="" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 tvg-name="+Cine" tvg-id="" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="PELICULAS", +Cine
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="PELICULAS", +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-name="BayresTV" tvg-id="" tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png" group-title="PELICULAS", BayresTV
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png" group-title="PELICULAS", BayresTV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-name="Exprezion TV" tvg-id="" tvg-logo="https://neotv.cl/assets/img/channels/exprezion-tv.png" group-title="PELICULAS", Exprezion TV
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/exprezion-tv.png" group-title="PELICULAS", Exprezion TV
 https://vdochile.com:3774/live/cnrhiawklive.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg" group-title="CARTOON", Retro tv Palmares
+https://fl1001.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPXCZf6.jpeg" group-title="24/7", Los años maravillosos
+http://xpz.com.mx:8080/live/Koko8164/8164koko/2090984.m3u8
