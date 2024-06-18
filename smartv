@@ -13,8 +13,10 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2023/01/limcover-300x300.jpg.webp" group-title="PELICULAS", Lim tv
 https://ssh101.bozztv.com/ssh101/invasivamedia/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="PELICULAS", Doble AA
+#EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png.webp" group-title="PELICULAS", Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-cinema-16x9_3.jpg" group-title="PELICULAS", Cinema
+https://stream.ads.ottera.tv/cl/240618cpoefgllf7g3mhlu1sng/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="PELICULAS", Pucallpa TV
 https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="PELICULAS",TNT
@@ -79,3 +81,5 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NknFWnx.png" group-title="DEPORTES", Real madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://toonkids.com/static/media/logo.b09ba5336c80bb677c85.png" group-title="INFANTIL", Toonz Kids
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/2e64ecac-9138-4222-8ee9-82ae499eb827/2.m3u8
