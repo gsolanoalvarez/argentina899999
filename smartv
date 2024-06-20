@@ -19,8 +19,8 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 https://stream.ads.ottera.tv/cl/240620cppoadas19ul5gqancg0/1280x720_3071200_0_f.m3u8?i=475_3134
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="PELICULAS", Pucallpa TV
 https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="PELICULAS",TNT
-http://170.82.37.21:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="PELICULAS",Terror
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="ANIME", Dreiko TV
