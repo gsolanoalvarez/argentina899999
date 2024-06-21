@@ -25,8 +25,8 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1 tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="ANIME", Locomotion
-http://85.239.54.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="ANIME", Lms canal
+https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIT3g1b.png" group-title="ANIME", Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="ANIME", Latino Kids
