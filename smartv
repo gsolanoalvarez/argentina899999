@@ -25,7 +25,7 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq66Brg.jpeg" group-title="ANIME", Max Anime
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="ANIME", Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="ANIME", Lms canal
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
