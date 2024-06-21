@@ -39,7 +39,7 @@ https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
 https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 #EXTINF:-1 tvg-name="Anime TV" tvg-id="" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="ANIME", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1  tvg-name="Taltal TV HD" tvg-id="" tvg-logo="https://i.imgur.com/QOBY5mL.jpeg" group-title="ANIME", Taltal TV
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="ANIME", Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-name="Telenorte" tvg-id="" tvg-logo="https://i.imgur.com/GmLQNep.png" group-title="ANIME", Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
@@ -57,7 +57,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://frecuenciamusicaltv.com/wp-content/uploads/2020/06/logowhiteGRANDE-1170x356.png" group-title="PELICULAS", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/re/public/logos/nexthd.webp?itok=tSUkMx6S" group-title="PELICULAS", Next HD
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="PELICULAS", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DHrNjwV.png" group-title="PELICULAS", Wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
