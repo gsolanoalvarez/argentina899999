@@ -11,11 +11,11 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.png" group-title="PERU", ipe tv
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eD79BLS.png" group-title="PELICULAS", Super Canal
+#EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="PELICULAS", Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2023/01/limcover-300x300.jpg.webp" group-title="PELICULAS", Lim tv
 https://stream.kirachan.tech/memfs/9c9ca194-11ad-4b7a-9048-4ba9668806ce_output_0.m3u8
-#EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png.webp" group-title="PELICULAS", Doble AA
+#EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="PELICULAS", Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="PELICULAS", Latinos kids
 https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
