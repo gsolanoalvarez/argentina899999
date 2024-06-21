@@ -25,8 +25,12 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq66Brg.jpeg" group-title="ANIME", Max Anime
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="ANIME", Lms canal
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://magickids.site/img/magickidslogo.webp" group-title="ANIME", MagicKids
+https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIT3g1b.png" group-title="ANIME", Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="ANIME", Latino Kids
@@ -77,6 +81,8 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UKHdD96.jpeg" group-title="CARTOON", Retro magico
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="CARTOON", Boing
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2
