@@ -61,7 +61,7 @@ https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="PELICULAS", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DHrNjwV.png" group-title="PELICULAS", Wow tv
+#EXTINF:-1 tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="PELICULAS", Wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
