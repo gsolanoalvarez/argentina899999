@@ -65,8 +65,18 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/exprezion-tv.png" group-title="PELICULAS", Exprezion TV
 https://vdochile.com:3774/live/cnrhiawklive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Z2prtK.png" group-title="PELICULAS", Big cine
+https://fl1001.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="CARTOON", Retroxtv
+https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg" group-title="CARTOON", Retro tv Palmares
 https://fl1001.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="CARTOON", Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldF213N.jpeg" group-title="CARTOON", Big Channell
+https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKHdD96.jpeg" group-title="CARTOON", Retro magico
+https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2
