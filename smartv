@@ -25,6 +25,8 @@ https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/gentv-digital.png" group-title="PELICULAS", Gen tv
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png" group-title="PELICULAS", NeoTV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
