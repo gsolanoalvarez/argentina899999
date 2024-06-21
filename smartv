@@ -15,15 +15,15 @@ https://live.obslivestream.com/supercanal/index.m3u8
 https://stream.kirachan.tech/memfs/9c9ca194-11ad-4b7a-9048-4ba9668806ce_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png.webp" group-title="PELICULAS", Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ikuw5sG.png" group-title="PELICULAS", Latinos kids
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="PELICULAS", Latinos kids
 https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="PELICULAS", Pucallpa TV
 https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="PELICULAS",Terror
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="PELICULAS",Terror
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N9XTG57.png" group-title="ANIME", Dreiko TV
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="ANIME", Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
@@ -33,9 +33,9 @@ https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIT3g1b.png" group-title="ANIME", Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="ANIME", Latino Kids
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="ANIME", Latino Kids
 https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UeIoh3b.png" group-title="ANIME", VariedTV
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="ANIME", VariedTV
 https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 #EXTINF:-1 tvg-name="Anime TV" tvg-id="" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="ANIME", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -73,6 +73,8 @@ https://vdochile.com:3774/live/cnrhiawklive.m3u8
 https://fl1001.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="CARTOON", Retroxtv
 https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/acs-network-tv.png" group-title="CARTOON", ACS Network TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w15460417.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg" group-title="CARTOON", Retro tv Palmares
 https://fl1001.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="CARTOON", Retro Cartoon
