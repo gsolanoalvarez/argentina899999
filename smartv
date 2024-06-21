@@ -35,7 +35,7 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://magickids.site/img/magickidslogo.webp" group-title="ANIME", MagicKids
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIT3g1b.png" group-title="ANIME", Pandamax
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/pandamax.png" group-title="ANIME", Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="ANIME", Latino Kids
 https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
@@ -47,8 +47,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-name="Telenorte" tvg-id="" tvg-logo="https://i.imgur.com/GmLQNep.png" group-title="ANIME", Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CVijpD6.png" group-title="ANIME", Magic
-https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="ANIME", Big TV
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Gogoplay TV" tvg-id="" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="ANIME", Gogoplay TV
