@@ -95,11 +95,11 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport.png" group-title="DEPORTES", ESPN 3
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/877/31/png-transparent-bristol-espn-inc-roku-watchespn-betis-television-text-trademark.png" group-title="DEPORTES", ESPN 5
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="DEPORTES", ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/877/31/png-transparent-bristol-espn-inc-roku-watchespn-betis-television-text-trademark.png" group-title="DEPORTES", ESPN 6
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="DEPORTES", ESPN 6
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/877/31/png-transparent-bristol-espn-inc-roku-watchespn-betis-television-text-trademark.png" group-title="DEPORTES", ESPN 7
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="DEPORTES", ESPN 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NknFWnx.png" group-title="DEPORTES", Real madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
