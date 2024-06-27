@@ -105,5 +105,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://toonkids.com/static/media/logo.b09ba5336c80bb677c85.png" group-title="INFANTIL", Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/2e64ecac-9138-4222-8ee9-82ae499eb827/2.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhOh74hzh59__tFQ-_3QF9NGsN2vjks4KURVjvhvznFP73Bto6OeUDUwiI4b2vmy91bqBP2fF4WqutxmCCLUSm8NQwLdziTC6J9O9xOvO0YazoQoORooTcyB8WA6Mf7oGPNEHUlPxR_f5-cQVuRbCP2juKAgQQht5YsKBtt5qp-gMlKXdYXhBLZAyZ5eafo=s1024" group-title="INFANTIL", magicclubtv
+https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b_output_0.m3u8?session=M8MQcJocj7mFWUUeqigKaZ
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="MUSICA", kPOP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
