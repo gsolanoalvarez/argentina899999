@@ -15,6 +15,8 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2023/01/limcover-300x300.jpg.webp" group-title="PELICULAS", Lim tv
 https://stream.kirachan.tech/memfs/9c9ca194-11ad-4b7a-9048-4ba9668806ce_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://pics.computerbase.de/1/0/8/5/0/6-fa57f2c11b3dc49e/article-1280x720.23985130.jpg" group-title="PELICULAS", wow movies
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="PELICULAS", Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="PELICULAS", Latinos kids
