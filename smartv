@@ -88,7 +88,7 @@ https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Chilevision kids" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="CARTOON", Chilevisual Kids
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-name="24-7 TV" tvg-logo="https://24-7tv.net/img/logo.png" group-title="CARTOON", 24-7 TV
-https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
+https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w1604421823.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="CARTOON", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.imgur.com/fvKyXVx.png" group-title="DEPORTES", ESPN
