@@ -13,8 +13,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-name="Super canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="PELICULAS", Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-name="lim tv" tvg-logo="https://serenotv.com/cargas/2023/01/limcover-300x300.jpg.webp" group-title="PELICULAS", Lim tv
-https://stream.kirachan.tech/memfs/9c9ca194-11ad-4b7a-9048-4ba9668806ce_output_0.m3u8
 #EXTINF:-1 tvg-name="Doble AA" tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="PELICULAS", Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-name="Pucalpa tv" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="PELICULAS", Pucallpa TV
