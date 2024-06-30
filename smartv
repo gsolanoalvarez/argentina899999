@@ -59,7 +59,7 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-name="Autonoma TV" tvg-id="" tvg-logo="https://neotv.cl/assets/img/channels/autonoma-tv.png" group-title="ANIME", Autonoma TV
 https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/chunks.m3u8
-#EXTINF:-1 tvg-name="Zaz TV" tvg-id="" tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="ANIME", Zaz TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="ANIME", Zaz TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/R72AS.png?rand=z1Ty4WBkUG" group-title="ANIME", funtv
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/index.m3u8
