@@ -51,7 +51,7 @@ https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="ANIME", Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-#EXTINF:-1 tvg-name="Telenorte" tvg-id="" tvg-logo="https://i.imgur.com/GmLQNep.png" group-title="ANIME", Telenorte
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLQNep.png" group-title="ANIME", Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="ANIME", Big TV
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
