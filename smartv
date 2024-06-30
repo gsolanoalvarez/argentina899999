@@ -15,8 +15,6 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-name="lim tv" tvg-logo="https://serenotv.com/cargas/2023/01/limcover-300x300.jpg.webp" group-title="PELICULAS", Lim tv
 https://stream.kirachan.tech/memfs/9c9ca194-11ad-4b7a-9048-4ba9668806ce_output_0.m3u8
-#EXTINF:-1 tvg-name="Wow movies" tvg-logo="https://pics.computerbase.de/1/0/8/5/0/6-fa57f2c11b3dc49e/article-1280x720.23985130.jpg" group-title="PELICULAS", wow movies
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-name="Doble AA" tvg-logo="https://dobleaamedios.com/recursos/logo.png" group-title="PELICULAS", Doble AA
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1 tvg-name="Pucalpa tv" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="PELICULAS", Pucallpa TV
@@ -25,8 +23,6 @@ https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-name="Gen tv" tvg-logo="https://neotv.cl/assets/img/channels/gentv-digital.png" group-title="PELICULAS", Gen tv
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-name="Neo tv" tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png" group-title="PELICULAS", Neo TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
@@ -61,7 +57,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/index.m3u8
 #EXTINF:-1 tvg-name="Chilevision kids" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="ANIME", Chilevisual Kids
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-#EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://frecuenciamusicaltv.com/wp-content/uploads/2020/06/logowhiteGRANDE-1170x356.png" group-title="PELICULAS", Frecuencia Musical TV
+#EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="PELICULAS", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-name="Next HD" tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="PELICULAS", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
