@@ -65,8 +65,8 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
 #EXTINF:-1 tvg-name="Monitos Tv" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 tvg-name="+Cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="PELICULAS", +Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-name="Chilevisual films" tvg-logo="https://i.imgur.com/evF0LTq.png" group-title="PELICULAS", Chilevisual films
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1363455142.m3u8
 #EXTINF:-1 tvg-name="Bayres Tv" tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png" group-title="PELICULAS", BayresTV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-name="Expresion Tv" tvg-logo="https://neotv.cl/assets/img/channels/exprezion-tv.png" group-title="PELICULAS", Exprezion TV
