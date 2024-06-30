@@ -55,8 +55,6 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/chunks.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="Fun tv" tvg-logo="https://i2.paste.pics/R72AS.png?rand=z1Ty4WBkUG" group-title="ANIME", funtv
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/index.m3u8
-#EXTINF:-1 tvg-name="Chilevision kids" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="ANIME", Chilevisual Kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="PELICULAS", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-name="Next HD" tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="PELICULAS", Next HD
@@ -84,6 +82,12 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8
 #EXTINF:-1 tvg-name="Big Channel" tvg-logo="https://i.imgur.com/ldF213N.jpeg" group-title="CARTOON", Big Channell
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/UKHdD96.jpeg" group-title="CARTOON", Retro magico
+https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Chilevisual retro" tvg-logo="https://chilevisual.live/canalretro/images/logo.png" group-title="CARTOON", chilevisual retro
+https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Chilevision kids" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="CARTOON", Chilevisual Kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-name="24-7 TV" tvg-logo="https://24-7tv.net/img/logo.png" group-title="CARTOON", 24-7 TV
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="CARTOON", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
