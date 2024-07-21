@@ -38,7 +38,7 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-name="Latino Kids" tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="ANIME", Latino Kids
 https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
 #EXTINF:-1 tvg-name="Varied tv" tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="ANIME", VariedTV
-https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="ANIME", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Talta tv" tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="ANIME", Taltal TV
