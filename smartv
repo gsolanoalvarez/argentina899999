@@ -22,7 +22,7 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-name="Gen tv" tvg-logo="https://neotv.cl/assets/img/channels/gentv-digital.png" group-title="PELICULAS", Gen tv
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+https://comunidadtv.site:3119/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="ANIME", Ani Retro
