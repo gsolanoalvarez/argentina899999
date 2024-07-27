@@ -48,5 +48,15 @@
         "name": "HBO",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VoQ1QxOUlSRjlOV0NrdmJXRnVhV1psYzNRdWJYQmsmazE9TWpSak1tRTBaR1k0WlRoa1pHUXhOelkyTmpGallUWmxNR1EyTVdJeU5tST0mazI9WWpGaU1UTTRPRGxtTnpGaE9UWTVNREpqTWpnMU9ESXpNREl4TmpOaE5XTT0=",
         "image-url": "https://cabletvhd.xyz/img/HBO.png"
+    },
+    {
+        "name": "Adult Swim",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tL2FkdWx0LXN3aW0ucGhw",
+        "image-url": "https://cabletvhd.xyz/img/adult-swim.png"
+    }
+    {
+        "name": "Universal Cinema",
+        "vurl": "https://clarovideo.rawases.com/?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFVOSVZFUlNBTF9DSU5FTUFfSEQpL21hbmlmZXN0Lm1wZA==&k1=NjZlZTgxZmViZTc2ODg3NWFlMmZlZTViOGY1MTJlMTU=&k2=NTQ4ODI2OTQ3MzQ4NzRmMjgwMjU5ZmI4YjY3NjZhYjM=",
+        "image-url": "https://cabletvhd.xyz/img/UniversalCinema.png"
     }
 ]
