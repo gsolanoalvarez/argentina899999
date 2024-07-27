@@ -13,5 +13,40 @@
         "name": "Cine canal ",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VOSlRrVkRRVTVCVEY5SVJDa3ZiV0Z1YVdabGMzUXViWEJrJmsxPVpqWTNZekpqT1RNMllUUXlaVFF6TmpWa05tRTBObVZrTVROalpETTJPVEE9JmsyPU1qVmpOekZqT1RJM1lqRXdPR1V5TjJKa016UmpNR0kzTW1WbE1tTmxPVFk9",
         "image-url": "https://cabletvhd.xyz/img/Cinecanal.png"
+    },
+    {
+        "name": "A&E",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VGRlgwMVZUa1JQWDBoRUtTOXRZVzVwWm1WemRDNXRjR1E9JmsxPU5qVTBNemt4T0RobVpUZ3hPVFkyTjJKaE16RTNNekZtTlRsak4yTXlPR0k9JmsyPU1ERXhaV1pqWWpnMlpHTXdZek16Tm1NeFltSTJNV1EyTURKak56RTJPVEU9",
+        "image-url": "https://cabletvhd.xyz/img/A&E.png"
+    },
+    {
+        "name": "TNT",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZST1ZGOUlSQ2t2YldGdWFXWmxjM1F1YlhCayZrMT1ZVGN6T0Rnek5UQmxZalUwWVRrME9HWmtNakl3TVRZeE5URTFaamcxTkRZPSZrMj1aVFprTWpJM056ZG1abUUzWWpObVl6QTBPVE5qT0RSallXRTVZMll6WmpVPQ==",
+        "image-url": "https://cabletvhd.xyz/img/TNT.webp"
+    },
+    {
+        "name": "FX",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VaWVgwaEVLUzl0WVc1cFptVnpkQzV0Y0dRPSZrMT1ObVUyTnpkbFpXUXpaR05oTkdJMU1UWTJOMk0zTXpoaFpHUmlZMkl5TldFPSZrMj1ZVGcyTkRNeE5tSXhNalJtTVdJNE5qWmlOMk5oTnpReU5EWmtNV1UxT1RBPQ==",
+        "image-url": "https://cabletvhd.xyz/img/FX.png"
+    },
+    {
+        "name": "Paramount",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZCQlVrRk5UMVZPVkY5SVJDa3ZiV0Z1YVdabGMzUXViWEJrJmsxPVlUSTRabVJsTmprd09HVXdZakJrTURNeE16STBPVGcyTmpFM1pEWTVZVE09JmsyPU1EazFZakkzT0dObVpUWTFZVFZsTkRZM1lqbG1NbUUyT1ROa1lqQmtNVEk9",
+        "image-url": "https://cabletvhd.xyz/img/Paramount_Network.png"
+    },
+    {
+        "name": "Universal TV",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZWT1NWWkZVbE5CVEY5RFNFRk9Ua1ZNWDBoRUtTOXRZVzVwWm1WemRDNXRjR1E9JmsxPU9UWXpPRGhtT1dNNVkySmpOek5rTkRJMU5tRTVOemszTkdZNVlUSmhaV1k9JmsyPVl6SmpaREU1WXpKbE56TmpPR0kzWkRaak16ZzBZbUUzTkRVeE5qRTBORFE9",
+        "image-url": "https://cabletvhd.xyz/img/UniversalTV.png"
+    },
+    {
+        "name": "Studio Universal",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZOVVZVUkpUMTlWVGtsV1JWSlRRVXhmU0VRcEwyMWhibWxtWlhOMExtMXdaQT09JmsxPU9XRXdOekpsWVdReVpEQXhZVFUwTlRoaE5XWm1aV1ZqWmprM056VTRNVFk9JmsyPU1UTTNZbVppWm1KbVpXUXpOalF4T1dNNFpURmtObVUyTVRsbFkyVmtPR1E9",
+        "image-url": "https://cabletvhd.xyz/img/StudioUniversal.png?up"
+    },
+    {
+        "name": "HBO",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VoQ1QxOUlSRjlOV0NrdmJXRnVhV1psYzNRdWJYQmsmazE9TWpSak1tRTBaR1k0WlRoa1pHUXhOelkyTmpGallUWmxNR1EyTVdJeU5tST0mazI9WWpGaU1UTTRPRGxtTnpGaE9UWTVNREpqTWpnMU9ESXpNREl4TmpOaE5XTT0=",
+        "image-url": "https://cabletvhd.xyz/img/HBO.png"
     }
 ]
