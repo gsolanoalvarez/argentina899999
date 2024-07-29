@@ -73,5 +73,25 @@
         "name": "Discovery Channel",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VSSlUwTlBWa1ZTV1Y5RFNFRk9Ua1ZNWDBoRUtTOXRZVzVwWm1WemRDNXRjR1E9JmsxPVpUZGtORE0wT0RRd04ySm1PRFprT1RneU1EYzJabUl3Wm1aaE5qVTBaVFk9JmsyPU9EQmhZMk0xTkdRell6VTJaV1F3Tnpjd1l6Um1NVEptT1RGaU5UTmlOamc9",
         "image-url": "https://cabletvhd.xyz/img/Discovery.png"
+    },
+    {
+        "name": "History Channel",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VoSlUxUlBVbGxmUTBoQlRrNUZURjlJUkNrdmJXRnVhV1psYzNRdWJYQmsmazE9WW1SaU56RTNNV0U0T1dJeU1XRm1abUZoWW1OaVptSTRZell3TmpWaU5EST0mazI9WldObU16SmxZVFV6T1dZME1qQTVaall5WXpaaU9UWmlOR0kzWlRkbU1ETT0=",
+        "image-url": "https://cabletvhd.xyz/img/History-Channel.png"
+    },
+    {
+        "name": "Animal Planet",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VGT1NVMUJURjlRVEVGT1JWUmZTRVFwTDIxaGJtbG1aWE4wTG0xd1pBPT0mazE9T1RVMFlqZzVZVFExTXpkalpEQmtNVFV3WVdZMk1XTTRPREEwTmpjek56Zz0mazI9WmpRMU9URTBZMlkwTURBM1pqaGlPV1V6TjJaa01HUmtNRFZpTlRsbVlXRT0=",
+        "image-url": "https://cabletvhd.xyz/img/Animal_Planet.png"
+    },
+    {
+        "name": "National Geographic",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0U1QlZFZEZUMTlJUkNrdmJXRnVhV1psYzNRdWJYQmsmazE9WWpsak1qQmtZV00xWW1KbFlUVmxNemMxWVRFMFpqZ3lObUptTW1NMk9EVT0mazI9WkRnMFpEa3dNVGt6WWpFNU1tRXpOakEwWmpReFkyWTBZekl4TTJSaFpEYz0=",
+        "image-url": "https://cabletvhd.xyz/img/Natgeo.png"
+    },
+    {
+        "name": "Nick",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0U1SlEwdEZURTlFUlU5T1gwaEVLUzl0WVc1cFptVnpkQzV0Y0dRPSZrMT1aVFkxWm1ZeU9EaGlNRE15WldNMVpXRTNNR1JsWlRReU16QmlZVEEwT0RBPSZrMj1PVEF5WldZeVpHVXlaams1Wmpoa1pHWmpNR1E0WkRWbFlqSTJNV1U0WldFPQ==",
+        "image-url": "https://cabletvhd.xyz/img/Nick.png"
     }
 ]
