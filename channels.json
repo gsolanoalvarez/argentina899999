@@ -93,5 +93,15 @@
         "name": "Nick",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0U1SlEwdEZURTlFUlU5T1gwaEVLUzl0WVc1cFptVnpkQzV0Y0dRPSZrMT1aVFkxWm1ZeU9EaGlNRE15WldNMVpXRTNNR1JsWlRReU16QmlZVEEwT0RBPSZrMj1PVEF5WldZeVpHVXlaams1Wmpoa1pHWmpNR1E0WkRWbFlqSTJNV1U0WldFPQ==",
         "image-url": "https://cabletvhd.xyz/img/Nick.png"
+    },
+    {
+        "name": "Cartoon Network",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VOQlVsUlBUMDVmVGtWVVYwOVNTMTlJUkNrdmJXRnVhV1psYzNRdWJYQmsmazE9TTJFNE1qZG1OMlpsWkdVME5HUTRaRGszTTJOaVltRmhZakJqTURnNVl6QT0mazI9WmpreFpXVmlNMk0zWXpFeVpEa3pPVEUwTXpSa1l6YzVZVGczTW1Nd1lqaz0=",
+        "image-url": "https://cabletvhd.xyz/img/cartoon.png"
+    },
+    {
+        "name": "Tooncast",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZSUFQwNURRVk5VS1M5dFlXNXBabVZ6ZEM1dGNHUWcmazE9WkRabU1EQXpPREZqWXpGaE5UZzJOamhoTVRGbE1tRXpaVEJtTWpCbVpEaz0mazI9Wm1NNE1UZGtORFZoWmpWa1kyVXpNMk5pWWpjNU56a3pNakkwWWpnek5HTT0=",
+        "image-url": "https://cabletvhd.xyz/img/tooncast.png"
     }
 ]
