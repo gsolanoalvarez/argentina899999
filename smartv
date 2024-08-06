@@ -21,7 +21,7 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_0,y_151,w_1280,h_392/fill/w_155,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="ANIME", Vision tv
+#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_29,y_150,w_1186,h_380/fill/w_706,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Visiontv%202_0_00077.png" group-title="ANIME", Vision tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
