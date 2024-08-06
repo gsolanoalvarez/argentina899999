@@ -21,7 +21,7 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_29,y_150,w_1186,h_380/fill/w_706,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Visiontv%202_0_00077.png" group-title="ANIME", Vision tv
+#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://i.imgur.com/LGfSdyr.png" group-title="ANIME", Vision tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
@@ -71,7 +71,7 @@ https://fl1002.bozztv.com/ssh101/streamlatacungatv/tracks-v1a1/mono.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-name="Expresion Tv" tvg-logo="https://neotv.cl/assets/img/channels/exprezion-tv.png" group-title="PELICULAS", Exprezion TV
 https://vdochile.com:3774/live/cnrhiawklive.m3u8
-#EXTINF:-1 tvg-name="Totovision" tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png/v1/fill/w_381,h_381,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/totovision.png" group-title="PELICULAS", Totovision
+#EXTINF:-1 tvg-name="Totovision" tvg-logo="https://i.imgur.com/kshkuxd.png" group-title="PELICULAS", Totovision
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="CARTOON", Retroxtv
 https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
@@ -89,8 +89,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/UKHdD96.jpeg" group-title="CARTOON", Retro magico
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_0,y_151,w_1280,h_392/fill/w_155,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="ANIME", Vision tv
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="CARTOON", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.imgur.com/fvKyXVx.png" group-title="DEPORTES", ESPN
