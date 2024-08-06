@@ -13,8 +13,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-name="Super canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="PELICULAS", Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-name="Cine mundo" tvg-logo="https://cdn.vaughnsoft.net/profile/1721538217/cinemundo_0.jpg" group-title="PELICULAS", Cine mundo
-https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv
 #EXTINF:-1 tvg-name="Mega cine" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="PELICULAS", Mega cine
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="terror" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="PELICULAS",Terror
@@ -22,7 +20,7 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-name="Gen tv" tvg-logo="https://neotv.cl/assets/img/channels/gentv-digital.png" group-title="PELICULAS", Gen tv
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
-https://comunidadtv.site:3119/live/aniplustvlive.m3u8
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="ANIME", Ani Retro
