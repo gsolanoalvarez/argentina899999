@@ -21,6 +21,8 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_0,y_151,w_1280,h_392/fill/w_155,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="ANIME", Vision tv
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="ANIME", Ani Retro
@@ -55,22 +57,28 @@ https://ssh101-fl.bozztv.com/ssh101/funtvretro/index.m3u8
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-name="Big Movies" tvg-logo="https://i.imgur.com/0Z2prtK.png" group-title="PELICULAS", Big cine
 https://fl1001.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Chilevisual films" tvg-logo="https://i.imgur.com/evF0LTq.png" group-title="PELICULAS", Chilevisual films
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/chunklist_w1363455142.m3u8
+#EXTINF:-1 tvg-name="Chilevisual films" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="PELICULAS", Diti tv
+https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Monitos Tv" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-name="Next HD" tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="PELICULAS", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-name="Wow tv" tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="PELICULAS", Wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
+#EXTINF:-1 tvg-name="24-7 TV" tvg-logo="https://www.latacungatv.com/images/logo.png" group-title="PELICULAS", Latacunga tv
+https://fl1002.bozztv.com/ssh101/streamlatacungatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bayres Tv" tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png" group-title="PELICULAS", BayresTV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-name="Expresion Tv" tvg-logo="https://neotv.cl/assets/img/channels/exprezion-tv.png" group-title="PELICULAS", Exprezion TV
 https://vdochile.com:3774/live/cnrhiawklive.m3u8
+#EXTINF:-1 tvg-name="Totovision" tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png/v1/fill/w_381,h_381,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/totovision.png" group-title="PELICULAS", Totovision
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="CARTOON", Retroxtv
 https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/150px-Logomagic96.png" group-title="CARTOON", Magic Kids Ar
 https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.hispanatv.com/img/tv/maxcartoon.jpg" group-title="CARTOON", Max Cartoons
+https://fl1002.bozztv.com/ssh101/visionamerica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ACS Network Tv" tvg-logo="https://neotv.cl/assets/img/channels/acs-network-tv.png" group-title="CARTOON", ACS Network TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w15460417.m3u8
 #EXTINF:-1 tvg-name="Retro Tv Palmares" tvg-logo="https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg" group-title="CARTOON", Retro tv Palmares
@@ -81,12 +89,8 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/UKHdD96.jpeg" group-title="CARTOON", Retro magico
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Chilevisual retro" tvg-logo="https://chilevisual.live/canalretro/images/logo.png" group-title="CARTOON", chilevisual retro
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/chunklist_w2111783898.m3u8
-#EXTINF:-1 tvg-name="Chilevision kids" tvg-logo="https://i.imgur.com/PdbAhdR.png" group-title="CARTOON", Chilevisual Kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-#EXTINF:-1 tvg-name="24-7 TV" tvg-logo="https://24-7tv.net/img/logo.png" group-title="CARTOON", 24-7 TV
-https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w1604421823.m3u8
+#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://static.wixstatic.com/media/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png/v1/crop/x_0,y_151,w_1280,h_392/fill/w_155,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7acae1_792d6a3204f84355989fa200f2ad11b0~mv2.png" group-title="ANIME", Vision tv
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="CARTOON", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.imgur.com/fvKyXVx.png" group-title="DEPORTES", ESPN
