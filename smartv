@@ -51,8 +51,6 @@ https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="Fanpop TV" tvg-logo="https://neotv.cl/assets/img/channels/fanpop-tv.png" group-title="ANIME", Fanpop TV
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8
-#EXTINF:-1 tvg-name="Fun tv" tvg-logo="https://i2.paste.pics/R72AS.png?rand=z1Ty4WBkUG" group-title="ANIME", funtv
-https://ssh101-fl.bozztv.com/ssh101/funtvretro/index.m3u8
 #EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="PELICULAS", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-name="Big Movies" tvg-logo="https://i.imgur.com/0Z2prtK.png" group-title="PELICULAS", Big cine
@@ -75,7 +73,7 @@ https://vdochile.com:3774/live/cnrhiawklive.m3u8
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="CARTOON", Retroxtv
 https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/150px-Logomagic96.png" group-title="CARTOON", Magic Kids Ar
+#EXTINF:-1 tvg-name="Magic Kids Ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/150px-Logomagic96.png" group-title="CARTOON", Magic Kids Ar
 https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Max Cartoons" tvg-logo="https://www.hispanatv.com/img/tv/maxcartoon.jpg" group-title="CARTOON", Max Cartoons
 https://fl1002.bozztv.com/ssh101/visionamerica/tracks-v1a1/mono.m3u8
