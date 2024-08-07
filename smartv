@@ -23,7 +23,7 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://i.imgur.com/LGfSdyr.png" group-title="ANIME", Vision tv
+#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://i.imgur.com/LGfSdyr.png" group-title="PELICULAS", Vision tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
@@ -57,7 +57,7 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-name="Big Movies" tvg-logo="https://i.imgur.com/0Z2prtK.png" group-title="PELICULAS", Big cine
 https://fl1001.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Diti tv" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="PELICULAS", Diti tv
+#EXTINF:-1 tvg-name="Diti tv" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="CARTOON", Diti tv
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Monitos Tv" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
