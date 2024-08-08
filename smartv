@@ -59,6 +59,8 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 https://fl1001.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Diti tv" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="CARTOON", Diti tv
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="MDA tv" tvg-logo="https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png" group-title="CARTOON", MDA tv
+https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8
 #EXTINF:-1 tvg-name="Monitos Tv" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-name="Next HD" tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="PELICULAS", Next HD
