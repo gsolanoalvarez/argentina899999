@@ -23,6 +23,8 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="NightTime" tvg-logo="https://i.imgur.com/ssSg3Jq.png" group-title="ANIME", NightTime
+https://mitv.zplay.cl/NightTime/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://i.imgur.com/LGfSdyr.png" group-title="PELICULAS", Vision tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
@@ -113,7 +115,5 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid tv" tvg-logo="https://i.imgur.com/NknFWnx.png" group-title="DEPORTES", Real madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="magiclubtv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhOh74hzh59__tFQ-_3QF9NGsN2vjks4KURVjvhvznFP73Bto6OeUDUwiI4b2vmy91bqBP2fF4WqutxmCCLUSm8NQwLdziTC6J9O9xOvO0YazoQoORooTcyB8WA6Mf7oGPNEHUlPxR_f5-cQVuRbCP2juKAgQQht5YsKBtt5qp-gMlKXdYXhBLZAyZ5eafo=s1024" group-title="INFANTIL", magicclubtv
-https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b_output_0.m3u8
 #EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="MUSICA", kPOP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
