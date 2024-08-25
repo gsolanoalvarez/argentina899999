@@ -15,6 +15,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 #EXTINF:-1 tvg-name="Super canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="PELICULAS", Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-name="Origen TV" tvg-logo="https://neotv.cl/assets/img/channels/origentv.png" group-title="PELICULAS", Origen TV
+https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Mega cine" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="PELICULAS", Mega cine
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="terror" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="PELICULAS",Terror
