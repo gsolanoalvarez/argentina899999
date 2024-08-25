@@ -56,13 +56,18 @@
     },
     {
         "name": "Universal TV",
-        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZWT1NWWkZVbE5CVEY5RFNFRk9Ua1ZNWDBoRUtTOXRZVzVwWm1WemRDNXRjR1E9JmsxPU9UWXpPRGhtT1dNNVkySmpOek5rTkRJMU5tRTVOemszTkdZNVlUSmhaV1k9JmsyPVl6SmpaREU1WXpKbE56TmpPR0kzWkRaak16ZzBZbUUzTkRVeE5qRTBORFE9",
+        "vurl": "https://www.vtvcable.com/mpd.php?id=universalchannel&lang=1",
         "image-url": "https://cabletvhd.xyz/img/UniversalTV.png"
     },
     {
         "name": "Studio Universal",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZOVVZVUkpUMTlWVGtsV1JWSlRRVXhmU0VRcEwyMWhibWxtWlhOMExtMXdaQT09JmsxPU9XRXdOekpsWVdReVpEQXhZVFUwTlRoaE5XWm1aV1ZqWmprM056VTRNVFk9JmsyPU1UTTNZbVppWm1KbVpXUXpOalF4T1dNNFpURmtObVUyTVRsbFkyVmtPR1E9",
         "image-url": "https://cabletvhd.xyz/img/StudioUniversal.png?up"
+    },
+    {
+        "name": "Warner",
+        "vurl": "https://www.vtvcable.com/mpd.php?id=warner&lang=1",
+        "image-url": "https://www.vertvcable.com/wp-content/uploads/2022/02/warnerb-150x150.jpg"
     },
     {
         "name": "HBO",
