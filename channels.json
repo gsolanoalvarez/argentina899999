@@ -10,6 +10,16 @@
         "image-url": "https://i.imgur.com/Q8fAKbJ.png"
     },
     {
+        "name": "VoiceOver",
+        "vurl": "https://cloudvideo.servers10.com/VideoPlayer/8198",
+        "image-url": "https://neotv.cl/assets/img/channels/voiceOver-radiotv.png"
+    },
+    {
+        "name": "NeoTV",
+        "vurl": "https://esenvivo.com.ar/neotvdigital/#/?playlistId=0&videoId=0",
+        "image-url": "https://neotv.cl/assets/img/channels/neotv-digital.png"
+    },
+    {
         "name": "Cinemax",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VOSlRrVk5RVmhmU0VRcEwyMWhibWxtWlhOMExtMXdaQT09JmsxPVpUZzFNemcxTmprek1qZzFNV1JpWlRjNFpEQmtPVFJtWkdZeU9UWm1aV1U9JmsyPU9UTTJPVEJrWW1Ka05UZzROR1ZqWkRSaU9ERmxPVGc0TUdNNE1qbGlNV1k9",
         "image-url": "https://cabletvhd.xyz/img/Cinemax.webp"
