@@ -3,17 +3,17 @@
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/willax.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Latina tv" tvg-logo="https://i.ibb.co/MSbcB3q/Logotipo-de-Latina-Televisi-n-svg-1.webp" group-title="PERU", Latina TV
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-name="America tv" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", América TV
+#EXTINF:-1 tvg-name="America tv" tvg-logo="https://i.ibb.co/Vx5QY8Y/1194.webp" group-title="PERU", América TV
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Señal Perú TV" tvg-logo="https://i.ibb.co/5rFfyjC/z-QGwh-Uv-removebg-preview.webp" group-title="PERU", Señal Perú TV
 https://livestream.perucast.com/low/stream_low/index.m3u8
-#EXTINF:-1 tvg-name="Mega tv jaen" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="PERU", Mega tv jaen
+#EXTINF:-1 tvg-name="Mega tv jaen" tvg-logo="https://i.ibb.co/qY3MsgC/cropped-megajaen.webp" group-title="PERU", Mega tv jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", ATV
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.ibb.co/B3sMDfJ/1200px-ATV-logo-2020.webp" group-title="PERU", ATV
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
-#EXTINF:-1 tvg-name="Global tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/170px-Global_logo_2019.png" group-title="PERU", Global Televisión
+#EXTINF:-1 tvg-name="Global tv" tvg-logo="https://i.ibb.co/NY1zghQ/Global-logo-2019-removebg-preview.webp" group-title="PERU", Global Televisión
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
-#EXTINF:-1 tvg-name="Super canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="PELICULAS", Super Canal
+#EXTINF:-1 tvg-name="Super canal" tvg-logo="https://i.ibb.co/3pB4xsR/logoheader.webp" group-title="PELICULAS", Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-name="Origen TV" tvg-logo="https://neotv.cl/assets/img/channels/origentv.png" group-title="PELICULAS", Origen TV
 https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
