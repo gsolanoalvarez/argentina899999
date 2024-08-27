@@ -53,16 +53,12 @@ https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="PELICULAS", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
-#EXTINF:-1 tvg-name="Big Movies" tvg-logo="https://i.imgur.com/0Z2prtK.png" group-title="PELICULAS", Big cine
-https://fl1001.bozztv.com/ssh101/canalonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Diti tv" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="CARTOON", Diti tv
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MDA tv" tvg-logo="https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png" group-title="CARTOON", MDA tv
 https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8
 #EXTINF:-1 tvg-name="Monitos Tv" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 tvg-name="Next HD" tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="PELICULAS", Next HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-name="Wow tv" tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="PELICULAS", Wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
 #EXTINF:-1 tvg-name="Latacunga tv" tvg-logo="https://www.latacungatv.com/images/logo.png" group-title="PELICULAS", Latacunga tv
