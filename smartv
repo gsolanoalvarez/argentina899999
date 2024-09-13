@@ -28,7 +28,7 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://i.imgur.com/LGfSdyr.png" group-title="PELICULAS", Vision tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="ANIME", Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="ANIME", Locomotion
