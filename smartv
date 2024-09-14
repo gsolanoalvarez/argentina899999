@@ -61,14 +61,6 @@ https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-name="Wow tv" tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="PELICULAS", Wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
-#EXTINF:-1 tvg-name="Latacunga tv" tvg-logo="https://www.latacungatv.com/images/logo.png" group-title="PELICULAS", Latacunga tv
-https://fl1002.bozztv.com/ssh101/streamlatacungatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Bayres Tv" tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png" group-title="PELICULAS", BayresTV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-name="Expresion Tv" tvg-logo="https://neotv.cl/assets/img/channels/exprezion-tv.png" group-title="PELICULAS", Exprezion TV
-https://vdochile.com:3774/live/cnrhiawklive.m3u8
-#EXTINF:-1 tvg-name="Totovision" tvg-logo="https://i.imgur.com/kshkuxd.png" group-title="PELICULAS", Totovision
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="CARTOON", Retroxtv
 https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Magic Kids Ar" tvg-logo="https://magickids.site/img/magickidslogo.webp" group-title="CARTOON", Magic Kids
@@ -105,5 +97,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid tv" tvg-logo="https://i.imgur.com/NknFWnx.png" group-title="DEPORTES", Real madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="INTERCONNECT TV" tvg-logo="https://meganettv.fun/storage/channel-logos/KdKXiiiKWty5f5piOh4JAs9wse9cX6mWAI1FhDz3.jpg" group-title="INTERNACIONAL", INTERCONNECT TV
+https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="MUSICA", kPOP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
