@@ -41,9 +41,11 @@ https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="ANIME", Locomotion
 http://85.239.54.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1 tvg-name="magic kids ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="ANIME", magic kids ar
+https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="LMS" tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="ANIME", Lms canal
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
-#EXTINF:-1 tvg-name="Pandamax" tvg-logo="https://neotv.cl/assets/img/channels/pandamax.png" group-title="ANIME", Pandamax
+#EXTINF:-1 tvg-name="Pandamax" tvg-logo="https://neotv.cl/assets/img/channels/hex.png" group-title="ANIME", Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-name="Latino Kids" tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="ANIME", Latino Kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
@@ -107,3 +109,5 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="MUSICA", kPOP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="MUSICA", Planetatv
+https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8
