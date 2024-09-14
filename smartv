@@ -61,6 +61,8 @@ https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="PELICULAS", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+#EXTINF:-1 tvg-name="classicchannel" tvg-logo="https://www.classicchannel.digital/img/logo-radio.png" group-title="CARTOON", classicchannel
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="Diti tv" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="CARTOON", Diti tv
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MDA tv" tvg-logo="https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png" group-title="CARTOON", MDA tv
