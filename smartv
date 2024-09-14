@@ -13,6 +13,14 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 #EXTINF:-1 tvg-name="Global tv" tvg-logo="https://i.ibb.co/GVJHNrD/Global-logo-2019-removebg-preview.webp" group-title="PERU", Global Televisión
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
+#EXTINF:-1 tvg-name="geniostv" tvg-logo="https://i.ibb.co/KLcszMd/logo.webp" group-title="PERU", geniostv
+https://live.obslivestream.com/geniostvmux/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="radioimpactodecajamarca" tvg-logo="https://i.ibb.co/PNC2vJJ/header2-min-removebg-preview.webp" group-title="PERU", radioimpactodecajamarca
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="viaaltomayotv" tvg-logo="https://i.ibb.co/pX8Y1FT/Logo-c7e-355.webp" group-title="PERU", viaaltomayotv
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="planetatv" tvg-logo="https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp" group-title="PELICULAS", planetatv
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="+CINE" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png" group-title="PELICULAS", +CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-name="Super canal" tvg-logo="https://i.ibb.co/3pB4xsR/logoheader.webp" group-title="PELICULAS", Super Canal
