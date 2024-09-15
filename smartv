@@ -1,123 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Willax tv" tvg-id="" tvg-logo="https://i.ibb.co/SypKpLq/willax-tv2-removebg-preview.webp" group-title="PERU", Willax TV
+#EXTINF:-1 tvg-name="Willax tv" tvg-id="" tvg-logo="https://i.ibb.co/SypKpLq/willax-tv2-removebg-preview.webp" group-title="Peru", Willax TV
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/willax.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Latina tv" tvg-logo="https://i.ibb.co/MSbcB3q/Logotipo-de-Latina-Televisi-n-svg-1.webp" group-title="PERU", Latina TV
+#EXTINF:-1 tvg-name="Latina tv" tvg-logo="https://i.ibb.co/MSbcB3q/Logotipo-de-Latina-Televisi-n-svg-1.webp" group-title="Peru", Latina TV
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-name="America tv" tvg-logo="https://i.ibb.co/Vx5QY8Y/1194.webp" group-title="PERU", América TV
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Señal Perú TV" tvg-logo="https://i.ibb.co/5rFfyjC/z-QGwh-Uv-removebg-preview.webp" group-title="PERU", Señal Perú TV
+#EXTINF:-1 tvg-name="Señal Perú TV" tvg-logo="https://i.ibb.co/5rFfyjC/z-QGwh-Uv-removebg-preview.webp" group-title="Peru", Señal Perú TV
 https://livestream.perucast.com/low/stream_low/index.m3u8
-#EXTINF:-1 tvg-name="Mega tv jaen" tvg-logo="https://i.ibb.co/QJdxfFb/cropped-megajaen.webp" group-title="PERU", Mega tv jaen
+#EXTINF:-1 tvg-name="Mega tv jaen" tvg-logo="https://i.ibb.co/QJdxfFb/cropped-megajaen.webp" group-title="Peru", Mega tv jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.ibb.co/B3sMDfJ/1200px-ATV-logo-2020.webp" group-title="PERU", ATV
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.ibb.co/B3sMDfJ/1200px-ATV-logo-2020.webp" group-title="Peru", ATV
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
-#EXTINF:-1 tvg-name="Global tv" tvg-logo="https://i.ibb.co/GVJHNrD/Global-logo-2019-removebg-preview.webp" group-title="PERU", Global Televisión
+#EXTINF:-1 tvg-name="Global tv" tvg-logo="https://i.ibb.co/GVJHNrD/Global-logo-2019-removebg-preview.webp" group-title="Peru", Global Televisión
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
-#EXTINF:-1 tvg-name="geniostv" tvg-logo="https://i.ibb.co/KLcszMd/logo.webp" group-title="PERU", geniostv
+#EXTINF:-1 tvg-name="geniostv" tvg-logo="https://i.ibb.co/KLcszMd/logo.webp" group-title="Peru", geniostv
 https://live.obslivestream.com/geniostvmux/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="radioimpactodecajamarca" tvg-logo="https://i.ibb.co/PNC2vJJ/header2-min-removebg-preview.webp" group-title="PERU", radioimpactodecajamarca
+#EXTINF:-1 tvg-name="radioimpactodecajamarca" tvg-logo="https://i.ibb.co/PNC2vJJ/header2-min-removebg-preview.webp" group-title="Peru", radioimpactodecajamarca
 https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="viaaltomayotv" tvg-logo="https://i.ibb.co/pX8Y1FT/Logo-c7e-355.webp" group-title="PERU", viaaltomayotv
+#EXTINF:-1 tvg-name="viaaltomayotv" tvg-logo="https://i.ibb.co/pX8Y1FT/Logo-c7e-355.webp" group-title="Peru", viaaltomayotv
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="planetatv" tvg-logo="https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp" group-title="PELICULAS", planetatv
+#EXTINF:-1 tvg-name="planetatv" tvg-logo="https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp" group-title="Peliculas", planetatv
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="+CINE" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png" group-title="PELICULAS", +CINE
+#EXTINF:-1 tvg-name="+CINE" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png" group-title="Peliculas", +CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-name="Super canal" tvg-logo="https://i.ibb.co/3pB4xsR/logoheader.webp" group-title="PELICULAS", Super Canal
+#EXTINF:-1 tvg-name="Super canal" tvg-logo="https://i.ibb.co/3pB4xsR/logoheader.webp" group-title="Peliculas", Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-name="Origen TV" tvg-logo="https://i.ibb.co/9TZPqs1/origentv.webp" group-title="PELICULAS", Origen TV
+#EXTINF:-1 tvg-name="Origen TV" tvg-logo="https://i.ibb.co/9TZPqs1/origentv.webp" group-title="Peliculas", Origen TV
 https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Mega cine" tvg-logo="https://i.ibb.co/H4Hxv9B/2893-294x165-FFFFFF-11zon.webp" group-title="PELICULAS", Mega cine
+#EXTINF:-1 tvg-name="Mega cine" tvg-logo="https://i.ibb.co/H4Hxv9B/2893-294x165-FFFFFF-11zon.webp" group-title="Peliculas", Mega cine
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="terror" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="PELICULAS",Terror
+#EXTINF:-1 tvg-name="terror" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="Peliculas",Terror
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
-#EXTINF:-1 tvg-name="Mega tv" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="PELICULAS", Mega tv
+#EXTINF:-1 tvg-name="Mega tv" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Peliculas", Mega tv
 https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://i.imgur.com/LGfSdyr.png" group-title="PELICULAS", Vision tv
+#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://i.imgur.com/LGfSdyr.png" group-title="Peliculas", Vision tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-name="Monitos Tv" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="PELICULAS", Monitos tv
+#EXTINF:-1 tvg-name="Monitos Tv" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Peliculas", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 tvg-name="Wow tv" tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="PELICULAS", Wow tv
+#EXTINF:-1 tvg-name="Wow tv" tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="Peliculas", Wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
-#EXTINF:-1 tvg-name="LATINA Internacional TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-294x165-FFFFFF.jpg" group-title="PELICULAS", LATINA Internacional TV
+#EXTINF:-1 tvg-name="LATINA Internacional TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-294x165-FFFFFF.jpg" group-title="Peliculas", LATINA Internacional TV
 https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8
-#EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="ANIME", Dreiko TV
-https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Max Anime" tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="ANIME", Max Anime
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="ANIME", Locomotion
-http://85.239.54.197:81/live/loco_hi/index.m3u8
-#EXTINF:-1 tvg-name="magic kids ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="ANIME", magic kids ar
-https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="LMS" tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="ANIME", Lms canal
-https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
-#EXTINF:-1 tvg-name="Pandamax" tvg-logo="https://neotv.cl/assets/img/channels/hex.png" group-title="ANIME", Pandamax
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-name="Latino Kids" tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="ANIME", Latino Kids
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-#EXTINF:-1 tvg-name="Varied tv" tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="ANIME", VariedTV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="ANIME", Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Talta tv" tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="ANIME", Taltal TV
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-#EXTINF:-1 tvg-name="Big tv" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="ANIME", Big TV
-https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="ANIME", Gogoplay TV
-https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 tvg-name="Zaz Tv" tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="ANIME", Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="PELICULAS", Frecuencia Musical TV
+#EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="Peliculas", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
-#EXTINF:-1 tvg-name="classicchannel" tvg-logo="https://www.classicchannel.digital/img/logo-radio.png" group-title="CARTOON", classicchannel
+#EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Anime", AnimeStation
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Anime", Dreiko TV
+https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Max Anime" tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime", Max Anime
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+#EXTINF:-1 tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime", Locomotion
+http://85.239.54.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1 tvg-name="magic kids ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="Anime", magic kids ar
+https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="LMS" tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="Anime", Lms canal
+https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
+#EXTINF:-1 tvg-name="Pandamax" tvg-logo="https://neotv.cl/assets/img/channels/hex.png" group-title="Anime", Pandamax
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-name="Latino Kids" tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="Anime", Latino Kids
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+#EXTINF:-1 tvg-name="Varied tv" tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="Anime", VariedTV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="Anime", Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-name="Talta tv" tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="Anime", Taltal TV
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+#EXTINF:-1 tvg-name="Big tv" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="Anime", Big TV
+https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="Anime", Gogoplay TV
+https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
+#EXTINF:-1 tvg-name="Zaz Tv" tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="Anime", Zaz TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-name="Diti tv" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="CARTOON", Diti tv
+#EXTINF:-1 tvg-name="classicchannel" tvg-logo="https://www.classicchannel.digital/img/logo-radio.png" group-title="Retro", classicchannel
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-name="Diti tv" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="Retro", Diti tv
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="MDA tv" tvg-logo="https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png" group-title="CARTOON", MDA tv
+#EXTINF:-1 tvg-name="MDA tv" tvg-logo="https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png" group-title="Retro", MDA tv
 https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8
-#EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="CARTOON", Retroxtv
+#EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="Retro", Retroxtv
 https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Magic Kids Ar" tvg-logo="https://magickids.site/img/magickidslogo.webp" group-title="CARTOON", Magic Kids
+#EXTINF:-1 tvg-name="Magic Kids Ar" tvg-logo="https://magickids.site/img/magickidslogo.webp" group-title="Retro", Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-name="Max Cartoons" tvg-logo="https://www.hispanatv.com/img/tv/maxcartoon.jpg" group-title="CARTOON", Max Cartoons
+#EXTINF:-1 tvg-name="Max Cartoons" tvg-logo="https://www.hispanatv.com/img/tv/maxcartoon.jpg" group-title="Retro", Max Cartoons
 https://fl1002.bozztv.com/ssh101/visionamerica/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="meganet tv" tvg-logo="https://i.imgur.com/FQF9NYp.png" group-title="CARTOON", meganet tv
+#EXTINF:-1 tvg-name="meganet tv" tvg-logo="https://i.imgur.com/FQF9NYp.png" group-title="Retro", meganet tv
 https://fl1002.bozztv.com/ssh101/meganettv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Retro TV online" tvg-logo="https://serenotv.com/cargas/2023/09/RETRO-TV-LOGO-150x150.jpg" group-title="CARTOON", Retro TV online
+#EXTINF:-1 tvg-name="Retro TV online" tvg-logo="https://serenotv.com/cargas/2023/09/RETRO-TV-LOGO-150x150.jpg" group-title="Retro", Retro TV online
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ACS Network Tv" tvg-logo="https://neotv.cl/assets/img/channels/acs-network-tv.png" group-title="CARTOON", ACS Network TV
+#EXTINF:-1 tvg-name="ACS Network Tv" tvg-logo="https://neotv.cl/assets/img/channels/acs-network-tv.png" group-title="Retro", ACS Network TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w15460417.m3u8
-#EXTINF:-1 tvg-name="Retro Tv Palmares" tvg-logo="https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg" group-title="CARTOON", Retro tv Palmares
+#EXTINF:-1 tvg-name="Retro Tv Palmares" tvg-logo="https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg" group-title="Retro", Retro tv Palmares
 https://fl1001.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Retro Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="CARTOON", Retro Cartoon
+#EXTINF:-1 tvg-name="Retro Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Retro", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8
-#EXTINF:-1 tvg-name="Big Channel" tvg-logo="https://i.imgur.com/ldF213N.jpeg" group-title="CARTOON", Big Channell
+#EXTINF:-1 tvg-name="Big Channel" tvg-logo="https://i.imgur.com/ldF213N.jpeg" group-title="Retro", Big Channell
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/UKHdD96.jpeg" group-title="CARTOON", Retro magico
+#EXTINF:-1 tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/UKHdD96.jpeg" group-title="Retro", Retro magico
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="CARTOON", Boing
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="Retro", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.imgur.com/fvKyXVx.png" group-title="DEPORTES", ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.imgur.com/fvKyXVx.png" group-title="Deporte", ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/61gCvX2.png" group-title="DEPORTES", ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/61gCvX2.png" group-title="Deporte", ESPN 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/PPivV6W.png" group-title="DEPORTES", ESPN 3
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/PPivV6W.png" group-title="Deporte", ESPN 3
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="DEPORTES", ESPN 5
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="Deporte", ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="DEPORTES", ESPN 6
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deporte", ESPN 6
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="DEPORTES", ESPN 7
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="Deporte", ESPN 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Madrid tv" tvg-logo="https://i.imgur.com/NknFWnx.png" group-title="DEPORTES", Real madrid tv
+#EXTINF:-1 tvg-name="Real Madrid tv" tvg-logo="https://i.imgur.com/NknFWnx.png" group-title="Deporte", Real madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="INTERCONNECT TV" tvg-logo="https://meganettv.fun/storage/channel-logos/KdKXiiiKWty5f5piOh4JAs9wse9cX6mWAI1FhDz3.jpg" group-title="VARIADOS", INTERCONNECT TV
+#EXTINF:-1 tvg-name="INTERCONNECT TV" tvg-logo="https://meganettv.fun/storage/channel-logos/KdKXiiiKWty5f5piOh4JAs9wse9cX6mWAI1FhDz3.jpg" group-title="Variado", INTERCONNECT TV
 https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TIGUERITOS TV" tvg-logo="https://i.imgur.com/ZpthDIy.jpeg" group-title="VARIADOS", TIGUERITOS TV
+#EXTINF:-1 tvg-name="TIGUERITOS TV" tvg-logo="https://i.imgur.com/ZpthDIy.jpeg" group-title="Variado", TIGUERITOS TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w265717333.m3u8
-#EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="MUSICA", kPOP
+#EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="Musica", kPOP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="MUSICA", Planetatv
+#EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="Musica", Planetatv
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8
