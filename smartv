@@ -55,7 +55,7 @@ http://85.239.54.197:81/live/loco_hi/index.m3u8
 https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="LMS" tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="Anime", Lms canal
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
-#EXTINF:-1 tvg-name="Pandamax" tvg-logo="https://neotv.cl/assets/img/channels/hex.png" group-title="Anime", Pandamax
+#EXTINF:-1 tvg-name="hex" tvg-logo="https://neotv.cl/assets/img/channels/hex.png" group-title="Anime", hex
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-name="Latino Kids" tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="Anime", Latino Kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
@@ -70,12 +70,12 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="Anime", Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-name="Zaz Tv" tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="Anime", Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-name="classicchannel" tvg-logo="https://www.classicchannel.digital/img/logo-radio.png" group-title="Retro", classicchannel
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+https://stream-us-east-1.getpublica.com/cl/240916crjnn3pvj214sasfrbj0/1280x720_1500000_0_f.m3u8
+#EXTINF:-1 tvg-name="classic channel" tvg-logo="https://www.classicchannel.digital/img/logo-radio.png" group-title="Retro", classic channel
+https://paneltv.online:1936/8046/8046/chunklist_w1289883683.m3u8
 #EXTINF:-1 tvg-name="Diti tv" tvg-logo="https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png" group-title="Retro", Diti tv
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="MDA tv" tvg-logo="https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png" group-title="Retro", MDA tv
+#EXTINF:-1 tvg-name="MDA tv" tvg-logo="https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png" group-title="Retro", Mda tv
 https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8
 #EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="Retro", Retroxtv
 https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
@@ -113,11 +113,11 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid tv" tvg-logo="https://i.imgur.com/NknFWnx.png" group-title="Deporte", Real madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="INTERCONNECT TV" tvg-logo="https://meganettv.fun/storage/channel-logos/KdKXiiiKWty5f5piOh4JAs9wse9cX6mWAI1FhDz3.jpg" group-title="Variado", INTERCONNECT TV
+#EXTINF:-1 tvg-name="INTERCONNECT TV" tvg-logo="https://meganettv.fun/storage/channel-logos/KdKXiiiKWty5f5piOh4JAs9wse9cX6mWAI1FhDz3.jpg" group-title="Variado", Interconect TV
 https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TIGUERITOS TV" tvg-logo="https://i.imgur.com/ZpthDIy.jpeg" group-title="Variado", TIGUERITOS TV
+#EXTINF:-1 tvg-name="TIGUERITOS TV" tvg-logo="https://i.imgur.com/ZpthDIy.jpeg" group-title="Variado", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w265717333.m3u8
 #EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="Musica", kPOP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="Musica", Planetatv
+#EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="Musica", Planeta tv
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8
