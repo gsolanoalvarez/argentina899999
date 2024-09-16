@@ -43,6 +43,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w21232464
 https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8
 #EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="Peliculas", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+#EXTINF:-1 tvg-name="Uva tv" tvg-logo="https://i.ibb.co/hXbwYdV/uva-tv.webp" group-title="Peliculas", Uva tv
+https://fl1002.bozztv.com/ssh101/tvhduva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Anime", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Anime", Dreiko TV
@@ -121,3 +123,5 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w265717333.m3u8
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="Musica", Planeta tv
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8
+#EXTINF:-1 tvg-name="CosMattia TV" tvg-logo="https://i.ibb.co/HqwhTLf/449391389-1099147645032206-5694837558547645191-n-removebg-preview.webp" group-title="Musica", CosMattia TV
+https://fl1002.bozztv.com/ssh101/cosmattiatv/tracks-v1a1/mono.m3u8
