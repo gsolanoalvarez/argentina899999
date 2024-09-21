@@ -45,7 +45,7 @@ https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-name="Uva tv" tvg-logo="https://i.ibb.co/hXbwYdV/uva-tv.webp" group-title="Peliculas", Uva tv
 https://fl1002.bozztv.com/ssh101/tvhduva/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" group-title="Peliculas",Conectate TV
+#EXTINF:-1 tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" group-title="Peliculas", Conectate TV
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Anime", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
@@ -127,16 +127,18 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/ZpthDIy.jpeg" group-title="Variado", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w265717333.m3u8
-#EXTINF:-1  tvg-name="Imvasiva Media" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="Variado",Imvasiva Media
+#EXTINF:-1  tvg-name="Imvasiva Media" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="Variado", Imvasiva Media
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 tvg-name="Maxima TV" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="Variado",Maxima TV
+#EXTINF:-1 tvg-name="Maxima TV" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="Variado", Maxima TV
 https://ssh101-fl.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
-#EXTINF:-1 tvg-name="Casa Grande TV" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="Variado",Casa Grande TV
+#EXTINF:-1 tvg-name="Casa Grande TV" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="Variado", Casa Grande TV
 https://ssh101-fl.bozztv.com/ssh101/cgtve/playlist.m3u8
-#EXTINF:-1 tvg-name="Wow Movies" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="Variado",Wow Movies
+#EXTINF:-1 tvg-name="Wow Movies" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="Variado", Wow Movies
 https://ssh101-fl.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-name="Mundo Series" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="Variado",Mundo Series
+#EXTINF:-1 tvg-name="Mundo Series" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="Variado", Mundo Series
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
+#EXTINF:-1 tvg-name="Extrema TV Kids" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Familiares", Extrema TV Kids
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="Musica", kPOP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="Musica", Planeta tv
