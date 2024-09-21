@@ -115,6 +115,8 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://ssh101-fl.bozztv.com/ssh101/opinionsurn/playlist.m3u8
 #EXTINF:-1 tvg-name="Sur Series" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="Retro", Sur Series 
 https://ssh101-fl.bozztv.com/ssh101/opinionsurs/playlist.m3u8
+#EXTINF:-1 tvg-name="Retro Canal 2" tvg-logo="https://i.ibb.co/vqrZTQf/Logo-Retro-Canal-2.jpg" group-title="Retro", Retro Canal 2
+https://ssh101-fl.bozztv.com/ssh101/variado/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.imgur.com/fvKyXVx.png" group-title="Deporte", ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/61gCvX2.png" group-title="Deporte", ESPN 2
