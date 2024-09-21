@@ -41,7 +41,7 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
 #EXTINF:-1 tvg-name="LATINA Internacional TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-294x165-FFFFFF.jpg" group-title="Peliculas", LATINA Internacional TV
 https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8
-#EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="Chile", GenTV
+#EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="Peliculas", GenTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="Peliculas", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
