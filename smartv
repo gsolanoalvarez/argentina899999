@@ -88,7 +88,7 @@ https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MDA tv" tvg-logo="https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png" group-title="Retro", Mda tv
 https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8
 #EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="Retro", Retroxtv
-https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
+https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
 #EXTINF:-1 tvg-name="Magic Kids Ar" tvg-logo="https://magickids.site/img/magickidslogo.webp" group-title="Retro", Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-name="Max Cartoons" tvg-logo="https://www.hispanatv.com/img/tv/maxcartoon.jpg" group-title="Retro", Max Cartoons
@@ -109,6 +109,12 @@ https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="Retro", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-name="TVS Retro" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" group-title="Retro", TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-name="Sur Ninos" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="Retro", Sur Ninos 
+https://ssh101-fl.bozztv.com/ssh101/opinionsurn/playlist.m3u8
+#EXTINF:-1 tvg-name="Sur Series" tvg-logo="https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png" group-title="Retro", Sur Series 
+https://ssh101-fl.bozztv.com/ssh101/opinionsurs/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.imgur.com/fvKyXVx.png" group-title="Deporte", ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/61gCvX2.png" group-title="Deporte", ESPN 2
@@ -137,8 +143,12 @@ https://ssh101-fl.bozztv.com/ssh101/cgtve/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-name="Mundo Series" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="Variado", Mundo Series
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
-#EXTINF:-1 tvg-name="Extrema TV Kids" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Familiares", Extrema TV Kids
+#EXTINF:-1 tvg-name="Extrema TV Kids" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Variado", Extrema TV Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Clasica" tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png"  group-title="Variado", TV Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1 tvg-name="Pitufo TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Variado", Pitufo TV
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="Musica", kPOP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="Musica", Planeta tv
