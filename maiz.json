@@ -107,13 +107,13 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-name="TVPeru" tvg-logo="https://i.imgur.com/6io0IrX.png", group-title="Peru", TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:-1 tvg-name="Canal 7 HD" tvg-logo="https://i.imgur.com/KYS6Trz.png" group-title="Argentina",Canal 7 HD
+#EXTINF:-1 tvg-name="Canal 7 HD" tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.54/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a.png" group-title="Argentina",Canal 7 HD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV Canal 57 HD" tvg-logo="https://i.imgur.com/pUZbjEU.jpg" group-title="Argentina", RTV Canal 57 HD
+#EXTINF:-1 tvg-name="RTV Canal 57 HD" tvg-logo="https://streaming.rtvcanal57.com/img/logocanal57.png" group-title="Argentina", RTV Canal 57 HD
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="Argentina", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-name="Canal 74" tvg-logo="https://i.imgur.com/IkbtlmX.png" group-title="Chile", Canal 74
+#EXTINF:-1 tvg-name="Canal 74" tvg-logo="https://i.ibb.co/n05S8DM/canal-74.png" group-title="Chile", Canal 74
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleRed TV" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="Chile", TeleRed TV
 https://k20.usastreams.com:8081/telered/index.m3u8
