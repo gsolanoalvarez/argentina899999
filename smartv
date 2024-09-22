@@ -39,7 +39,7 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-name="Wow tv" tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="Peliculas", Wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1448199906_b2000000_slen.m3u8
-#EXTINF:-1 tvg-name="LATINA Internacional TV" tvg-logo="https://i.imgur.com/74uTuSt.png" group-title="Peliculas", LATINA Internacional TV
+#EXTINF:-1 tvg-name="Latina Internacional TV" tvg-logo="https://i.imgur.com/74uTuSt.png" group-title="Peliculas", Latina Internacional TV
 https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8
 #EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Peliculas", GenTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
