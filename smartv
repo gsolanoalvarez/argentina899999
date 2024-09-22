@@ -38,19 +38,19 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-name="Monitos Tv" tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Peliculas", Monitos tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-name="Wow tv" tvg-logo="https://www.wowelsalvador.com/imagen/logo2.png" group-title="Peliculas", Wow tv
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w212324648_b2000000_slen.m3u8
-#EXTINF:-1 tvg-name="LATINA Internacional TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-294x165-FFFFFF.jpg" group-title="Peliculas", LATINA Internacional TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1448199906_b2000000_slen.m3u8
+#EXTINF:-1 tvg-name="LATINA Internacional TV" tvg-logo="https://i.imgur.com/74uTuSt.png" group-title="Peliculas", LATINA Internacional TV
 https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8
-#EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="Peliculas", GenTV
+#EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://i.imgur.com/qGddRW4.png" group-title="Peliculas", GenTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://play-lh.googleusercontent.com/aQRVWp79pNPDZmsEfVb-f9afV9AfJhr3D3rToVM5XPKq6f0yKhHJ3JhjeHBTCAJrqA" group-title="Peliculas", Frecuencia Musical TV
+#EXTINF:-1 tvg-name="fr Musical tv" tvg-logo="https://i.imgur.com/EwkKEU7.png" group-title="Peliculas", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
-#EXTINF:-1 tvg-name="Uva tv" tvg-logo="https://i.ibb.co/hXbwYdV/uva-tv.webp" group-title="Peliculas", Uva tv
-https://fl1002.bozztv.com/ssh101/tvhduva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" group-title="Peliculas", Conectate TV
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinerama TV" tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="Peliculas",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-name="Uva tv" tvg-logo="https://i.ibb.co/hXbwYdV/uva-tv.webp" group-title="Peliculas", Uva tv
+https://fl1002.bozztv.com/ssh101/tvhduva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Anime", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Anime", Dreiko TV
