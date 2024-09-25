@@ -100,13 +100,23 @@
         "image-url": "https://television-libre.online/img/cn.webp"
     },
     {
-        "name": "Tooncast",
-        "vurl": "https://www.telegratishd.com/live/tooncast.php",
-        "image-url": "https://cabletvhd.xyz/img/tooncast.png"
+        "name": "AXN",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEFYTl9IRCkvbWFuaWZlc3QubXBk&k1=ODdkMjViMTNhN2Y5ZWEyZGM1ZGFhODE4ZDQxNWMxODc=&k2=Y2EzN2ZmMThlYjRmMmEyYWI1YWFhYjU5MTFiNDc1MTc=",
+        "image-url": "https://television-libre.online/img/axn.webp"
     },
     {
         "name": "star channel",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/starchannel.html",
         "image-url": "https://television-libre.online/img/star.webp"
+    },
+    {
+        "name": "Sony Channel",
+        "vurl": "https://clarovideo.playsito2.boutique/embed/sony.php",
+        "image-url": "https://television-libre.online/img/sony.webp"
+    },
+    {
+        "name": "HBO plus",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&k1=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&k2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=",
+        "image-url": "https://television-libre.online/img/hboplus.webp"
     }
 ]
