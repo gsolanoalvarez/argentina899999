@@ -22,57 +22,57 @@
     {
         "name": "Cinemax",
         "vurl": "https://www.vtvcable.com/mpd.php?id=cinemax&lang=1",
-        "image-url": "https://cabletvhd.xyz/img/Cinemax.webp"
+        "image-url": "https://television-libre.online/img/cinemax.webp"
     },
     {
         "name": "Space",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/space.html",
-        "image-url": "https://cabletvhd.xyz/img/Space.png"
+        "image-url": "https://television-libre.online/img/space.webp"
     },
     {
         "name": "Cine canal",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/cinecanal.html",
-        "image-url": "https://cabletvhd.xyz/img/Cinecanal.png"
+        "image-url": "https://television-libre.online/img/cinecanal.webp"
     },
     {
         "name": "A&E",
-        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VGRlgwMVZUa1JQWDBoRUtTOXRZVzVwWm1WemRDNXRjR1E9JmsxPU5qVTBNemt4T0RobVpUZ3hPVFkyTjJKaE16RTNNekZtTlRsak4yTXlPR0k9JmsyPU1ERXhaV1pqWWpnMlpHTXdZek16Tm1NeFltSTJNV1EyTURKak56RTJPVEU9",
-        "image-url": "https://cabletvhd.xyz/img/A&E.png"
+        "vurl": "https://clarovideo.nebunexa.com/mpdka.php?get=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEFFX01VTkRPX0hEKS9tYW5pZmVzdC5tcGQ=&key=NjU0MzkxODhmZTgxOTY2N2JhMzE3MzFmNTljN2MyOGI=&key2=MDExZWZjYjg2ZGMwYzMzNmMxYmI2MWQ2MDJjNzE2OTE=",
+        "image-url": "https://television-libre.online/img/ae.webp"
     },
     {
         "name": "TNT",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/tnt.html",
-        "image-url": "https://cabletvhd.xyz/img/TNT.webp"
+        "image-url": "https://television-libre.online/img/tnt.webp"
     },
     {
         "name": "FX",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/fx.html",
-        "image-url": "https://cabletvhd.xyz/img/FX.png"
+        "image-url": "https://television-libre.online/img/fx.webp"
     },
     {
         "name": "Paramount",
-        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZCQlVrRk5UMVZPVkY5SVJDa3ZiV0Z1YVdabGMzUXViWEJrJmsxPVlUSTRabVJsTmprd09HVXdZakJrTURNeE16STBPVGcyTmpFM1pEWTVZVE09JmsyPU1EazFZakkzT0dObVpUWTFZVFZsTkRZM1lqbG1NbUUyT1ROa1lqQmtNVEk9",
-        "image-url": "https://cabletvhd.xyz/img/Paramount_Network.png"
+        "vurl": "https://www.ontve.click/player/vdo/?id=PARAMOUNT_NETWORK",
+        "image-url": "https://television-libre.online/img/paramount.webp"
     },
     {
         "name": "Universal TV",
         "vurl": "https://www.vtvcable.com/mpd.php?id=universalchannel&lang=1",
-        "image-url": "https://cabletvhd.xyz/img/UniversalTV.png"
+        "image-url": "https://television-libre.online/img/universalpremiere.webp"
     },
     {
         "name": "Studio Universal",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZOVVZVUkpUMTlWVGtsV1JWSlRRVXhmU0VRcEwyMWhibWxtWlhOMExtMXdaQT09JmsxPU9XRXdOekpsWVdReVpEQXhZVFUwTlRoaE5XWm1aV1ZqWmprM056VTRNVFk9JmsyPU1UTTNZbVppWm1KbVpXUXpOalF4T1dNNFpURmtObVUyTVRsbFkyVmtPR1E9",
-        "image-url": "https://cabletvhd.xyz/img/StudioUniversal.png?up"
+        "image-url": "https://television-libre.online/img/studio.webp"
     },
     {
         "name": "Warner",
         "vurl": "https://www.vtvcable.com/mpd.php?id=warner&lang=1",
-        "image-url": "https://www.vertvcable.com/wp-content/uploads/2022/02/warnerb-150x150.jpg"
+        "image-url": "https://television-libre.online/img/warner.webp"
     },
     {
         "name": "HBO",
         "vurl": "https://www.vtvcable.com/mpd.php?id=hbodos",
-        "image-url": "https://cabletvhd.xyz/img/HBO.png"
+        "image-url": "https://television-libre.online/img/hbo.webp"
     },
     {
         "name": "Adult Swim",
@@ -82,51 +82,56 @@
     {
         "name": "Universal Cinema",
         "vurl": "https://clarovideo.rawases.com/?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFVOSVZFUlNBTF9DSU5FTUFfSEQpL21hbmlmZXN0Lm1wZA==&k1=NjZlZTgxZmViZTc2ODg3NWFlMmZlZTViOGY1MTJlMTU=&k2=NTQ4ODI2OTQ3MzQ4NzRmMjgwMjU5ZmI4YjY3NjZhYjM=",
-        "image-url": "https://cabletvhd.xyz/img/UniversalCinema.png"
+        "image-url": "https://television-libre.online/img/universalcinema.webp"
     },
     {
         "name": "Investigacion Discovery",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VsRVgwaEVLUzl0WVc1cFptVnpkQzV0Y0dRPSZrMT1abVl5TkRJNE56STFaR1l3TXpnMk1qYzVZalpsWldFMU56azROV0kzT1RJPSZrMj1ZbU0zWlRjMlpETTNaamhpTXpVM056QTNOemM0WW1aa05qWmhaVGM1TkRRPQ==",
-        "image-url": "https://cabletvhd.xyz/img/Investigacion-Discovery.png"
+        "image-url": "https://television-libre.online/img/id.webp"
     },
      {
         "name": "Discovery Home and Health",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VSSlUwTlBWa1ZTV1Y5SVQwMUZYMGhGUVV4VVNGOUlSQ2t2YldGdWFXWmxjM1F1YlhCayZrMT1aV1EzWkdJNU9UTmxORGd6TXpBNFpHTmtNV1F6WVRJMk5qQXhPR1EzT0RjPSZrMj1aR1ZtTlRJNE9EYzFOVFU1T1RZelpETm1NVEkxWVdZNE56VmhaVEE0WXpNPQ==",
-        "image-url": "https://cabletvhd.xyz/img/Discovery-h&h.png"
+        "image-url": "https://television-libre.online/img/hyh.webp"
     },
     {
         "name": "Discovery Channel",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VSSlUwTlBWa1ZTV1Y5RFNFRk9Ua1ZNWDBoRUtTOXRZVzVwWm1WemRDNXRjR1E9JmsxPVpUZGtORE0wT0RRd04ySm1PRFprT1RneU1EYzJabUl3Wm1aaE5qVTBaVFk9JmsyPU9EQmhZMk0xTkdRell6VTJaV1F3Tnpjd1l6Um1NVEptT1RGaU5UTmlOamc9",
-        "image-url": "https://cabletvhd.xyz/img/Discovery.png"
+        "image-url": "https://television-libre.online/img/discovery.webp"
     },
     {
         "name": "History Channel",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/history.html",
-        "image-url": "https://cabletvhd.xyz/img/History-Channel.png"
+        "image-url": "https://television-libre.online/img/history.webp"
     },
     {
         "name": "Animal Planet",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/animalplanet.html",
-        "image-url": "https://cabletvhd.xyz/img/Animal_Planet.png"
+        "image-url": "https://television-libre.online/img/aplanet.webp"
     },
     {
         "name": "National Geographic",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0U1QlZFZEZUMTlJUkNrdmJXRnVhV1psYzNRdWJYQmsmazE9WWpsak1qQmtZV00xWW1KbFlUVmxNemMxWVRFMFpqZ3lObUptTW1NMk9EVT0mazI9WkRnMFpEa3dNVGt6WWpFNU1tRXpOakEwWmpReFkyWTBZekl4TTJSaFpEYz0=",
-        "image-url": "https://cabletvhd.xyz/img/Natgeo.png"
+        "image-url": "https://television-libre.online/img/natgeo.webp"
     },
     {
         "name": "Nick",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0U1SlEwdEZURTlFUlU5T1gwaEVLUzl0WVc1cFptVnpkQzV0Y0dRPSZrMT1aVFkxWm1ZeU9EaGlNRE15WldNMVpXRTNNR1JsWlRReU16QmlZVEEwT0RBPSZrMj1PVEF5WldZeVpHVXlaams1Wmpoa1pHWmpNR1E0WkRWbFlqSTJNV1U0WldFPQ==",
-        "image-url": "https://cabletvhd.xyz/img/Nick.png"
+        "image-url": "https://television-libre.online/img/nick.png"
     },
     {
         "name": "Cartoon Network",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VOQlVsUlBUMDVmVGtWVVYwOVNTMTlJUkNrdmJXRnVhV1psYzNRdWJYQmsmazE9TTJFNE1qZG1OMlpsWkdVME5HUTRaRGszTTJOaVltRmhZakJqTURnNVl6QT0mazI9WmpreFpXVmlNMk0zWXpFeVpEa3pPVEUwTXpSa1l6YzVZVGczTW1Nd1lqaz0=",
-        "image-url": "https://cabletvhd.xyz/img/cartoon.png"
+        "image-url": "https://television-libre.online/img/cn.webp"
     },
     {
         "name": "Tooncast",
         "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0ZSUFQwNURRVk5VS1M5dFlXNXBabVZ6ZEM1dGNHUWcmazE9WkRabU1EQXpPREZqWXpGaE5UZzJOamhoTVRGbE1tRXpaVEJtTWpCbVpEaz0mazI9Wm1NNE1UZGtORFZoWmpWa1kyVXpNMk5pWWpjNU56a3pNakkwWWpnek5HTT0=",
         "image-url": "https://cabletvhd.xyz/img/tooncast.png"
+    },
+    {
+        "name": "star channel",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/starchannel.html",
+        "image-url": "https://www.vertvcable.com/wp-content/uploads/2022/02/starchannel-150x150.jpg"
     }
 ]
