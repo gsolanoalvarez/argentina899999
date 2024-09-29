@@ -7,6 +7,12 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/willax.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Señal Perú TV" tvg-logo="https://i.ibb.co/5rFfyjC/z-QGwh-Uv-removebg-preview.webp" group-title="Peru", Señal Perú TV
 https://livestream.perucast.com/low/stream_low/index.m3u8
+#EXTINF:-1 tvg-name="Global tv" tvg-logo="https://i.ibb.co/GVJHNrD/Global-logo-2019-removebg-preview.webp" group-title="Peru", Global Televisión
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
+#EXTINF:-1 tvg-name="impacto" tvg-logo="https://i.ibb.co/PNC2vJJ/header2-min-removebg-preview.webp" group-title="Peru", impacto
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="viaaltomayotv" tvg-logo="https://i.ibb.co/pX8Y1FT/Logo-c7e-355.webp" group-title="Peru", viaaltomayotv
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Turbo Mix TV" tvg-logo="https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png", group-title="Peru", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 tvg-name="Nativa" tvg-logo="https://cdn.m3u.cl/logo/684_Nativa.png", group-title="Peru", Nativa
