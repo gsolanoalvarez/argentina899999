@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-name="Planeta TV" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png", group-title="Peru", Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-name="Willax tv" tvg-id="" tvg-logo="https://i.ibb.co/SypKpLq/willax-tv2-removebg-preview.webp" group-title="Peru", Willax TV
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/willax.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Turbo Mix TV" tvg-logo="https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png", group-title="Peru", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 tvg-name="Nativa" tvg-logo="https://cdn.m3u.cl/logo/684_Nativa.png", group-title="Peru", Nativa
