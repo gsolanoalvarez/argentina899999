@@ -1,12 +1,127 @@
 [
     {
-        "name": "GEN",
-        "vurl": "https://iblups.com/embed/gentv173caba",
-        "image-url": "http://www.gentvoficial.com/img/portadagen.png"
+        "name": "Cinemax",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENJTkVNQVhfSEQpL21hbmlmZXN0Lm1wZA==&k1=ZTg1Mzg1NjkzMjg1MWRiZTc4ZDBkOTRmZGYyOTZmZWU=&k2=OTM2OTBkYmJkNTg4NGVjZDRiODFlOTg4MGM4MjliMWY=",
+        "image-url": "https://television-libre.online/img/cinemax.webp"
     },
     {
-        "name": "ZAZ",
-        "vurl": "https://www-zaztv-com.filesusr.com/html/a682dd_58a15ef2234d696f6c36df8a4aff070c.html",
-        "image-url": "https://static.wixstatic.com/media/a682dd_b066440b32e54200a1cbbb4ed682c02c~mv2.png/v1/fill/w_1903,h_816,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/a682dd_b066440b32e54200a1cbbb4ed682c02c~mv2.png"
-    }
+        "name": "Space",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFNQQUNFX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ODk4ODhlYjZhMjEwMjY5YzE0YzY5YmEzMzNkNmNjODg=&k2=NjhmNTZmYTRmYTVkN2E2ZjczMjc3ZDM2N2Q3ZTEyMmU=",
+        "image-url": "https://television-libre.online/img/space.webp"
+    },
+    {
+        "name": "Cine canal",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENJTkVDQU5BTF9IRCkvbWFuaWZlc3QubXBk&k1=ZjY3YzJjOTM2YTQyZTQzNjVkNmE0NmVkMTNjZDM2OTA=&k2=MjVjNzFjOTI3YjEwOGUyN2JkMzRjMGI3MmVlMmNlOTY=",
+        "image-url": "https://television-libre.online/img/cinecanal.webp"
+    },
+    {
+        "name": "A&E",
+        "vurl": "https://clarovideo.nebunexa.com/mpdka.php?get=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEFFX01VTkRPX0hEKS9tYW5pZmVzdC5tcGQ=&key=NjU0MzkxODhmZTgxOTY2N2JhMzE3MzFmNTljN2MyOGI=&key2=MDExZWZjYjg2ZGMwYzMzNmMxYmI2MWQ2MDJjNzE2OTE=",
+        "image-url": "https://television-libre.online/img/ae.webp"
+    },
+    {
+        "name": "TNT",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/tnt.html",
+        "image-url": "https://television-libre.online/img/tnt.webp"
+    },
+    {
+        "name": "FX",
+        "vurl": "https://www.vtvcable.com/videoplayer.php?url=aHR0cHM6Ly93d3cudnR2Y2FibGUuY29tL21wZC5waHA/aWQ9ZngyJmxhbmc9MQ==",
+        "image-url": "https://television-libre.online/img/fx.webp"
+    },
+    {
+        "name": "Paramount",
+        "vurl": "https://clarovideo.playsito2.boutique/embed/paramount-network.php",
+        "image-url": "https://television-libre.online/img/paramount.webp"
+    },
+    {
+        "name": "Universal TV",
+        "vurl": "https://www.vtvcable.com/mpd.php?id=universalchannel&lang=1",
+        "image-url": "https://television-libre.online/img/universalpremiere.webp"
+    },
+    {
+        "name": "Studio Universal",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFNUVURJT19VTklWRVJTQUxfSEQpL21hbmlmZXN0Lm1wZA==&k1=OWEwNzJlYWQyZDAxYTU0NThhNWZmZWVjZjk3NzU4MTY=&k2=MTM3YmZiZmJmZWQzNjQxOWM4ZTFkNmU2MTllY2VkOGQ=",
+        "image-url": "https://television-libre.online/img/studio.webp"
+    },
+    {
+        "name": "Warner",
+        "vurl": "https://clarovideo.playsito2.boutique/embed/warner.php",
+        "image-url": "https://television-libre.online/img/warner.webp"
+    },
+    {
+        "name": "HBO",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19IRF9NWCkvbWFuaWZlc3QubXBk&k1=MjRjMmE0ZGY4ZThkZGQxNzY2NjFjYTZlMGQ2MWIyNmI=&k2=YjFiMTM4ODlmNzFhOTY5MDJjMjg1ODIzMDIxNjNhNWM=",
+        "image-url": "https://television-libre.online/img/hbo.webp"
+    },
+    {
+        "name": "Universal premiere",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFVOSVZFUlNBTF9QUkVNSUVSX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZDAxYzk0ODhlNTI4Njk3YTljZDhlYmUzNWIwNjc3Mjk=&k2=YWJiNGQwYWZmMDUyNDhhZTVlNTNkM2U4NDU0NjcxZDY=",
+        "image-url": "https://television-libre.online/img/universalcinema.webp"
+    },
+    {
+        "name": "Investigacion Discovery",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKElEX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZmYyNDI4NzI1ZGYwMzg2Mjc5YjZlZWE1Nzk4NWI3OTI=&k2=YmM3ZTc2ZDM3ZjhiMzU3NzA3Nzc4YmZkNjZhZTc5NDQ=",
+        "image-url": "https://television-libre.online/img/id.webp"
+    },
+     {
+        "name": "Discovery Home and Health",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKERJU0NPVkVSWV9IT01FX0hFQUxUSF9IRCkvbWFuaWZlc3QubXBk&k1=ZWQ3ZGI5OTNlNDgzMzA4ZGNkMWQzYTI2NjAxOGQ3ODc=&k2=ZGVmNTI4ODc1NTU5OTYzZDNmMTI1YWY4NzVhZTA4YzM=",
+        "image-url": "https://television-libre.online/img/hyh.webp"
+    },
+    {
+        "name": "Discovery Channel",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKERJU0NPVkVSWV9DSEFOTkVMX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZTdkNDM0ODQwN2JmODZkOTgyMDc2ZmIwZmZhNjU0ZTY=&k2=ODBhY2M1NGQzYzU2ZWQwNzcwYzRmMTJmOTFiNTNiNjg=",
+        "image-url": "https://television-libre.online/img/discovery.webp"
+    },
+    {
+        "name": "History Channel",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhJU1RPUllfQ0hBTk5FTF9IRCkvbWFuaWZlc3QubXBk&k1=YmRiNzE3MWE4OWIyMWFmZmFhYmNiZmI4YzYwNjViNDI=&k2=ZWNmMzJlYTUzOWY0MjA5ZjYyYzZiOTZiNGI3ZTdmMDM=",
+        "image-url": "https://television-libre.online/img/history.webp"
+    },
+    {
+        "name": "Animal Planet",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEFOSU1BTF9QTEFORVRfSEQpL21hbmlmZXN0Lm1wZA==&k1=OTU0Yjg5YTQ1MzdjZDBkMTUwYWY2MWM4ODA0NjczNzg=&k2=ZjQ1OTE0Y2Y0MDA3ZjhiOWUzN2ZkMGRkMDViNTlmYWE=",
+        "image-url": "https://television-libre.online/img/aplanet.webp"
+    },
+    {
+        "name": "National Geographic",
+        "vurl": "https://cabletvhd.xyz/repro/?r=Ly9jbGFyb3ZpZGVvLnJhd2FzZXMuY29tLz91cmw9THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0U1QlZFZEZUMTlJUkNrdmJXRnVhV1psYzNRdWJYQmsmazE9WWpsak1qQmtZV00xWW1KbFlUVmxNemMxWVRFMFpqZ3lObUptTW1NMk9EVT0mazI9WkRnMFpEa3dNVGt6WWpFNU1tRXpOakEwWmpReFkyWTBZekl4TTJSaFpEYz0=",
+        "image-url": "https://television-libre.online/img/natgeo.webp"
+    },
+    {
+        "name": "Nick",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKE5JQ0tFTE9ERU9OX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZTY1ZmYyODhiMDMyZWM1ZWE3MGRlZTQyMzBiYTA0ODA=&k2=OTAyZWYyZGUyZjk5ZjhkZGZjMGQ4ZDVlYjI2MWU4ZWE=",
+        "image-url": "https://television-libre.online/img/nick.png"
+    },
+    {
+        "name": "Cartoon Network",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENBUlRPT05fTkVUV09SS19IRCkvbWFuaWZlc3QubXBk&k1=M2E4MjdmN2ZlZGU0NGQ4ZDk3M2NiYmFhYjBjMDg5YzA=&k2=ZjkxZWViM2M3YzEyZDkzOTE0MzRkYzc5YTg3MmMwYjk=",
+        "image-url": "https://television-libre.online/img/cn.webp"
+    },
+    {
+        "name": "AXN",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEFYTl9IRCkvbWFuaWZlc3QubXBk&k1=ODdkMjViMTNhN2Y5ZWEyZGM1ZGFhODE4ZDQxNWMxODc=&k2=Y2EzN2ZmMThlYjRmMmEyYWI1YWFhYjU5MTFiNDc1MTc=",
+        "image-url": "https://television-libre.online/img/axn.webp"
+    },
+    {
+        "name": "star channel",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/starchannel.html",
+        "image-url": "https://television-libre.online/img/star.webp"
+    },
+    {
+        "name": "Sony Channel",
+        "vurl": "https://clarovideo.playsito2.boutique/embed/sony.php",
+        "image-url": "https://television-libre.online/img/sony.webp"
+    },
+    {
+        "name": "HBO plus",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&k1=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&k2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=",
+        "image-url": "https://television-libre.online/img/hboplus.webp"
+    },
+    {
+        "name": "tooncast",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFRPT05DQVNUKS9tYW5pZmVzdC5tcGQ=&k1=ZDZmMDAzODFjYzFhNTg2NjhhMTFlMmEzZTBmMjBmZDk=&k2=ZmM4MTdkNDVhZjVkY2UzM2NiYjc5NzkzMjI0YjgzNGM=",
+        "image-url": "https://telefullhd.com/imagenes/Tooncast.png"
+    }   
 ]
