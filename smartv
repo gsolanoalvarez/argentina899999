@@ -44,7 +44,7 @@ https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="LMS" tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="Anime", Lms canal
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-name="hex" tvg-logo="https://neotv.cl/assets/img/channels/hex.png" group-title="Anime", hex
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+https://stream.wifiexpert.cl/kanade/kanadetv/chunks.m3u8?nimblesessionid=49299461
 #EXTINF:-1 tvg-name="Latino Kids" tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="Anime", Latino Kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-name="Varied tv" tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="Anime", VariedTV
