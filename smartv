@@ -58,7 +58,7 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/xBhDjx2.jpeg" group-title="Anime", Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-name="Zaz Tv" tvg-logo="https://i.imgur.com/Xo5F3jF.png" group-title="Anime", Zaz TV
-https://stream-us-east-1.getpublica.com/cl/240916crjnn3pvj214sasfrbj0/1280x720_1500000_0_f.m3u8
+https://stream-us-east-1.getpublica.com/cl/241007cs1jjpeaai2hqlmejvf0/1280x720_1500000_0_f.m3u8?i=1187_11984
 #EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="Anime", ZTV Anime
 https://mitv.zplay.cl/ZAnime/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
 #EXTINF:-1 tvg-name="Toonizaki" tvg-id="Toonizaki" tvg-logo="https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg" group-title="Anime",Toonizaki
