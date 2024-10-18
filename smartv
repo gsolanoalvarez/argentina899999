@@ -97,6 +97,8 @@ https://ssh101-fl.bozztv.com/ssh101/opinionsurs/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/PPivV6W.png" group-title="Deporte", ESPN 3
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/PPivV6W.png" group-title="Deporte", ESPN 2
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="Deporte", ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="Deporte", ESPN 6
