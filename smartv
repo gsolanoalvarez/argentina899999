@@ -25,6 +25,8 @@ https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-name="zap uno" tvg-logo="https://zapp.uno/wp-content/uploads/2024/06/cropped-zappuno1.png" group-title="Peliculas", zap uno
 https://giatv.bozztv.com/giatv/giatv-unykatv/unykatv/chunks.m3u8
+#EXTINF:-1 tvg-name="Quaere tv" tvg-logo="https://quaere.icu/wp-content/uploads/2024/06/redondel-quaere-sinfondo.png" group-title="Peliculas", Quaere tv
+https://fl1002.bozztv.com/ssh101/quaerearg/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Orbit tv" tvg-logo="https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-e1653580643499.png" group-title="Peliculas", Orbit tv
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w778505871.m3u8
 #EXTINF:-1 tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" group-title="Peliculas", Conectate TV
