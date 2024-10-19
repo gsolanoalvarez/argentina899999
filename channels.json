@@ -105,7 +105,7 @@
         "image-url": "https://television-libre.online/img/axn.webp"
     },
     {
-        "name": "star channel",
+        "name": "Star Channel",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/starchannel.html",
         "image-url": "https://television-libre.online/img/star.webp"
     },
@@ -125,13 +125,13 @@
         "image-url": "https://telefullhd.com/imagenes/Tooncast.png"
     },
     {
-        "name": "Nickelodeon",
-        "vurl": "https://clarovideo.sdfgnksbounce.com/nick.php?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKE5JQ0tFTE9ERU9OX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZTY1ZmYyODhiMDMyZWM1ZWE3MGRlZTQyMzBiYTA0ODA=&k2=OTAyZWYyZGUyZjk5ZjhkZGZjMGQ4ZDVlYjI2MWU4ZWE=",
-        "image-url": "https://tvlibreonline.net/img/nick.png"
-    }, 
+        "name": "Golden Plus",
+        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEdPTERFTl9IRCkvbWFuaWZlc3QubXBk&k1=YTJkNmE4NjMxMWMyMWEyYzBmNmU5MGQ1OGZkN2U1OTA=&k2=YjU2MDdlMzg5MWU4ZmI0YzBjYzgyZDhmODJhYmU1Njk=",
+        "image-url": "https://tvlibreonline.net/img/golden.png"
+    },
     {
-        "name": "Cartoon Network",
-        "vurl": "https://clarovideo.sdfgnksbounce.com/nick.php?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENBUlRPT05fTkVUV09SS19IRCkvbWFuaWZlc3QubXBk&k1=M2E4MjdmN2ZlZGU0NGQ4ZDk3M2NiYmFhYjBjMDg5YzA=&k2=ZjkxZWViM2M3YzEyZDkzOTE0MzRkYzc5YTg3MmMwYjk=",
-        "image-url": "https://tvlibreonline.net/img/cn.webp"
-    } 
+        "name": "Distrito Comedia",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/distritocomedia.html",
+        "image-url": "https://tvlibreonline.net/img/golden.png"
+    }
 ]
