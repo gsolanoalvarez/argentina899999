@@ -133,5 +133,25 @@
         "name": "Distrito Comedia",
         "vurl": "https://embed.sdfgnksbounce.com/embed2/distritocomedia.html",
         "image-url": "https://www.cablevisionhd.com/imge/distritocomedia.png"
+    },
+    {
+        "name": "Espn ar",
+        "vurl": "https://streamtp1.com/global1.php?stream=espn1",
+        "image-url": "https://tvlibreonline.net/img/espn.webp"
+    },
+    {
+        "name": "Espn 2 ar",
+        "vurl": "https://streamtp1.com/global1.php?stream=espn2",
+        "image-url": "https://tvlibreonline.net/img/espn2.webp"
+    },
+    {
+        "name": "Espn 3 ar",
+        "vurl": "https://www.cablevisionhd.com/stream2/espn3.php",
+        "image-url": "https://tvlibreonline.net/img/espn3.webp"
+    },
+    {
+        "name": "Espn 4 ar",
+        "vurl": "https://www.cablevisionhd.com/stream2/espn4.php",
+        "image-url": "https://tvlibreonline.net/img/espn4.webp"
     }
 ]
