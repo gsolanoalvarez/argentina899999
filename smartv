@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="planetatv" tvg-logo="https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp" group-title="Peliculas", planetatv
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Big Channel" tvg-logo="https://i.imgur.com/ldF213N.jpeg" group-title="Peliculas", Big Channell
+https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="+CINE" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png" group-title="Peliculas", +CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-name="Super canal" tvg-logo="https://i.ibb.co/3pB4xsR/logoheader.webp" group-title="Peliculas", Super Canal
@@ -39,8 +41,6 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime", Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-name="magic kids ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="Anime", magic kids ar
-https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="LMS" tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="Anime", Lms canal
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-name="Latino Kids" tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png" group-title="Anime", Latino Kids
@@ -51,8 +51,6 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Talta tv" tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="Anime", Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-#EXTINF:-1 tvg-name="Big tv" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="Anime", Big TV
-https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/zAWE9O4.png" group-title="Anime", Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="Anime", ZTV Anime
@@ -69,6 +67,8 @@ https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
 https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8
 #EXTINF:-1 tvg-name="Retrox Tv" tvg-logo="https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png" group-title="Retro", Retroxtv
 https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
+#EXTINF:-1 tvg-name="Aniretro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="Retro", Aniretro
+https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Magic Kids Ar" tvg-logo="https://magickids.site/img/magickidslogo.webp" group-title="Retro", Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-name="Eva Retro" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/eva-retro.png?itok=Ke3QQrF8" group-title="Retro", Eva Retro
@@ -83,8 +83,8 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w15460417.m
 https://fl1001.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retro Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Retro", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8
-#EXTINF:-1 tvg-name="Big Channel" tvg-logo="https://i.imgur.com/ldF213N.jpeg" group-title="Retro", Big Channell
-https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Canal Rex" tvg-logo="https://neotv.cl/assets/img/channels/canal-rex.png" group-title="Retro", Canal Rex
+https://v4.tustreaming.cl/canalrex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/UKHdD96.jpeg" group-title="Retro", Retro magico
 https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/fJoDspV.png" group-title="Retro", Boing
