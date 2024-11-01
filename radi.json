@@ -2,12 +2,12 @@
     "stations": [
         {
             "name": "Ritmo Romantica",
-            "url": "https://24933.live.streamtheworld.com/CRP_RIT.mp3?dist=onlineradiobox",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RITAAC.aac?csegid=1010&dist=1010",
             "image": "https://cdn.onlineradiobox.com/img/l/6/25456.v10.png"
         },
         {
             "name": "Ritmo Romantica",
-            "url": "https://24933.live.streamtheworld.com/CRP_RIT.mp3?dist=onlineradiobox",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RITAAC.aac?csegid=1010&dist=1010",
             "image": "https://cdn.onlineradiobox.com/img/l/6/25456.v10.png"
         }
     ]
