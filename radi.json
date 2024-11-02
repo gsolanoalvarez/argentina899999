@@ -1,14 +1,46 @@
 {
-    "stations": [
-        {
-            "name": "Ritmo Romantica",
-            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RITAAC.aac?csegid=1010&dist=1010",
-            "image": "https://cdn.onlineradiobox.com/img/l/6/25456.v10.png"
-        },
-        {
-            "name": "Ritmo Romantica",
-            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RITAAC.aac?csegid=1010&dist=1010",
-            "image": "https://cdn.onlineradiobox.com/img/l/6/25456.v10.png"
-        }
-    ]
+  "stations": [
+    {
+      "name": "Studio 92",
+      "slogan": "La radio musical",
+      "frequency": "92.5 FM",
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/studio92.png",
+      "stream": "https://api.instant.audio/data/streams/13/studio"
+    },
+    {
+      "name": "Radio Corazón",
+      "slogan": "La radio del amor",
+      "frequency": "94.3 FM",
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/corazon.png",
+      "stream": "https://api.instant.audio/data/streams/13/corazon"
+    },
+    {
+      "name": "Radio Oxígeno",
+      "slogan": "Rock & Pop",
+      "frequency": "102.1 FM",
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/oxigeno.png",
+      "stream": "https://api.instant.audio/data/streams/13/oxigeno"
+    },
+    {
+      "name": "La Zona",
+      "slogan": "Tu música urbana",
+      "frequency": "90.5 FM",
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/la-zona.png",
+      "stream": "https://api.instant.audio/data/streams/13/la-zona"
+    },
+    {
+      "name": "Radio Moda",
+      "slogan": "La radio juvenil",
+      "frequency": "97.3 FM",
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/moda.png",
+      "stream": "https://api.instant.audio/data/streams/13/moda"
+    },
+    {
+      "name": "Radio Planeta",
+      "slogan": "Lo mejor del rock",
+      "frequency": "107.7 FM",
+      "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/planeta.png",
+      "stream": "https://api.instant.audio/data/streams/13/planeta"
+    }
+  ]
 }
