@@ -45,79 +45,79 @@
     {
                 "name": "RPP",
                 "slogan": "La Radio del Perú",
-                "signal": "89.7 FM",
+                "frequency": "89.7 FM",
                 "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/rpp.png",
-                "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio"
+                "stream": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio"
             },
             {
                 "name": "Radio Exitosa",
                 "slogan": "La Radio con Opinión",
-                "signal": "95.5 FM",
+                "frequency": "95.5 FM",
                 "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/exitosa-lima.png",
-                "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
+                "stream": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
             },
             {
                 "name": "Radio Mar",
                 "slogan": "Tu música del recuerdo",
-                "signal": "106.3 FM",
+                "frequency": "106.3 FM",
                 "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/radiomar.png",
-                "url": "https://19473.live.streamtheworld.com/CRP_MAR_SC?csegid=20001&dist=20001&ttag=20001"
+                "stream": "https://19473.live.streamtheworld.com/CRP_MAR_SC?csegid=20001&dist=20001&ttag=20001"
             },
             {
                 "name": "Panamericana",
                 "slogan": "La Radio",
-                "signal": "101.1 FM",
+                "frequency": "101.1 FM",
                 "logo": "/api/placeholder/340/240",
-                "url": "https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio"
+                "stream": "https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio"
             },
             {
                 "name": "La Felicidad",
                 "slogan": "Música que te hace feliz",
-                "signal": "88.9 FM",
+                "frequency": "88.9 FM",
                 "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/panamericana.png",
                 "url": "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio"
             },
             {
                 "name": "Radio Kalle",
                 "slogan": "La Radio que Suena",
-                "signal": "104.7 FM",
+                "frequency": "104.7 FM",
                 "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/kalle.png",
-                "url": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/"
+                "stream": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/"
             },
             {
                 "name": "Radio Z",
                 "slogan": "Tu música en español",
-                "signal": "96.7 FM",
+                "frequency": "96.7 FM",
                 "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/z-lima.png",
-                "url": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/"
+                "stream": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/"
             },
             {
                 "name": "Nueva Q",
                 "slogan": "Tu música en inglés",
-                "signal": "107.1 FM",
+                "frequency": "107.1 FM",
                 "logo": "https://cdn.instant.audio/images/logos/radios-com-pe/nueva-q.png",
-                "url": "https://23093.live.streamtheworld.com/CRP_NQ_SC?csegid=20001&dist=20001&ttag=20001"
+                "stream": "https://23093.live.streamtheworld.com/CRP_NQ_SC?csegid=20001&dist=20001&ttag=20001"
             },
             {
                 "name": "Radio Inolvidable",
                 "slogan": "Los Mejores Recuerdos",
-                "signal": "93.7 FM",
+                "frequency": "93.7 FM",
                 "logo": "/api/placeholder/340/240",
-                "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001"
+                "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001"
             },
             {
                 "name": "Radio Viva",
                 "slogan": "Vive la Música",
-                "signal": "104.3 FM",
+                "frequency": "104.3 FM",
                 "logo": "/api/placeholder/340/240",
-                "url": "https://tupanel.info:8780//stream"
+                "stream": "https://tupanel.info:8780//stream"
             },
             {
                 "name": "Generación Kpop",
                 "slogan": "Tu Radio K-pop",
-                "signal": "Online",
+                "frequency": "Online",
                 "logo": "/api/placeholder/340/240",
-                "url": "https://stream9.mexiserver.com/8242/stream/1/"
+                "stream": "https://stream9.mexiserver.com/8242/stream/1/"
             }
   ]
 }
