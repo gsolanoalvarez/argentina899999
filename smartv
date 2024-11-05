@@ -35,8 +35,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w778505871.m3u8
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinerama TV" tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="Peliculas",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1 tvg-name="Animestation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="Anime", AnimeStation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kanade" tvg-logo="https://kanade.cl/public/assets/img/CO_COLOR-BLACK@4x.png" group-title="Anime", Kanade
+https://stream.wifiexpert.cl/kanade/kanadetv/chunks.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Anime", Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime", Max Anime
