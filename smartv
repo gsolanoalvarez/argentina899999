@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="planeta tv movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp" group-title="Peliculas", planeta tv movies
+https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w855558353.m3u8
 #EXTINF:-1 tvg-name="planetatv" tvg-logo="https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp" group-title="Peliculas", planetatv
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Big Channel" tvg-logo="https://i.imgur.com/ldF213N.jpeg" group-title="Peliculas", Big Channell
@@ -131,7 +134,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-name="Kpop" tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="Musica", kPOP
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-#EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/planeta-tv-chile.png" group-title="Musica", Planeta tv
+#EXTINF:-1 tvg-name="Planetatv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b047c9713a6e55d2169cc2c9bc9aadf2.webp" group-title="Musica", Planeta tv
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8
 #EXTINF:-1 tvg-name="CosMattia TV" tvg-logo="https://i.ibb.co/HqwhTLf/449391389-1099147645032206-5694837558547645191-n-removebg-preview.webp" group-title="Musica", CosMattia TV
 https://fl1002.bozztv.com/ssh101/cosmattiatv/tracks-v1a1/mono.m3u8
