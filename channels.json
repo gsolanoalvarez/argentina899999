@@ -1,7 +1,7 @@
 [
     {
         "name": "Cinemax",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENJTkVNQVhfSEQpL21hbmlmZXN0Lm1wZA==&k1=ZTg1Mzg1NjkzMjg1MWRiZTc4ZDBkOTRmZGYyOTZmZWU=&k2=OTM2OTBkYmJkNTg4NGVjZDRiODFlOTg4MGM4MjliMWY=",
+        "vurl": "https://clarovideo.playsito2.boutique/embed/cinemax.php",
         "image-url": "https://www.cablevisionhd.com/imge/cinemax.png"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "name": "Cine canal",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENJTkVDQU5BTF9IRCkvbWFuaWZlc3QubXBk&k1=ZjY3YzJjOTM2YTQyZTQzNjVkNmE0NmVkMTNjZDM2OTA=&k2=MjVjNzFjOTI3YjEwOGUyN2JkMzRjMGI3MmVlMmNlOTY=",
+        "vurl": "https://clarovideo.playsito2.boutique/embed/cinecanal.php",
         "image-url": "https://www.cablevisionhd.com/imge/cinecanal.webp"
     },
     {
@@ -47,7 +47,7 @@
     {
         "name": "Warner",
         "vurl": "https://clarovideo.playsito2.boutique/embed/warner.php",
-        "image-url": "https://television-libre.online/img/warner.webp"
+        "image-url": "https://www.cablevisionhd.com/imge/warner.webp"
     },
     {
         "name": "HBO",
@@ -72,7 +72,7 @@
     {
         "name": "Discovery Channel",
         "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKERJU0NPVkVSWV9DSEFOTkVMX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZTdkNDM0ODQwN2JmODZkOTgyMDc2ZmIwZmZhNjU0ZTY=&k2=ODBhY2M1NGQzYzU2ZWQwNzcwYzRmMTJmOTFiNTNiNjg=",
-        "image-url": "https://television-libre.online/img/discovery.webp"
+        "image-url": "https://www.cablevisionhd.com/imge/discovery.webp"
     },
     {
         "name": "History Channel",
@@ -87,17 +87,17 @@
     {
         "name": "National Geographic",
         "vurl": "https://clarovideo.sdfgnksbounce.com/history.php?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKE5BVEdFT19IRCkvbWFuaWZlc3QubXBk&k1=YjljMjBkYWM1YmJlYTVlMzc1YTE0ZjgyNmJmMmM2ODU=&k2=ZDg0ZDkwMTkzYjE5MmEzNjA0ZjQxY2Y0YzIxM2RhZDc=",
-        "image-url": "https://television-libre.online/img/natgeo.webp"
+        "image-url": "https://www.cablevisionhd.com/imge/natgeo.webp"
     },
     {
         "name": "Nick",
         "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKE5JQ0tFTE9ERU9OX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZTY1ZmYyODhiMDMyZWM1ZWE3MGRlZTQyMzBiYTA0ODA=&k2=OTAyZWYyZGUyZjk5ZjhkZGZjMGQ4ZDVlYjI2MWU4ZWE=",
-        "image-url": "https://television-libre.online/img/nick.png"
+        "image-url": "https://www.cablevisionhd.com/imge/nick.png"
     },
     {
         "name": "Cartoon Network",
         "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENBUlRPT05fTkVUV09SS19IRCkvbWFuaWZlc3QubXBk&k1=M2E4MjdmN2ZlZGU0NGQ4ZDk3M2NiYmFhYjBjMDg5YzA=&k2=ZjkxZWViM2M3YzEyZDkzOTE0MzRkYzc5YTg3MmMwYjk=",
-        "image-url": "https://television-libre.online/img/cn.webp"
+        "image-url": "https://www.cablevisionhd.com/imge/cartoonnetwork.png"
     },
     {
         "name": "AXN",
