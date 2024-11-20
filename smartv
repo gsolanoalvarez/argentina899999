@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="planeta tv movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp" group-title="Peliculas", planeta tv movies
 https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w855558353.m3u8
 #EXTINF:-1 tvg-name="planetatv" tvg-logo="https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp" group-title="Peliculas", planetatv
