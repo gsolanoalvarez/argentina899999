@@ -39,6 +39,8 @@ https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanade" tvg-logo="https://kanade.cl/public/assets/img/CO_COLOR-BLACK@4x.png" group-title="Anime", Kanade
 https://stream.wifiexpert.cl/kanade/kanadetv/chunks.m3u8
+#EXTINF:-1 tvg-name="animestation" tvg-logo="https://i.imgur.com/dJoxdfn.png" group-title="Anime", animestation
+https://fl1002.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Magic Kids" tvg-logo="https://magickids.site/img/magickidslogo.webp" group-title="Anime", Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Anime", Dreiko TV
