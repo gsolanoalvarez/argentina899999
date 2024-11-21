@@ -1,28 +1,687 @@
 {
-  "channels": [
-    {
-      "name": "planeta tv movies",
-      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp",
-      "category": "Peliculas",
-      "stream_url": "https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w855558353.m3u8"
-    },
-    {
-      "name": "planetatv",
-      "logo": "https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp",
-      "category": "Peliculas",
-      "stream_url": "https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "Big Channel",
-      "logo": "https://i.imgur.com/ldF213N.jpeg",
-      "category": "Peliculas",
-      "stream_url": "https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "name": "+CINE",
-      "logo": "https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png",
-      "category": "Peliculas",
-      "stream_url": "https://tv.streaming-chile.com:19360/8142/8142.m3u8"
-    }
-  ]
+    "data": [
+        {
+            "name": "EnerGeek Retro",
+            "slug": "energeek-retro",
+            "logo": "/assets/img/channels/eg-retro-3.png",
+			"description": "El canal insignia de la familia EnerGeek te transporta a través de un viaje nostálgico con una cuidadosa selección de series y películas icónicas de las décadas de los 80, 90 y 2000. Además, ofrece un contenido original producido por su talentoso equipo, garantizando una experiencia única. Prepárate para sumergirte en una emocionante programación que te hará revivir momentos inolvidables y despertarán una nostalgia inigualable.",
+            "recommend": true,
+            "website": "https://energeek.cl/en-vivo",
+            "url": "https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8"
+        },
+        {
+            "name": "EnerGeek Fan",
+            "slug": "energeek-fan",
+            "description": "Este canal, parte de la familia EnerGeek, ofrece una programación diversa las 24 horas del día. Desde emocionantes caricaturas hasta cautivadoras series de animación japonesa, pasando por vibrantes series live-action y divertidas sitcoms, es el destino perfecto para todos los amantes del entretenimiento.",
+            "logo": "/assets/img/channels/eg-fan-2.png",
+            "recommend": true,
+            "website": "https://energeek.cl/en-vivo",
+            "url": "https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8"
+        },
+        {
+            "name": "EnerGeek Radio TV",
+            "slug": "energeek-radio-tv",
+            "description": "Canal parte de la familia EnerGeek, donde podrás explorar un poco de la cultura chilena mientras te deleitas con las mejores melodías de K-Pop, J-Pop y J-Rock. Además, no te pierdas la oportunidad de disfrutar de la producción de algunos de nuestros programas originales. ¡Una experiencia única que combina lo mejor de la música y la diversidad cultural!",
+            "logo": "/assets/img/channels/eg-radio-2.png",
+            "recommend": true,
+            "website": "https://energeek.cl/en-vivo",
+            "url": "https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8"
+        },
+        {
+            "name": "ModoRadio TV",
+            "slug": "modoradio-tv",
+			"description": "Fundado en el mes de octubre de 2015 por un grupo de jóvenes quienes decidieron unirse en torno a un proyecto capaz de difundir y comunicar todos aquellos aspectos relacionados con el mundo artístico, musical, tecnológico y cultural, enfocándose en aspectos de las tendencias propias de la “cultura pop” entre las que se encuentran la música de distintos lugares del planeta (Estados Unidos, Europa y Oriente), la difusión de novedades provenientes de la telefonía móvil, las comunicaciones y los videojuegos, la cobertura de importantes eventos a nivel artístico y del entretenimiento y abrir un espacio para otras tendencias que resultan desconocidas para una gran mayoría.",
+            "logo": "/assets/img/channels/modoradio.png",
+            "recommend": false,
+            "website": "https://modoradio.cl/",
+            "url": "https://wifispeed.trapemn.tv:1936/energeek/modoradio-p/playlist.m3u8"
+        },
+        {
+            "name": "Kanade",
+            "slug": "kanade-tv",
+            "logo": "/assets/img/channels/kanade-2.png",
+			"description": "Kanade es un canal de televisión dedicado completamente a la animación y la cultura pop. Su misión es rescatar series y películas del recuerdo, dándoles una nueva oportunidad para ser apreciadas por las nuevas generaciones. Transmitimos tanto en español como en su idioma original, ofreciendo desde clásicos de la animación que marcaron época en la televisión chilena hasta producciones cinematográficas aclamadas por la crítica. Con una amplia variedad de géneros y contenido para todas las edades, Kanade invita a los espectadores a revivir lo mejor de la animación. Entramos en fase de combate.",
+            "recommend": true,
+            "website": "https://kanade.cl",
+            "url": "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8"
+        },
+        {
+            "name": "Spectrum Channel",
+            "slug": "spectrum-channel",
+            "recommend": true,
+			"description": "El primer canal de televisión en LATAM dirigido a la comunidad LGBTQ+. Busca educar y sensibilizar a la sociedad sobre la realidad de la comunidad LGBTQ+, así como ofrecer entretenimiento y diversión a todos los espectadores.",
+            "logo": "/assets/img/channels/spectrum-channel.png",
+            "url": "https://stream.skarnetchile.com:19360/spectrumchannel/spectrumchannel.m3u8",
+            "website": "https://spectrumchannel.cl/"
+        },
+        {
+            "name": "Latino Kids TV",
+            "slug": "latino-kids-tv",
+			"description": "Proyecto que tiene la finalidad de entretener a los mas chicos de la casa y a los no tan chicos también, con programación variada, y con nuestra misión de simplemente de entretener a todos, a chicos y grandes, con sus series favoritas, sabemos que nunca vamos a poder complacer a todos, pero trataremos de que si.",
+            "logo": "/assets/img/channels/latinokidstv.png",
+            "recommend": true,
+            "website": "https://latinokids.online",
+            "url": "https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8"
+        },
+        {
+            "name": "Varied TV",
+            "slug": "varied-tv",
+            "logo": "/assets/img/channels/variedtv.png",
+            "recommend": false,
+            "website": "https://www.variedtv.online/",
+            "url": "https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8"
+        },
+        {
+            "name": "Dreiko TV",
+            "slug": "dreiko-tv",
+            "logo": "/assets/img/channels/dreikotv.png",
+            "recommend": false,
+            "website": "https://dreikotv.com",
+            "url": "https://cloudvideo.servers10.com:8081/8096/index.m3u8"
+        },
+        {
+            "name": "Lanco Televisión",
+            "slug": "lanco-tv",
+			"description": "Canal que busca destacar lo mejor de la comuna de Lanco, su gente y sus tradiciones.",
+            "logo": "/assets/img/channels/lanco-television.png",
+            "recommend": true,
+            "website": "https://lancotelevision.cl/senal-en-vivo/",
+            "url": "https://5e3483cba9114.streamlock.net:443/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8"
+        },
+        {
+            "name": "VCONLINE",
+            "slug": "vconline",
+            "logo": "/assets/img/channels/vconline.png",
+            "recommend": false,
+            "website": "https://www.vconline.cl/",
+            "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
+        },
+        {
+            "name": "Eva Televisión",
+            "slug": "eva-television",
+            "logo": "/assets/img/channels/eva-television.png",
+            "recommend": false,
+            "website": "https://www.evamedios.cl/",
+            "url": "https://stream.skarnetchile.com:19360/evatelevision/evatelevision.m3u8"
+        },
+        {
+            "name": "TVO San Vicente",
+            "slug": "tvo-san-vicente",
+            "logo": "/assets/img/channels/tvo-nuevo.png",
+			"description": "Canal de televisión desde San Vicente de Taguatagua, con programación de carácter regionalista que busca difundir, rescatar y documentar las distintas expresiones y el patrimonio inmaterial de la región de O'Higgins.",
+            "recommend": false,
+            "website": "https://www.tvosanvicente.cl/",
+            "url": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"
+        },
+        {
+            "name": "TVM",
+            "slug": "tvm",
+			"description": "Con sede en la X Región, TVM es un canal que busca aportar información para la construcción de una sociedad participativa e incluyente, transmitiendo contenidos informativos, culturales, deportivos y educativos.",
+            "logo": "/assets/img/channels/tvm.png",
+            "recommend": false,
+            "website": "https://www.canaltvm.cl",
+            "url": "https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8"
+        },
+        {
+            "name": "Suyai Televisión",
+            "slug": "suyai-tv",
+			"description": "Canal de televisión cultural que busca la promoción del arte, la cultura y la comunidad. Desde sus inicios, Suyai TV se ha comprometido a promover la difusión de obras de arte, y todas las manifestaciones culturales que enriquecen la sociedad chilena. Su nombre viene de distintas lenguas como el Mapudungun, Quechua o Aimará, donde significa esperanza.",
+            "logo": "/assets/img/channels/suyai-tv-2.png",
+            "recommend": true,
+            "website": "https://suyaitv.cl/",
+            "url": "https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001"
+        },
+        {
+            "name": "Fantasia TV",
+            "slug": "fantasia-tv",
+            "logo": "/assets/img/channels/fantasia-tv.png",
+            "recommend": false,
+            "website": "https://www.radiofantasia.cl",
+            "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8"
+        },
+        {
+            "name": "Z Anime",
+            "slug": "z-anime",
+            "logo": "/assets/img/channels/ZTV.png",
+            "recommend": false,
+            "website": "https://zplay.cl",
+            "url": "https://mitv.zplay.cl/Ztv/index.m3u8"
+        },
+        {
+            "name": "Canal Rex",
+            "slug": "canal-rex",
+            "logo": "/assets/img/channels/canal-rex.png",
+			"description": "#RevivamosLosClásicos, Cultura Pop, Series y Películas Retro De La Vida ! 📺⏪️🎬🍿",
+            "recommend": false,
+            "website": "https://canalrex.com",
+            "url": "https://v4.tustreaming.cl/canalrex/index.m3u8"
+        },
+        {
+            "name": "Punto 99",
+            "slug": "punto-99",
+            "logo": "/assets/img/channels/punto-99.png",
+            "website": "https://canalpunto99.jimdofree.com/",
+            "url": "https://stmv5.voxtvhd.com.br/tvcoolretro/tvcoolretro/playlist.m3u8"
+        },
+        {
+            "name": "Caldera Visión",
+            "slug": "caldera-vision",
+            "logo": "/assets/img/channels/caldera-vision.png",
+			"description": "Desde la ciudad de Caldera, en la región de Atacama, somos un canal local que cumple con informar de los ultimos acontencimientos ocurridos.",
+            "recommend": false,
+            "website": "https://www.calderavision.cl",
+            "url": "https://us.streaminghd.cl/calderavisiontv/index.m3u8"
+        },
+        {
+            "name": "Ruidos TV",
+            "slug": "ruidos-tv",
+            "logo": "/assets/img/channels/ruidostv.png",
+            "url": "https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8",
+            "website": "http://tv.ruidosfm.cl/"
+        },
+        {
+            "name": "Vision Plus TV",
+            "slug": "vision-plus-tv",
+            "logo": "/assets/img/channels/vision-plus-tv.png",
+			"description": "Entretener, informar y educar, promoviendo la cultura, la educación, la participación, la verdad, la tolerancia, el amor al prójimo y la justicia social. Transmitimos por distintas señales de cable las 24 horas del día, los siete días de la semana sin interrupción; acompañando a nuestras vecinas y vecinos. Nuestra cercanía y vinculación con la comunidad reafirma la identidad y la diversidad cultural, promueve la libertad de creación y expresión, proporcionando igualdad de acceso a bienes socio culturales, buscamos descentralizar la producción de contenidos y nos esforzamos en proporcionar a la ciudadanía herramientas formativas.",
+            "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8",
+            "website": "https://www.visionplustv.cl/"
+        },
+        {
+            "name": "CRTV Chile",
+            "slug": "crtv-chile",
+            "logo": "/assets/img/channels/crtv-chile.png",
+            "url": "https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8",
+            "website": "https://crtvchile.cl/"
+        },
+        {
+            "name": "Autonoma TV",
+            "slug": "autonoma-tv",
+            "logo": "/assets/img/channels/autonoma-tv.png",
+            "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
+            "website": "https://autonomatv.cl"
+        },
+        {
+            "name": "Onda Radio TV",
+            "slug": "onda-radio-tv",
+			"description": "Onda Radio TV es un medio pluralista, abierto, cercano que conecta con sus audiencias, a través de programas que buscan satisfacer diversas necesidades del público, tanto en materia de entretenimiento, como de información, opinión y temas de interés.",
+            "logo": "/assets/img/channels/onda-radio-tv.png",
+            "url": "https://tv.streaming-chile.com:1936/ondaradiotv/ondaradiotv/playlist.m3u8",
+            "website": "https://www.ondaradiotv.cl"
+        },
+        {
+            "name": "NinaTV",
+            "slug": "nina-tv",
+            "logo": "/assets/img/channels/nina-tv.png",
+            "description": "Bienvenidos a Nina FM, seguimos con Los Clásicos y los sonidos nuevo. Te haremos retroceder al pasado y actualizarte con lo que viene, siempre con el Estilo Único y Diferente que nos caracteriza.",
+            "website": "https://ninafm.cl",
+            "url": "https://live.server-dnsxyz.xyz:19360/ninatv/ninatv.m3u8"
+        },
+        {
+            "name": "Big TV",
+            "slug": "big-tv",
+            "logo": "/assets/img/channels/big-tv.png",
+			"description": "¡Bienvenidos a Big TV, el lugar donde la nostalgia cobra vida! Sumérgete en el mundo de las mejores series animadas de todos los tiempos. Desde las aventuras de los héroes más emblemáticos de los 80s y 90s hasta las historias más divertidas que te hicieron reír cuando eras niño, Big TV está dedicado a traer de vuelta esos momentos inolvidables.",
+            "url": "https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8",
+            "website": "https://big-tv.odoo.com"
+        },
+        {
+            "name": "Maxima TV",
+            "slug": "maxima-tv",
+            "logo": "/assets/img/channels/maximatv.png",
+            "url": "https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8",
+            "website": "https://maximatv.netlify.app/vivo"
+        },
+        {
+            "name": "Moni TV",
+            "slug": "moni-tv",
+            "recommend": true,
+            "logo": "/assets/img/channels/monitv.png",
+            "url": "https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8",
+            "website": "https://monitv.net/"
+        },
+        {
+            "name": "+ Cine",
+            "slug": "mas-cine",
+            "recommend": true,
+            "logo": "/assets/img/channels/mascine.png",
+            "url": "https://tv.streaming-chile.com:19360/8142/8142.m3u8",
+            "website": "https://www.facebook.com/profile.php?id=61558302777919"
+        },
+        {
+            "name": "Terror TV",
+            "slug": "terror-tv",
+            "recommend": true,
+            "logo": "/assets/img/channels/terrortv.png",
+            "url": "https://tv.streaming-chile.com:19360/8140/8140.m3u8",
+            "website": "https://www.facebook.com/profile.php?id=61558302777919"
+        },
+        {
+            "name": "AniRetro",
+            "slug": "aniretro",
+            "logo": "/assets/img/channels/aniretro.png",
+            "url": "https://tv.streaming-chile.com:19360/8068/8068.m3u8",
+            "website": "https://www.facebook.com/profile.php?id=61558786610540"
+        },
+        {
+            "name": "Canal LMS",
+            "slug": "canal-lms",
+            "recommend": true,
+			"logo": "/assets/img/channels/lms.png",
+            "url": "https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8",
+            "website": "https://energeek.cl/"
+        },
+        {
+            "name": "ACS Network TV",
+            "slug": "acs-network-tv",
+            "logo": "/assets/img/channels/acs-network-tv.png",
+            "url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
+            "website": "https://acsnetwork.tv/"
+        },
+        {
+            "name": "Gogoplay TV",
+            "slug": "gogoplay-tv",
+            "logo": "/assets/img/channels/gogoplay-tv.png",
+            "url": "https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8",
+            "website": "https://www.gogoplaytv.com/"
+        },
+        {
+            "name": "Canal 2 Quellón",
+            "slug": "canal-2-quellon",
+            "logo": "/assets/img/channels/canal-2-quellon.png",
+            "url": "https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+            "website": "https://www.canal2quellon.cl/"
+        },
+        {
+            "name": "Platzi TV",
+            "slug": "platzi-tv",
+            "logo": "/assets/img/channels/platzi-tv.png",
+            "url": "https://mdstrm.com/live-stream-playlist/663ba07c06e6e3577a30452a.m3u8",
+            "website": "https://platzi.com/live/"
+        },
+        {
+            "name": "MuchMusic CL",
+            "slug": "muchmusic-cl",
+            "logo": "/assets/img/channels/muchmusic.png",
+            "url": "https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8",
+            "website": "https://www.twitter.com/MuchMusicCL"
+        },
+        {
+            "name": "Origen TV",
+            "slug": "origen-tv",
+			"logo": "/assets/img/channels/origentv.png",
+            "url": "https://tv.streaming-chile.com:8081/origentvhd/index.m3u8",
+            "website": "https://www.origentv.cl/"
+        },
+        {
+            "name": "Invasiva TV",
+            "slug": "Invasiva-tv",
+            "logo": "/assets/img/channels/lim-tv.png",
+            "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
+            "website": "https://www.invasivamedia.com/"
+        },
+        {
+            "name": "DVC Televisión",
+            "slug": "dvc-tv",
+            "description": "Proyecto que tiene el fin de entretener, informar y educar, con programas de salud, cultura y entretención para toda la familia.",
+            "logo": "/assets/img/channels/dvc-television.png",
+            "url": "https://us.streaminghd.cl/dvctelevision/index.m3u8",
+            "website": "https://dvccomunicaciones.cl"
+        },
+        {
+            "name": "Canal 5 del Pueblo",
+            "slug": "canal-5-arg",
+            "logo": "/assets/img/channels/canal-5-arg.png",
+            "url": "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8",
+            "website": "https://canal5television.com/"
+        },
+        {
+            "name": "Emanuel7 TV",
+            "slug": "emanuel7-tv",
+            "logo": "/assets/img/channels/emanuel7-tv.png",
+            "url": "https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8",
+            "website": "https://emanuel7tv.es/"
+        },
+        {
+            "name": "MAX Anime",
+            "slug": "max-anime",
+			"description": "Espacio dedicado por completo al anime. Somos el destino principal para todos los amantes de este genero y la cultura japonesa y asiática en general. desde series de anime populares, doramas, programas centrados en cosplay, información sobre la cultura geek, el fenómeno del K-Pop y mucho más.",
+            "logo": "/assets/img/channels/max-anime-3-c.png",
+            "url": "https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8",
+            "website": "https://esportsmaxtele.com/max-anime/"
+        },
+        {
+            "name": "Austral Argentina",
+            "slug": "austral-ar",
+            "logo": "/assets/img/channels/austral-ar.png",
+            "url": "https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8",
+            "website": "https://www.austral.lat"
+        },
+        {
+            "name": "Elekta Channel",
+            "slug": "elekta-ch",
+            "logo": "/assets/img/channels/elekta-channel.png",
+            "url": "https://streaming-cl.sh1ny.space/memfs/2b595c57-70e3-41fc-acbd-29e3443c7cee.m3u8",
+            "website": "https://elekta.lat"
+        },
+        {
+            "name": "ZeroFilms Televisión",
+            "slug": "zerofilms-tv",
+            "logo": "/assets/img/channels/zerofilms.png",
+			"description": "Medio de difusión de la empresa ZeroFilms WebTV Entertainment, productora de cine y televisión. Ubicados en la Ciudad de Bogotá, capital de Colombia, su programación es musical y variada con programas de entretenimiento, educativos y de información.",
+            "url": "https://ssh101-fl.bozztv.com/ssh101/canalzerofilms/index.m3u8",
+            "website": "https://www.youtube.com/@CANALZEROFILMS-hm5hv/"
+        },
+        {
+            "name": "LRP Televisión",
+            "slug": "lrp-television",
+            "logo": "/assets/img/channels/lrptv.png",
+            "url": "https://v2.tustreaming.cl/lrp/index.m3u8",
+            "website": "https://lrptelevision.com/"
+        },
+        {
+            "name": "VoiceOver RadioTV",
+            "slug": "voiceover-radiotv",
+            "logo": "/assets/img/channels/voiceOver-radiotv.png",
+            "url": "https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8",
+            "website": "https://voiceovercr.com"
+        },
+        {
+            "name": "Radio Carolina",
+            "slug": "radio-carolina",
+            "logo": "/assets/img/channels/radio-carolina.png",
+            "url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
+            "website": "https://www.carolina.cl/"
+        },
+        {
+            "name": "Radio Portales",
+            "slug": "radio-portales",
+            "logo": "/assets/img/channels/radio-portales.png",
+            "url": "https://cdn.oneplaychile.cl:1936/radios/radioportales/playlist.m3u8",
+            "website": "https://radioportales.cl"
+        },
+        {
+            "name": "Maxima Radio",
+            "slug": "maxima-radio",
+            "logo": "/assets/img/channels/maxima-radio.png",
+            "url": "https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8",
+            "website": "https://maximachile.cl"
+        },
+        {
+            "name": "Más FM",
+            "slug": "mas-fm",
+            "logo": "/assets/img/channels/mas-fm.png",
+            "url": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
+            "website": "https://masfm.com/emisora/"
+        },
+        {
+            "name": "KPOP TV",
+            "slug": "kpop-tv",
+            "logo": "/assets/img/channels/kpop-tv.png",
+			"description": "KpopTV Play es un canal de videos musicales de K-pop, más conocidos como MV (music video), el pop surcoreano se está convirtiendo en una fiebre en todo el mundo y este canal es el primero en Brasil dedicado a los mejores MV de grupos de chicas. Por supuesto, de vez en cuando verás a BTS, después de todo, es el grupo de chicos más grande de K-Pop en la actualidad. Canciones antiguas y actuales se mezclan en una programación envolvente y muy candente.",
+            "url": "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8",
+            "website": "https://kpoptv.live/"
+        },
+        {
+            "name": "Sicardi TV",
+            "slug": "sicardi-tv",
+            "logo": "/assets/img/channels/sicardi-tv.png",
+            "url": "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8",
+            "website": "https://sicarditv.com.ar/"
+        },
+        {
+            "name": "UMAG 2",
+            "slug": "umag-2",
+            "logo": "/assets/img/channels/umag-2.png",
+            "url": "https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8",
+            "website": "https://www.umagtv.cl/blank-2"
+        },
+        {
+            "name": "Radio Zeta",
+            "slug": "radio-zeta",
+            "logo": "/assets/img/channels/radio-zeta.png",
+            "url": "https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8",
+            "website": "https://www.radiozeta.cl"
+        },
+        {
+            "name": "Subela Radio",
+            "slug": "subela-radio",
+            "logo": "/assets/img/channels/subela-radio.png",
+            "url": "https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8",
+            "website": "https://www.subela.cl/"
+        },
+        {
+            "name": "PlanetaTV",
+            "slug": "planetatv",
+            "logo": "/assets/img/channels/planetaTV-music.png",
+            "url": "https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8",
+            "website": "https://planetatv.cl/"
+        },
+        {
+            "name": "Magic Kids",
+            "slug": "magic-kids",
+			"description": "Señal 24/7 en tributo al extinto canal de mismo nombre, que emitió en LATAM desde el 2001 al 2006.",
+            "logo": "/assets/img/channels/magic-kids.png",
+            "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
+            "website": "https://magickids.site"
+        },
+        {
+            "name": "ClickTV",
+            "slug": "clicktv",
+            "logo": "/assets/img/channels/clicktv.png",
+            "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+            "website": "https://clicktvchile.cl/"
+        },
+        {
+            "name": "Canal 2 San Antonio",
+            "slug": "canal-2-san-antonio",
+            "logo": "/assets/img/channels/canal-2-san-antonio.png",
+            "url": "https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8",
+            "website": "https://cablenoticias.cl/Canal2"
+        },
+        {
+            "name": "Castro Municipio TV",
+            "slug": "castro-tv",
+            "logo": "/assets/img/channels/castrotv.png",
+            "url": "https://videostream.chileservidores.com:8081/chiloe4/index.m3u8",
+            "website": "https://castromunicipiotv.cl/"
+        },
+        {
+            "name": "BayresTV",
+            "slug": "bayrestv",
+            "logo": "/assets/img/channels/bayrestv.png",
+            "url": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8",
+            "website": "https://www.bayrestv.com.ar/"
+        },
+        {
+            "name": "GenTV Digital",
+            "slug": "gentv-digital",
+            "logo": "/assets/img/channels/gentv-digital.png",
+            "url": "https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8",
+            "website": "https://gentvoficial.com/"
+        },
+        {
+            "name": "TeleMAX",
+            "slug": "telemax",
+            "logo": "/assets/img/channels/telemax.png",
+            "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+            "website": "https://telemax.com.mx/"
+        },
+        {
+            "name": "El 3 de Conce",
+            "slug": "el-3-de-conce",
+            "logo": "/assets/img/channels/el-3-de-conce.png",
+            "url": "https://us.streaminghd.cl/el3deconce/index.m3u8",
+            "website": "https://el3deconce.cl/"
+        },
+        {
+            "name": "La Granja TV",
+            "slug": "la-granja-tv",
+            "logo": "/assets/img/channels/la-granja-tv.png",
+            "url": "https://oracle.streaminghd.cl/8126/8126/index.m3u8",
+            "website": "https://www.lagranja.tv/"
+        },
+        {
+            "name": "Pichilemu TV",
+            "slug": "pichilemu-tv",
+            "logo": "/assets/img/channels/pichilemu-tv.png",
+            "url": "https://5ff3d9babae13.streamlock.net/8028/8028/index.m3u8",
+            "website": "https://pichilemutv.org/"
+        },
+        {
+            "name": "Taltal TV",
+            "slug": "taltal-tv",
+			"description": "Señal proveniente de la comuna de Taltal, la cual transmite series animadas, peliculas, anime y contenido original y especial de la comuna.",
+			"logo": "/assets/img/channels/taltal-tv.png",
+            "url": "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8",
+            "website": "https://www.facebook.com/TALTALTV/"
+        },
+        {
+            "name": "SuperSonika FM",
+            "slug": "supersonika-fm",
+            "logo": "/assets/img/channels/supersonika.png",
+            "url": "https://unlimited2-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8",
+            "website": "https://www.supersonikafm.cl/"
+        },
+        {
+            "name": "Veo TV",
+            "slug": "veo-tv",
+            "logo": "/assets/img/channels/veo-tv.png",
+            "url": "https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8",
+            "website": "https://www.veotv.cl/"
+        },
+        {
+            "name": "Sextavision",
+            "slug": "sextavision",
+			"logo": "/assets/img/channels/sextavision.png",
+            "url": "https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8",
+            "website": "https://www.sextavision.cl/"
+        },
+        {
+            "name": "Santa Maria TV",
+            "slug": "santa-maria-tv",
+            "logo": "/assets/img/channels/santa-maria-tv.png",
+            "url": "https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8",
+            "website": "https://www.radiosantamaria.cl/"
+        },
+        {
+            "name": "Net TV",
+            "slug": "net-tv",
+            "logo": "/assets/img/channels/net-tv.png",
+            "url": "https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8",
+            "website": "https://www.canalnet.tv/"
+        },
+        {
+            "name": "Estación TV",
+            "slug": "estacion-tv",
+            "logo": "/assets/img/channels/estacion-tv.svg",
+            "url": "https://v4.tustreaming.cl/limachemovil/playlist.m3u8",
+            "website": "https://www.estaciontv.cl"
+        },
+        {
+            "name": "Caracola TV",
+            "slug": "caracola-tv",
+            "logo": "/assets/img/channels/caracola-tv.png",
+            "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8",
+            "website": "https://www.caracolatv.cl/"
+        },
+        {
+            "name": "Solo StandUp",
+            "slug": "solo-standup",
+            "logo": "/assets/img/channels/solo-standup.png",
+            "url": "https://paneltv.online:1936/8116/8116/playlist.m3u8",
+            "website": "https://solostandup.com"
+        },
+        {
+            "name": "UCV Televisión",
+            "slug": "ucv-television",
+            "logo": "/assets/img/channels/ucv-television.png",
+            "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8",
+            "website": "https://ucvtv.cl/home.php"
+        },
+        {
+            "name": "UCV Eventos",
+            "slug": "ucv-eventos",
+            "logo": "/assets/img/channels/ucv-television.png",
+            "url": "https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8",
+            "website": "https://ucvtv.cl/home.php"
+        },
+        {
+            "name": "NeoTV Digital",
+            "slug": "neotv-digital",
+            "logo": "/assets/img/channels/neotv-digital.png",
+            "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
+            "website": "https://neotvdigital.com.ar/"
+        },
+        {
+            "name": "Next HD",
+            "slug": "next-hd",
+            "logo": "/assets/img/channels/next-hd-2.png",
+            "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+            "website": "https://nexthdpy.blogspot.com/"
+        },
+        {
+            "name": "Exprezion TV",
+            "slug": "exprezion-tv",
+            "logo": "/assets/img/channels/exprezion-tv.png",
+            "url": "https://vdochile.com:3774/live/cnrhiawklive.m3u8",
+            "website": "https://www.exprezion.cl/"
+        },
+        {
+            "name": "NTV",
+            "slug": "ntv",
+			"logo": "/assets/img/channels/NTV.svg",
+            "url": "https://marine2.miplay.cl/ntv/playlist.m3u8",
+            "website": "https://www.tvn.cl/ntv"
+        },
+        {
+            "name": "UChile TV",
+            "slug": "uchile-tv",
+            "logo": "/assets/img/channels/uchile-tv.png",
+            "url": "https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8",
+            "website": "https://uchile.cl/uchiletv"
+        },
+        {
+            "name": "Nativa TV",
+            "slug": "nativa-tv",
+			"logo": "/assets/img/channels/nativatv.png",
+            "url": "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8",
+            "website": "https://nativatv.cl"
+        },
+        {
+            "name": "ZIZA TV",
+            "slug": "ziza-tv",
+            "logo": "/assets/img/channels/ziza-tv.png",
+            "url": "https://v2.tustreaming.cl/zizatv/index.m3u8",
+            "website": "https://ziza.cl/"
+        },
+        {
+            "name": "AmericaTV Chile",
+            "slug": "americatv-chile",
+            "logo": "/assets/img/channels/americatv-chile.png",
+            "url": "https://v2.tustreaming.cl/radioamericatv/index.m3u8",
+            "website": "https://www.radioamerica.cl/"
+        },
+        {
+            "name": "TV+",
+            "slug": "tvmas",
+            "logo": "/assets/img/channels/tvmas.svg",
+            "url": "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8",
+            "website": "https://www.tvmas.tv/"
+        },
+        {
+            "name": "Contivisión",
+            "slug": "contivision",
+            "logo": "/assets/img/channels/contivision.png",
+            "url": "https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8",
+            "website": "https://contivision.cl/"
+        },
+        {
+            "name": "Chilevisual Classic",
+            "slug": "chilevisual-1",
+            "logo": "/assets/img/channels/chilevisual.png",
+            "url": "https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8",
+            "website": "https://chilevisual.live"
+        }
+    ]
 }
