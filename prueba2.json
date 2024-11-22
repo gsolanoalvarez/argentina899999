@@ -1,16 +1,400 @@
 {
   "channels": [
     {
-      "name": "Canal 1",
-      "logo": "https://i.imgur.com/qh2WwF3.jpeg",
+      "name": "planeta tv movies",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp",
       "url": "https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w855558353.m3u8",
-      "category": "Noticias"
+      "category": "Peliculas"
     },
     {
-      "name": "Canal 3",
-      "logo": "https://i.imgur.com/qh2WwF3.jpeg",
-      "url": "https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w855558353.m3u8",
-      "category": "Deportes"
+      "name": "planeta tv",
+      "logo": "https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp",
+      "url": "https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Big Channel",
+      "logo": "https://i.imgur.com/ldF213N.jpeg",
+      "url": "https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "+CINE",
+      "logo": "https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png",
+      "url": "https://tv.streaming-chile.com:19360/8142/8142.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Super canal",
+      "logo": "https://i.ibb.co/3pB4xsR/logoheader.webp",
+      "url": "https://live.obslivestream.com/supercanal/index.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "fm cosmo tv",
+      "logo": "https://i.imgur.com/oYaTu3J.png",
+      "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Mega cine",
+      "logo": "https://i.ibb.co/H4Hxv9B/2893-294x165-FFFFFF-11zon.webp",
+      "url": "https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Terror",
+      "logo": "https://neotv.cl/assets/img/channels/terrortv.png",
+      "url": "https://tv.streaming-chile.com:19360/8140/8140.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Mega tv",
+      "logo": "https://megatvcr.net/images/logo-mega.png",
+      "url": "https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Vision tv",
+      "logo": "https://i.imgur.com/LGfSdyr.png",
+      "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Monitos Tv",
+      "logo": "https://neotv.cl/assets/img/channels/monitv.png",
+      "url": "https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Wow tv",
+      "logo": "https://www.wowelsalvador.com/imagen/logo2.png",
+      "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1448199906_b2000000_slen.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Latina Internacional TV",
+      "logo": "https://i.imgur.com/74uTuSt.png",
+      "url": "https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Gen TV",
+      "logo": "https://i.imgur.com/qGddRW4.png",
+      "url": "https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Orbit tv",
+      "logo": "https://orbitcable.com.do/wp-content/uploads/2022/05/logotipo-orbit-01-e1653580643499.png",
+      "url": "https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w778505871.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Conectate TV",
+      "logo": "https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png",
+      "url": "https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Cinerama TV",
+      "logo": "https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg",
+      "url": "https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Kanade",
+      "logo": "https://kanade.cl/public/assets/img/CO_COLOR-BLACK@4x.png",
+      "url": "https://stream.wifiexpert.cl/kanade/kanadetv/chunks.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Animestation",
+      "logo": "https://i.imgur.com/dJoxdfn.png",
+      "url": "https://fl1002.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Magic Kids",
+      "logo": "https://magickids.site/img/magickidslogo.webp",
+      "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Dreiko tv",
+      "logo": "https://neotv.cl/assets/img/channels/dreikotv.png",
+      "url": "https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Max Anime",
+      "logo": "https://neotv.cl/assets/img/channels/max-anime-3-c.png",
+      "url": "https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Latino Kids",
+      "logo": "https://neotv.cl/assets/img/channels/latinokidstv.png",
+      "url": "https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Varied tv",
+      "logo": "https://neotv.cl/assets/img/channels/variedtv.png",
+      "url": "https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Anime TV",
+      "logo": "https://i.imgur.com/8w6Y56I.png",
+      "url": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Retro Magico",
+      "logo": "https://i.imgur.com/UKHdD96.jpeg",
+      "url": "https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Talta tv",
+      "logo": "https://neotv.cl/assets/img/channels/taltal-tv.png",
+      "url": "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Gogoplay TV",
+      "logo": "https://i.imgur.com/zAWE9O4.png",
+      "url": "https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Toonizaki",
+      "logo": "https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg",
+      "url": "https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES",
+      "category": "Anime"
+    },
+{
+      "name": "Canal Anime Onegai",
+      "logo": "https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png",
+      "url": "https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Caracola Tv",
+      "logo": "https://neotv.cl/assets/img/channels/caracola-tv.png",
+      "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Frecuencia Musical Tv",
+      "logo": "https://serenotv.com/cargas/2022/07/FMTV-fusion-2.1-150x150.jpg",
+      "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "classic channel",
+      "logo": "https://www.classicchannel.digital/img/logo-radio.png",
+      "url": "https://paneltv.online:1936/8046/8046/chunklist_w1289883683.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Diti tv",
+      "logo": "https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png",
+      "url": "https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "MDA tv",
+      "logo": "https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png",
+      "url": "https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Retrox Tv",
+      "logo": "https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png",
+      "url": "https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Aniretro",
+      "logo": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
+      "url": "https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Eva Retro",
+      "logo": "https://latinartv.com/sites/default/files/styles/poster/public/logos/eva-retro.png?itok=Ke3QQrF8",
+      "url": "https://stmv2.casttv.com.br/evaretro/evaretro/chunklist_w1738681114.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Meganet tv",
+      "logo": "https://i.imgur.com/FQF9NYp.png",
+      "url": "https://vcp8.myplaytv.com:1936/meganethits/meganethits/chunklist_w2094469988.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Retro TV online",
+      "logo": "https://serenotv.com/cargas/2023/09/RETRO-TV-LOGO-150x150.jpg",
+      "url": "https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "ACS Network Tv",
+      "logo": "https://neotv.cl/assets/img/channels/acs-network-tv.png",
+      "url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w15460417.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Retro Tv Palmares",
+      "logo": "https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg",
+      "url": "https://fl1001.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Retro Cartoon",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp",
+      "url": "https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Canal Rex",
+      "logo": "https://neotv.cl/assets/img/channels/canal-rex.png",
+      "url": "https://v4.tustreaming.cl/canalrex/tracks-v1a1/mono.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Boing",
+      "logo": "https://i.imgur.com/fJoDspV.png",
+      "url": "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "TVS Retro",
+      "logo": "https://i.ibb.co/McNsbnt/logo-TVS-Retro.png",
+      "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Sur Ninos",
+      "logo": "https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png",
+      "url": "https://ssh101-fl.bozztv.com/ssh101/opinionsurn/playlist.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Sur Series",
+      "logo": "https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png",
+      "url": "https://ssh101-fl.bozztv.com/ssh101/opinionsurs/playlist.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Espn",
+      "logo": "https://i.imgur.com/fvKyXVx.png",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8",
+      "category": "Deporte"
+    },
+{
+      "name": "Espn 2",
+      "logo": "https://tvlibreonline.net/img/espn2.webp",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/chunks.m3u8",
+      "category": "Deporte"
+    },
+{
+      "name": "Espn 3",
+      "logo": "https://tvlibreonline.net/img/espn3.webp",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8",
+      "category": "Deporte"
+    },
+{
+      "name": "Espn 5",
+      "logo": "https://tvlibreonline.net/img/espn5.webp",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8",
+      "category": "Deporte"
+    },
+{
+      "name": "Espn 6",
+      "logo": "https://tvlibreonline.net/img/espn6.webp",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8",
+      "category": "Deporte"
+    },
+{
+      "name": "Espn 7",
+      "logo": "https://tvlibreonline.net/img/espn7.png",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8",
+      "category": "Deporte"
+    },
+{
+      "name": "Real Madrid tv",
+      "logo": "https://i.imgur.com/NknFWnx.png",
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "category": "Deporte"
+    },
+{
+      "name": "Interconect TV",
+      "logo": "https://meganettv.fun/storage/channel-logos/KdKXiiiKWty5f5piOh4JAs9wse9cX6mWAI1FhDz3.jpg",
+      "url": "https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "Tigueritos TV",
+      "logo": "https://i.imgur.com/ZpthDIy.jpeg",
+      "url": "https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w265717333.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "Imvasiva Media",
+      "logo": "https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg",
+      "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "Mundo Series",
+      "logo": "https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png",
+      "url": "https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "Extrema TV Kids",
+      "logo": "https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png",
+      "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "TV Clasica",
+      "logo": "https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png",
+      "url": "https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "Pitufo TV",
+      "logo": "https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png",
+      "url": "https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "Kpop",
+      "logo": "https://neotv.cl/assets/img/channels/kpop-tv.png",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
+      "category": "Musica"
+    },
+{
+      "name": "Planeta tv",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b047c9713a6e55d2169cc2c9bc9aadf2.webp",
+      "url": "https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8",
+      "category": "Musica"
+    },
+{
+      "name": "CosMattia TV",
+      "logo": "https://i.ibb.co/HqwhTLf/449391389-1099147645032206-5694837558547645191-n-removebg-preview.webp",
+      "url": "https://fl1002.bozztv.com/ssh101/cosmattiatv/tracks-v1a1/mono.m3u8",
+      "category": "Musica"
+    },
+{
+      "name": "America tv",
+      "logo": "https://i.ibb.co/Vx5QY8Y/1194.webp",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=1111947",
+      "category": "Musica"
     }
   ]
 }
