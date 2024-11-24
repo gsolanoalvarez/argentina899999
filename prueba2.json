@@ -127,6 +127,12 @@
       "category": "Anime"
     },
 {
+      "name": "ZTV Anime",
+      "logo": "https://i.ibb.co/2dNtXPH/Logo-Z-TV.png",
+      "url": "https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8",
+      "category": "Anime"
+    },
+{
       "name": "Max Anime",
       "logo": "https://neotv.cl/assets/img/channels/max-anime-3-c.png",
       "url": "https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8",
