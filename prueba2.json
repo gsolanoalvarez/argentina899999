@@ -14,13 +14,13 @@
     },
     {
       "name": "Big Channel",
-      "logo": "https://i.imgur.com/ldF213N.jpeg",
+      "logo": "https://i.imgur.com/h3Vmx54.png",
       "url": "https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8",
       "category": "Peliculas"
     },
     {
       "name": "+CINE",
-      "logo": "https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png",
+      "logo": "https://cdn.m3u.cl/logo/1435__Cine.png",
       "url": "https://tv.streaming-chile.com:19360/8142/8142.m3u8",
       "category": "Peliculas"
     },
