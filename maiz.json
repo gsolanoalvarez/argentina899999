@@ -131,6 +131,8 @@ https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="Chile", GenTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-name="tvn" tvg-logo="https://neotv.cl/assets/img/channels/NTV.svg" group-title="Chile", tvn
+https://marine2.miplay.cl/ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Cinerama TV" tvg-logo="https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg" group-title="Bolivia",Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-name="Mi 8" tvg-logo="https://latele.xyz/img/png/canal8.png" group-title="Bolivia",Mi 8
