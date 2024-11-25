@@ -186,6 +186,12 @@
       "url": "https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES",
       "category": "Anime"
     },
+    {
+      "name": "EnerGeek Retro",
+      "logo": "https://neotv.cl/assets/img/channels/eg-retro-3.png",
+      "url": "https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=SyHpFWtuSuJCFE2BQSSfZz",
+      "category": "Anime"
+    },
 {
       "name": "Canal Anime Onegai",
       "logo": "https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png",
