@@ -3,9 +3,9 @@
 https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w855558353.m3u8
 #EXTINF:-1 tvg-name="planetatv" tvg-logo="https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp" group-title="Peliculas", planetatv
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Big Channel" tvg-logo="https://i.imgur.com/ldF213N.jpeg" group-title="Peliculas", Big Channell
+#EXTINF:-1 tvg-name="Big Channel" tvg-logo="https://i.imgur.com/h3Vmx54.png" group-title="Peliculas", Big Channell
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="+CINE" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png" group-title="Peliculas", +CINE
+#EXTINF:-1 tvg-name="+CINE" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="Peliculas", +CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-name="Super canal" tvg-logo="https://i.ibb.co/3pB4xsR/logoheader.webp" group-title="Peliculas", Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
