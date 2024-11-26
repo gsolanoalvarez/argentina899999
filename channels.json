@@ -1,12 +1,12 @@
 [
     {
         "name": "Cinemax",
-        "vurl": "https://clarovideo.playsito2.boutique/embed/cinemax.php",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/cinemax.html",
         "image-url": "https://www.cablevisionhd.com/imge/cinemax.png"
     },
     {
         "name": "Space",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFNQQUNFX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ODk4ODhlYjZhMjEwMjY5YzE0YzY5YmEzMzNkNmNjODg=&k2=NjhmNTZmYTRmYTVkN2E2ZjczMjc3ZDM2N2Q3ZTEyMmU=",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/space.html",
         "image-url": "https://www.cablevisionhd.com/imge/space.png"
     },
     {
@@ -26,38 +26,33 @@
     },
     {
         "name": "FX",
-        "vurl": "https://www.vtvcable.com/videoplayer.php?url=aHR0cHM6Ly93d3cudnR2Y2FibGUuY29tL21wZC5waHA/aWQ9ZngyJmxhbmc9MQ==",
+        "vurl": "https://streamplayweb.com/tv/fx.php",
         "image-url": "https://www.cablevisionhd.com/imge/fx.png"
     },
     {
         "name": "Paramount",
-        "vurl": "https://clarovideo.playsito2.boutique/embed/paramount-network.php",
+        "vurl": "https://streamplayweb.com/tv/paramount.php",
         "image-url": "https://television-libre.online/img/paramount.webp"
     },
     {
         "name": "Universal TV",
-        "vurl": "https://www.vtvcable.com/mpd.php?id=universalchannel&lang=1",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/universalchannel.html",
         "image-url": "https://www.cablevisionhd.com/imge/universalchannel.png"
     },
     {
         "name": "Studio Universal",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFNUVURJT19VTklWRVJTQUxfSEQpL21hbmlmZXN0Lm1wZA==&k1=OWEwNzJlYWQyZDAxYTU0NThhNWZmZWVjZjk3NzU4MTY=&k2=MTM3YmZiZmJmZWQzNjQxOWM4ZTFkNmU2MTllY2VkOGQ=",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/studiouniversal.html",
         "image-url": "https://television-libre.online/img/studio.webp"
     },
     {
         "name": "Warner",
-        "vurl": "https://clarovideo.playsito2.boutique/embed/warner.php",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/warnerchannel.html",
         "image-url": "https://www.cablevisionhd.com/imge/warner.webp"
     },
     {
         "name": "HBO",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19IRF9NWCkvbWFuaWZlc3QubXBk&k1=MjRjMmE0ZGY4ZThkZGQxNzY2NjFjYTZlMGQ2MWIyNmI=&k2=YjFiMTM4ODlmNzFhOTY5MDJjMjg1ODIzMDIxNjNhNWM=",
+        "vurl": "https://streamplayweb.com/tv/hbo.php",
         "image-url": "https://television-libre.online/img/hbo.webp"
-    },
-    {
-        "name": "Universal premiere",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFVOSVZFUlNBTF9QUkVNSUVSX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZDAxYzk0ODhlNTI4Njk3YTljZDhlYmUzNWIwNjc3Mjk=&k2=YWJiNGQwYWZmMDUyNDhhZTVlNTNkM2U4NDU0NjcxZDY=",
-        "image-url": "https://television-libre.online/img/universalcinema.webp"
     },
     {
         "name": "Investigacion Discovery",
@@ -71,22 +66,22 @@
     },
     {
         "name": "Discovery Channel",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKERJU0NPVkVSWV9DSEFOTkVMX0hEKS9tYW5pZmVzdC5tcGQ=&k1=ZTdkNDM0ODQwN2JmODZkOTgyMDc2ZmIwZmZhNjU0ZTY=&k2=ODBhY2M1NGQzYzU2ZWQwNzcwYzRmMTJmOTFiNTNiNjg=",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/discoverychannel.html",
         "image-url": "https://www.cablevisionhd.com/imge/discovery.webp"
     },
     {
         "name": "History Channel",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhJU1RPUllfQ0hBTk5FTF9IRCkvbWFuaWZlc3QubXBk&k1=YmRiNzE3MWE4OWIyMWFmZmFhYmNiZmI4YzYwNjViNDI=&k2=ZWNmMzJlYTUzOWY0MjA5ZjYyYzZiOTZiNGI3ZTdmMDM=",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/history.html",
         "image-url": "https://television-libre.online/img/history.webp"
     },
     {
         "name": "Animal Planet",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEFOSU1BTF9QTEFORVRfSEQpL21hbmlmZXN0Lm1wZA==&k1=OTU0Yjg5YTQ1MzdjZDBkMTUwYWY2MWM4ODA0NjczNzg=&k2=ZjQ1OTE0Y2Y0MDA3ZjhiOWUzN2ZkMGRkMDViNTlmYWE=",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/animalplanet.html",
         "image-url": "https://www.cablevisionhd.com/imge/aplanet.webp"
     },
     {
         "name": "National Geographic",
-        "vurl": "https://clarovideo.sdfgnksbounce.com/history.php?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKE5BVEdFT19IRCkvbWFuaWZlc3QubXBk&k1=YjljMjBkYWM1YmJlYTVlMzc1YTE0ZjgyNmJmMmM2ODU=&k2=ZDg0ZDkwMTkzYjE5MmEzNjA0ZjQxY2Y0YzIxM2RhZDc=",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/natgeo.html",
         "image-url": "https://www.cablevisionhd.com/imge/natgeo.webp"
     },
     {
@@ -96,12 +91,12 @@
     },
     {
         "name": "Cartoon Network",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENBUlRPT05fTkVUV09SS19IRCkvbWFuaWZlc3QubXBk&k1=M2E4MjdmN2ZlZGU0NGQ4ZDk3M2NiYmFhYjBjMDg5YzA=&k2=ZjkxZWViM2M3YzEyZDkzOTE0MzRkYzc5YTg3MmMwYjk=",
+        "vurl": "https://streamplayweb.com/tv/cartoonnetwork.php",
         "image-url": "https://www.cablevisionhd.com/imge/cartoonnetwork.png"
     },
     {
         "name": "AXN",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEFYTl9IRCkvbWFuaWZlc3QubXBk&k1=ODdkMjViMTNhN2Y5ZWEyZGM1ZGFhODE4ZDQxNWMxODc=&k2=Y2EzN2ZmMThlYjRmMmEyYWI1YWFhYjU5MTFiNDc1MTc=",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/axn.html",
         "image-url": "https://television-libre.online/img/axn.webp"
     },
     {
@@ -111,22 +106,22 @@
     },
     {
         "name": "Sony Channel",
-        "vurl": "https://clarovideo.playsito2.boutique/embed/sony.php",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/sony.html",
         "image-url": "https://television-libre.online/img/sony.webp"
     },
     {
         "name": "HBO plus",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&k1=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&k2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=",
+        "vurl": "https://streamplayweb.com/tv/hboplus.php",
         "image-url": "https://television-libre.online/img/hboplus.webp"
     },
     {
         "name": "tooncast",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFRPT05DQVNUKS9tYW5pZmVzdC5tcGQ=&k1=ZDZmMDAzODFjYzFhNTg2NjhhMTFlMmEzZTBmMjBmZDk=&k2=ZmM4MTdkNDVhZjVkY2UzM2NiYjc5NzkzMjI0YjgzNGM=",
+        "vurl": "https://streamplayweb.com/tv/tooncast.php",
         "image-url": "https://telefullhd.com/imagenes/Tooncast.png"
     },
     {
-        "name": "Golden Plus",
-        "vurl": "https://clarovideo.playsito2.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEdPTERFTl9IRCkvbWFuaWZlc3QubXBk&k1=YTJkNmE4NjMxMWMyMWEyYzBmNmU5MGQ1OGZkN2U1OTA=&k2=YjU2MDdlMzg5MWU4ZmI0YzBjYzgyZDhmODJhYmU1Njk=",
+        "name": "Golden",
+        "vurl": "https://streamplayweb.com/tv/golden.php",
         "image-url": "https://tvlibreonline.net/img/golden.png"
     },
     {
@@ -135,8 +130,8 @@
         "image-url": "https://www.cablevisionhd.com/imge/distritocomedia.png"
     },
     {
-        "name": "Distrito Comedia",
-        "vurl": "https://la12hd.com/vivo/canales.php?stream=espnpremium",
-        "image-url": "https://www.cablevisionhd.com/imge/distritocomedia.png"
+        "name": "AMC",
+        "vurl": "https://embed.sdfgnksbounce.com/embed2/amc.html",
+        "image-url": "https://television-libre.net//img/amc.webp"
     }
 ]
