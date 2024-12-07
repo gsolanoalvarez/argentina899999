@@ -419,6 +419,12 @@
       "logo": "https://i.ibb.co/Vx5QY8Y/1194.webp",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=1111947",
       "category": "Musica"
+    },
+{
+      "name": "America tv",
+      "logo": "https://i.ibb.co/Vx5QY8Y/1194.webp",
+      "url": "http://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8",
+      "category": "Musica"
     }
   ]
 }
