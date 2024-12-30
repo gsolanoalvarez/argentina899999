@@ -1,12 +1,6 @@
 {
   "channels": [
     {
-      "name": "Planeta tv movies",
-      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp",
-      "url": "https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w855558353.m3u8",
-      "category": "Peliculas"
-    },
-    {
       "name": "Planeta tv",
       "logo": "https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp",
       "url": "https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8",
