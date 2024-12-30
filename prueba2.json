@@ -24,6 +24,12 @@
       "url": "https://tv.streaming-chile.com:19360/8142/8142.m3u8",
       "category": "Peliculas"
     },
+    {
+      "name": "+CINE Classic",
+      "logo": "https://i.imgur.com/DRh5hqC.png",
+      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8",
+      "category": "Peliculas"
+    },
 {
       "name": "Super canal",
       "logo": "https://i.ibb.co/3pB4xsR/logoheader.webp",
@@ -211,12 +217,6 @@
       "category": "Retro"
     },
 {
-      "name": "MDA tv",
-      "logo": "https://mdatelevision.com/wp-content/uploads/2023/11/logo-mdatv_blanco.png",
-      "url": "https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1459168829.m3u8",
-      "category": "Retro"
-    },
-{
       "name": "Retrox Tv",
       "logo": "https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png",
       "url": "https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8",
@@ -225,21 +225,9 @@
 {
       "name": "Aniretro",
       "logo": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
-      "url": "https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8",
+      "url": "https://tv.streaming-chile.com:19360/8068/8068.m3u8",
       "category": "Retro"
-    },
-{
-      "name": "Eva Retro",
-      "logo": "https://latinartv.com/sites/default/files/styles/poster/public/logos/eva-retro.png?itok=Ke3QQrF8",
-      "url": "https://stmv2.casttv.com.br/evaretro/evaretro/chunklist_w1738681114.m3u8",
-      "category": "Retro"
-    },
-{
-      "name": "Meganet tv",
-      "logo": "https://i.imgur.com/FQF9NYp.png",
-      "url": "https://video20.klm99.com:3395/live/meganethitslive.m3u8",
-      "category": "Retro"
-    },
+    },   
 {
       "name": "Retro TV online",
       "logo": "https://serenotv.com/cargas/2023/09/RETRO-TV-LOGO-150x150.jpg",
@@ -262,12 +250,6 @@
       "name": "Retro Cartoon",
       "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp",
       "url": "https://stmv1.srvif.com/retrotv/retrotv/chunklist_w195920233.m3u8",
-      "category": "Retro"
-    },
-{
-      "name": "Canal Rex",
-      "logo": "https://neotv.cl/assets/img/channels/canal-rex.png",
-      "url": "https://v4.tustreaming.cl/canalrex/tracks-v1a1/mono.m3u8",
       "category": "Retro"
     },
 {
@@ -295,51 +277,21 @@
       "category": "Retro"
     },
 {
-      "name": "Espn",
-      "logo": "https://i.imgur.com/fvKyXVx.png",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8",
-      "category": "Deporte"
-    },
-{
-      "name": "Espn 2",
-      "logo": "https://tvlibreonline.net/img/espn2.webp",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/chunks.m3u8",
-      "category": "Deporte"
-    },
-{
-      "name": "Espn 3",
-      "logo": "https://tvlibreonline.net/img/espn3.webp",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8",
-      "category": "Deporte"
-    },
-{
-      "name": "Espn 5",
-      "logo": "https://tvlibreonline.net/img/espn5.webp",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8",
-      "category": "Deporte"
-    },
-{
-      "name": "Espn 6",
-      "logo": "https://tvlibreonline.net/img/espn6.webp",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8",
-      "category": "Deporte"
-    },
-{
-      "name": "Espn 7",
-      "logo": "https://tvlibreonline.net/img/espn7.png",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8",
-      "category": "Deporte"
-    },
-{
       "name": "Real Madrid tv",
       "logo": "https://i.imgur.com/NknFWnx.png",
       "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
       "category": "Deporte"
     },
-{
-      "name": "Interconect TV",
-      "logo": "https://meganettv.fun/storage/channel-logos/KdKXiiiKWty5f5piOh4JAs9wse9cX6mWAI1FhDz3.jpg",
-      "url": "https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8",
+    {
+      "name": "Meganet tv",
+      "logo": "https://i.imgur.com/FQF9NYp.png",
+      "url": "https://video20.klm99.com:3395/live/meganethitslive.m3u8",
+      "category": "Variado"
+    },
+    {
+      "name": "Eva Retro",
+      "logo": "https://latinartv.com/sites/default/files/styles/poster/public/logos/eva-retro.png?itok=Ke3QQrF8",
+      "url": "https://stmv2.casttv.com.br/evaretro/evaretro/chunklist_w1738681114.m3u8",
       "category": "Variado"
     },
 {
@@ -400,12 +352,6 @@
       "name": "America tv",
       "logo": "https://i.ibb.co/Vx5QY8Y/1194.webp",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=1111947",
-      "category": "Musica"
-    },
-{
-      "name": "America tv",
-      "logo": "https://i.ibb.co/Vx5QY8Y/1194.webp",
-      "url": "http://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8",
       "category": "Musica"
     }
   ]
