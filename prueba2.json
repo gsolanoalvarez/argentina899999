@@ -60,12 +60,6 @@
       "url": "https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8",
       "category": "Peliculas"
     },
-    {
-      "name": "FMH kids",
-      "logo": "https://www.fmh.la/images/team/logo_kids.png",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/playlist.m3u8",
-      "category": "Peliculas"
-    },
 {
       "name": "Vision tv",
       "logo": "https://i.imgur.com/LGfSdyr.png",
@@ -190,12 +184,6 @@
       "name": "Toonizaki",
       "logo": "https://i.ibb.co/9qzfNT0/logo-Toonizaki-4.jpg",
       "url": "https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES",
-      "category": "Anime"
-    },
-{
-      "name": "Canal Anime Onegai",
-      "logo": "https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png",
-      "url": "https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8",
       "category": "Anime"
     },
     {
