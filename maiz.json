@@ -147,3 +147,13 @@ https://alba-ec-rts-rts.stream.mediatiquestream.com/480p.m3u8
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ecotel Tv" tvg-logo="https://blixtv.com/wp-content/uploads/2023/07/ecoteltv-150x150.webp" group-title="Ecuador",Ecotel Tv
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-name="uno Tv" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/UNO-LOGO.png" group-title="Ecuador",uno Tv
+https://movil.ejeserver.com/live/canaluno.m3u8
+#EXTINF:-1 tvg-name="Asomavisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/993729345b0b0258453df34b34cec2ae.webp" group-title="Ecuador",Asomavisión
+https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1 tvg-name="Puruwa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6a0872e6e198720627e1a13752b097ac.webp" group-title="Ecuador",Puruwa
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w290317598.m3u8
+#EXTINF:-1 tvg-name="Hechos Ecuador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1a9dcc80fd1dd104f9bc3e57434086eb.webp" group-title="Ecuador",Hechos Ecuador
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-name="teleSUR" tvg-logo="https://www.telesurtv.net/content/themes/telesur/dist/assets/img/logo-negro-oficial-2024.png" group-title="Ecuador",teleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
