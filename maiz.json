@@ -127,6 +127,8 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-name="Canal 74" tvg-logo="https://i.ibb.co/n05S8DM/canal-74.png" group-title="Chile", Canal 74
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-name="autonoma tv" tvg-logo="https://autonomatv.cl/wp-content/uploads/2023/11/cropped-icono.png.webp" group-title="Chile", autonoma tv
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/chunks.m3u8
 #EXTINF:-1 tvg-name="TeleRed TV" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="Chile", TeleRed TV
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="Chile", GenTV
