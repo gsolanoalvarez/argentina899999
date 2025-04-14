@@ -108,6 +108,18 @@
       "url": "https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8",
       "category": "Anime"
     },
+    {
+      "name": "Max Anime",
+      "logo": "https://www.neotv.cl/assets/img/channels/max-anime-3-c.png",
+      "url": "https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Anime Onegai",
+      "logo": "https://i.postimg.cc/z3YqhBY8/1732574429510.jpg",
+      "url": "https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8",
+      "category": "Anime"
+    },
 {
       "name": "Varied tv",
       "logo": "https://neotv.cl/assets/img/channels/variedtv.png",
