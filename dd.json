@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="evento01" tvg-logo="https://img.teleclub.xyz/evento.png" group-title="Eventos", Teleclub
-http://tv.teleclub.xyz/stream/server_0/eventos/evento01/master.m3u8
 #EXTINF:-1 tvg-id="beinsportsextran" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
 #EXTINF:-1 tvg-id="directvsports" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
