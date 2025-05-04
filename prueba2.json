@@ -78,10 +78,22 @@
       "url": "https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w778505871.m3u8",
       "category": "Peliculas"
     },
-{
+    {
       "name": "Cinerama TV",
       "logo": "https://cineramatv.com/wp-content/uploads/2023/02/logo-2.jpg",
       "url": "https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Canalrtv",
+      "logo": "https://canalrtv.cl/img/logo-radio.png",
+      "url": "https://paneltv.online:1936/8050/8050/chunklist_w765056538.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Mix Bolivia tv",
+      "logo": "https://www.gogoplaytv.com/images/boton%202m-u437151-fr.png",
+      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8",
       "category": "Peliculas"
     },
 {
