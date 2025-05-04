@@ -247,6 +247,12 @@
       "category": "Deporte"
     },
     {
+      "name": "Anzoateguitv",
+      "logo": "https://lorini.net/anzoateguitv/LOGO%20BLANCO.png",
+      "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w2110942778.m3u8",
+      "category": "Variado"
+    },
+    {
       "name": "Meganet tv",
       "logo": "https://i.imgur.com/FQF9NYp.png",
       "url": "https://video20.klm99.com:3395/live/meganethitslive.m3u8",
@@ -304,6 +310,12 @@
       "name": "Tabertv",
       "logo": "https://gia.tv/streams/logo/208187.jpg?1744588829",
       "url": "https://stream.gia.tv/giatv/giatv-tabertv/tabertv/chunks.m3u8",
+      "category": "Religion"
+    },
+    {
+      "name": "Lametrohn",
+      "logo": "https://www.lametrohn.com/static/img/grupoStereo.png",
+      "url": "https://s.emisoras.tv:8081/cholutecatv/tracks-v1a1/mono.m3u8",
       "category": "Religion"
     }
   ]
