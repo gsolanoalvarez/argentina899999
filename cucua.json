@@ -6,6 +6,24 @@
       "url": "https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8",
       "category": "Peru"
     },
+     {
+      "name": "America tv",
+      "logo": "https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png",
+      "url": "https://live-evg4.tv360.bitel.com.pe/XEGbr7EJpDZnY0vDBUSoBg/1746822453/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8",
+      "category": "Peru"
+    },
+    {
+      "name": "la tele",
+      "logo": "https://i.imgur.com/dggyDM3.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8",
+      "category": "Peru"
+    },
+    {
+      "name": "Panamericana",
+      "logo": "https://panamericana.pe/imagenes/logo_2020.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8",
+      "category": "Peru"
+    }, 
     {
       "name": "Willax tv",
       "logo": "https://i.ibb.co/SypKpLq/willax-tv2-removebg-preview.webp",
