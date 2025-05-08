@@ -7,6 +7,24 @@
       "category": "Peliculas"
     },
     {
+      "name": "FMHMovies",
+      "logo": "https://i.imgur.com/N2aaqMi.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "FMHKids",
+      "logo": "https://i.imgur.com/WVD7u0s.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Cineclub ",
+      "logo": "https://i.imgur.com/XshyqMl.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8",
+      "category": "Peliculas"
+    },
+    {
       "name": "Bayres tv",
       "logo": "https://i.imgur.com/FQLLWtY.png",
       "url": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8",
@@ -135,13 +153,7 @@
     {
       "name": "Anime Onegai",
       "logo": "https://i.postimg.cc/z3YqhBY8/1732574429510.jpg",
-      "url": "https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8",
-      "category": "Anime"
-    },
-{
-      "name": "Varied tv",
-      "logo": "https://neotv.cl/assets/img/channels/variedtv.png",
-      "url": "https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8",
       "category": "Anime"
     },
 {
@@ -179,6 +191,12 @@
       "logo": "https://neotv.cl/assets/img/channels/eg-retro-3.png",
       "url": "https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=SyHpFWtuSuJCFE2BQSSfZz",
       "category": "Anime"
+    },
+    {
+      "name": "Creo latino",
+      "logo": "https://i.imgur.com/SS0f9uV.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8",
+      "category": "Retro"
     },
 {
       "name": "Caracola Tv",
@@ -276,6 +294,12 @@
       "url": "https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8",
       "category": "Variado"
     },
+    {
+      "name": "Bonita tv",
+      "logo": "https://i.imgur.com/Umora6T.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8",
+      "category": "Variado"
+    },
 {
       "name": "Extrema TV Kids",
       "logo": "https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png",
@@ -304,6 +328,12 @@
       "name": "Planeta tv",
       "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b047c9713a6e55d2169cc2c9bc9aadf2.webp",
       "url": "https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8",
+      "category": "Musica"
+    },
+    {
+      "name": "TopLatino",
+      "logo": "https://i.imgur.com/yCOxmtO.jpeg",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8",
       "category": "Musica"
     },
     {
