@@ -126,6 +126,12 @@
       "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
       "category": "Anime"
     },
+    {
+      "name": "Anime Station",
+      "logo": "https://i.imgur.com/wvAsVU6.jpeg",
+      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8",
+      "category": "Anime"
+    },
 {
       "name": "Canal 74",
       "logo": "https://serenotv.com/cargas/2022/01/Canal-74-Valparaiso-en-vivo-150x150.jpg",
@@ -157,15 +163,21 @@
       "category": "Anime"
     },
 {
-      "name": "Anime TV",
-      "logo": "https://i.imgur.com/8w6Y56I.png",
-      "url": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
+      "name": "Zaz",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3643-320x180-000000.jpg",
+      "url": "https://stream-us-east-1.getpublica.com/cl/250510d0fc5nktfgdmmg4dctu0/1280x720_1500000_0_f.m3u8?i=1187_13012",
+      "category": "Anime"
+    },
+    {
+      "name": "Anime 2",
+      "logo": "https://serenotv.com/cargas/2025/05/anime-presente-2-150x150.jpg",
+      "url": "https://stream.gia.tv/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8",
       "category": "Anime"
     },
 {
       "name": "Retro Magico",
       "logo": "https://i.imgur.com/UKHdD96.jpeg",
-      "url": "https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8",
+      "url": "https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8",
       "category": "Anime"
     },
 {
@@ -202,6 +214,12 @@
       "name": "Caracola Tv",
       "logo": "https://neotv.cl/assets/img/channels/caracola-tv.png",
       "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "Clasicos animados",
+      "logo": "https://serenotv.com/cargas/2025/05/clasicos-animados-150x150.jpg",
+      "url": "https://stream.gia.tv/giatvplayout7/giatv-209599/playlist.m3u8",
       "category": "Retro"
     },
 {
