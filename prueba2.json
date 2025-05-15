@@ -312,6 +312,12 @@
       "url": "https://video20.klm99.com:3395/live/meganethitslive.m3u8",
       "category": "Variado"
     },
+    {
+      "name": "Planeta Channel",
+      "logo": "https://planetaradiotv.com/wp-content/uploads/2021/08/cropped-logo-new-Planeta-2-114x83.png",
+      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/planeta55tv/chunks.m3u8",
+      "category": "Variado"
+    },
 {
       "name": "Tigueritos TV",
       "logo": "https://i.imgur.com/ZpthDIy.jpeg",
