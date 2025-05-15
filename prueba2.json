@@ -133,9 +133,9 @@
       "category": "Anime"
     },
 {
-      "name": "Canal 74",
-      "logo": "https://serenotv.com/cargas/2022/01/Canal-74-Valparaiso-en-vivo-150x150.jpg",
-      "url": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/chunklist_w71137418.m3u8",
+      "name": "Goku tv",
+      "logo": "https://serenotv.com/cargas/2025/05/canal-goku-24.jpg",
+      "url": "https://stream.gia.tv/giatvplayout7/giatv-208708/tracks-v1a1/mono.ts.m3u8",
       "category": "Anime"
     },
 {
@@ -163,9 +163,9 @@
       "category": "Anime"
     },
 {
-      "name": "Zaz",
-      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3643-320x180-000000.jpg",
-      "url": "https://stream-us-east-1.getpublica.com/cl/250510d0fc5nktfgdmmg4dctu0/1280x720_1500000_0_f.m3u8?i=1187_13012",
+      "name": "Toonamitv",
+      "logo": "https://i.imgur.com/lxUgLqF.png",
+      "url": "https://stream.gia.tv/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8",
       "category": "Anime"
     },
     {
@@ -210,6 +210,18 @@
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8",
       "category": "Retro"
     },
+    {
+      "name": "Teleanimemania",
+      "logo": "https://i.imgur.com/E43dfrt.png",
+      "url": "https://stream.gia.tv/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "Retrotoons",
+      "logo": "https://i.imgur.com/WKsnda2.png",
+      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/chunks.m3u8",
+      "category": "Retro"
+    },
 {
       "name": "Caracola Tv",
       "logo": "https://neotv.cl/assets/img/channels/caracola-tv.png",
@@ -238,6 +250,12 @@
       "name": "Diti tv",
       "logo": "https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png",
       "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/dititv/chunks.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "Retroplus",
+      "logo": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg",
+      "url": "https://stream.gia.tv/giatv/giatv-Retroplustv03/Retroplustv03/chunks.m3u8",
       "category": "Retro"
     },
 {
@@ -352,6 +370,12 @@
       "name": "TopLatino",
       "logo": "https://i.imgur.com/yCOxmtO.jpeg",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8",
+      "category": "Musica"
+    },
+    {
+      "name": "Video musica hindu",
+      "logo": "https://gia.tv/streams/logo/208246.jpg",
+      "url": "https://stream.gia.tv/giatv/giatv-Infinittyott/Infinittyott/chunks.m3u8",
       "category": "Musica"
     },
     {
