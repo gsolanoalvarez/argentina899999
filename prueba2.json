@@ -141,7 +141,7 @@
 {
       "name": "Zyoon TV",
       "logo": "https://neotv.cl/assets/img/channels/zyoontv.png",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/chunks.m3u8",
+      "url": "https://stream.gia.tv/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8",
       "category": "Anime"
     },
 {
@@ -219,7 +219,7 @@
     {
       "name": "Retrotoons",
       "logo": "https://i.imgur.com/WKsnda2.png",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/chunks.m3u8",
+      "url": "https://stream.gia.tv/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8",
       "category": "Retro"
     },
 {
