@@ -189,7 +189,25 @@
 {
       "name": "Gogoplay TV",
       "logo": "https://i.imgur.com/zAWE9O4.png",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8",
+      "url": "https://live20.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/chunks.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Dreiko TV",
+      "logo": "https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw",
+      "url": "https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Locomotion",
+      "logo": "https://i.postimg.cc/VN7B7qmk/d591e0bba96cfb3fbe0ae1a9e23ae2ed.png",
+      "url": "http://51.222.85.85:81/hls/loco/index.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Taltal anime",
+      "logo": "https://i.imgur.com/75Pa4wH.png",
+      "url": "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8",
       "category": "Anime"
     },
 {
