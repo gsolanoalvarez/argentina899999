@@ -1,6 +1,12 @@
 {
   "channels": [
     {
+      "name": "BOX Cinema",
+      "logo": "https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png",
+      "url": "https://dr2t9f8nivbc6.cloudfront.net/hls/ERNET5A/47ACBB024F87/m.m3u8",
+      "category": "Peliculas"
+    },
+    {
       "name": "+Cine",
       "logo": "https://cdn.m3u.cl/logo/1435__Cine.png",
       "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8",
@@ -331,6 +337,12 @@
       "category": "Deporte"
     },
     {
+      "name": "ToonzKids",
+      "logo": "https://a.jsrdn.com/hls/23131/toonzkids-ninos/logo_20231219_223332_60.png",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/c81b2ba2-1be8-4698-98c8-69ff4488a438/2.m3u8",
+      "category": "Infantil"
+    },
+    {
       "name": "Anzoateguitv",
       "logo": "https://lorini.net/anzoateguitv/LOGO%20BLANCO.png",
       "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w2110942778.m3u8",
@@ -415,6 +427,12 @@
       "category": "Musica"
     },
     {
+      "name": "Maiboli musica hindu",
+      "logo": "https://a.jsrdn.com/hls/22973/maiboli/logo_20231219_215344_67.png",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/dd45c11c-6dcf-41fc-b5d8-aadcf68950af/3.m3u8",
+      "category": "Musica"
+    },
+    {
       "name": "Tabertv",
       "logo": "https://gia.tv/streams/logo/208187.jpg?1744588829",
       "url": "https://stream.gia.tv/giatv/giatv-tabertv/tabertv/chunks.m3u8",
@@ -425,6 +443,12 @@
       "logo": "https://www.lametrohn.com/static/img/grupoStereo.png",
       "url": "https://s.emisoras.tv:8081/cholutecatv/tracks-v1a1/mono.m3u8",
       "category": "Religion"
+    },
+    {
+      "name": "Bollywood HD",
+      "logo": "https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/921c6178-e0eb-486a-a674-febd5dcfa83a/0.m3u8",
+      "category": "Hindu"
     }
   ]
 }
