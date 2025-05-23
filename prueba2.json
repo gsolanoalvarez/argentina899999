@@ -87,19 +87,13 @@
     {
       "name": "Wow movies",
       "logo": "https://gia.tv/streams/logo/208301.png?1744588041",
-      "url": "https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/chunks.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "Latina Internacional TV",
-      "logo": "https://i.imgur.com/74uTuSt.png",
-      "url": "https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1524434968.m3u8",
+      "url": "https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8",
       "category": "Peliculas"
     },
 {
       "name": "Gen TV",
       "logo": "https://i.imgur.com/qGddRW4.png",
-      "url": "https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8",
+      "url": "https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8",
       "category": "Peliculas"
     },
 {
@@ -121,15 +115,15 @@
       "category": "Peliculas"
     },
 {
-      "name": "Canalrtv",
-      "logo": "https://canalrtv.cl/img/logo-radio.png",
-      "url": "https://paneltv.online:1936/8050/8050/chunklist_w765056538.m3u8",
-      "category": "Peliculas"
-    },
-{
       "name": "Mix Bolivia tv",
       "logo": "https://www.gogoplaytv.com/images/boton%202m-u437151-fr.png",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8",
+      "url": "https://live20.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/chunks.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Next TV",
+      "logo": "https://neotv.cl/assets/img/channels/next-hd-2.png",
+      "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
       "category": "Peliculas"
     },
 {
@@ -147,7 +141,7 @@
     {
       "name": "Anime Station",
       "logo": "https://i.imgur.com/TWFJFx2.png",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8",
       "category": "Anime"
     },
 {
@@ -189,13 +183,13 @@
     {
       "name": "Anime 2",
       "logo": "https://serenotv.com/cargas/2025/05/anime-presente-2-150x150.jpg",
-      "url": "https://stream.gia.tv/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/tecnovision44/chunks.m3u8",
       "category": "Anime"
     },
 {
       "name": "Retro Magico",
       "logo": "https://i.imgur.com/UKHdD96.jpeg",
-      "url": "https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8",
+      "url": "https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8",
       "category": "Anime"
     },
 {
@@ -249,13 +243,13 @@
     {
       "name": "Teleanimemania",
       "logo": "https://i.imgur.com/E43dfrt.png",
-      "url": "https://stream.gia.tv/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
       "category": "Retro"
     },
     {
       "name": "Retrotoons",
       "logo": "https://i.imgur.com/WKsnda2.png",
-      "url": "https://stream.gia.tv/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8",
+      "url": "https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8",
       "category": "Retro"
     },
 {
