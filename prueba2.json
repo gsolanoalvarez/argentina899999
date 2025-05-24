@@ -19,6 +19,12 @@
       "category": "Peliculas"
     },
     {
+      "name": "FMHFamiliar",
+      "logo": "https://www.fmh.la/images/team/logo_family.png",
+      "url": "http://179.49.163.34:45000/play/a03m/index.m3u8",
+      "category": "Peliculas"
+    },
+    {
       "name": "FMHMovies",
       "logo": "https://i.imgur.com/37Mu2e4.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8",
