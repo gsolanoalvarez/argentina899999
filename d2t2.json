@@ -1,0 +1,58 @@
+{
+  "channels": [
+    {
+      "name": "Cinema Happy Madison FHD",
+      "logo": "https://img.hidra.app/247/cinemahappymadison128.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50582",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Cinema Comedia HD",
+      "logo": "https://img.hidra.app/247/mcrt128.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50575",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Cinema Marvel Studios FHD",
+      "logo": "https://img.hidra.app/247/cinemamarvel1.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50586",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Cinema DC Comics FHD",
+      "logo": "https://img.hidra.app/247/cinemadccomics.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50576",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Cuentos de la Cripta SD",
+      "logo": "https://img.hidra.app/247/cuentosdelacripta.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50589",
+      "category": "Series"
+    },
+    {
+      "name": "Looney Tunes HD",
+      "logo": "https://img.hidra.app/247/looneytunes%20%281%29.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333153",
+      "category": "Series"
+    },
+    {
+      "name": "Dragon Ball Z Movies FHD",
+      "logo": "https://img.hidra.app/247/dbzmovies.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50597",
+      "category": "Anime"
+    },
+    {
+      "name": "Cinema Anime",
+      "logo": "https://img.hidra.app/247/cinemaanime128x128.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58069",
+      "category": "Anime"
+    },
+    {
+      "name": "Dragon Ball FHD",
+      "logo": "https://img.hidra.app/247/db.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58082",
+      "category": "Anime"
+    }
+  ]
+}
