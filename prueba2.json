@@ -144,6 +144,12 @@
       "url": "http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
       "category": "Anime"
     },
+    {
+      "name": "ETC tv",
+      "logo": "https://static.etc.cl/_common/images/logoetc_2015.png",
+      "url": "http://nxt.plus:8080/olmos/1234guz/169444",
+      "category": "Anime"
+    },
 {
       "name": "Magic Kids",
       "logo": "https://magickids.site/img/magickidslogo.webp",
