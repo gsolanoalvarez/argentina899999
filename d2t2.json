@@ -7,12 +7,6 @@
       "category": "Peliculas"
     },
     {
-      "name": "Cinema Comedia HD",
-      "logo": "https://img.hidra.app/247/mcrt128.png",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50575",
-      "category": "Peliculas"
-    },
-    {
       "name": "Cinema Marvel Studios FHD",
       "logo": "https://img.hidra.app/247/cinemamarvel1.png",
       "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50586",
@@ -28,6 +22,12 @@
       "name": "Cuentos de la Cripta SD",
       "logo": "https://img.hidra.app/247/cuentosdelacripta.png",
       "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50589",
+      "category": "Series"
+    },
+    {
+      "name": "Los Años Maravillosos SD",
+      "logo": "https://img.tvcl.xyz/247/247.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49259",
       "category": "Series"
     },
     {
