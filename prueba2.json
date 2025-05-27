@@ -207,7 +207,13 @@
 {
       "name": "Talta tv",
       "logo": "https://neotv.cl/assets/img/channels/taltal-tv.png",
-      "url": "https://stream.gia.tv/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8",
+      "url": "https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Talta tv mix",
+      "logo": "https://i.imgur.com/75Pa4wH.png",
+      "url": "https://ssh101.bozztv.com/ssh101/animacion/chunks.m3u8",
       "category": "Anime"
     },
 {
