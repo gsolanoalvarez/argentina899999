@@ -253,6 +253,12 @@
       "category": "Anime"
     },
     {
+      "name": "Aniretro",
+      "logo": "https://i.imgur.com/XHEqow4.png",
+      "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8",
+      "category": "Anime"
+    }, 
+    {
       "name": "Creo latino",
       "logo": "https://i.imgur.com/MPfJgVf.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8",
@@ -300,12 +306,6 @@
       "url": "https://paneltv.online:1936/classicchannel/classicchannel/chunklist_w1728722185.m3u8",
       "category": "Retro"
     },
-{
-      "name": "Diti tv",
-      "logo": "https://dititvok.weebly.com/uploads/1/4/6/7/146735941/published/logo-png-con-sombra.png",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/dititv/chunks.m3u8",
-      "category": "Retro"
-    },
     {
       "name": "Retroplus",
       "logo": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg",
@@ -314,38 +314,32 @@
     },
 {
       "name": "Retrox Tv",
-      "logo": "https://www.retroxtv.com/diminup/2024/01/600-x-220-px.png",
+      "logo": "https://i.imgur.com/CRRJd0R.png",
       "url": "https://acceso.radiosportstv.online:3259/hybrid/play.m3u8",
       "category": "Retro"
-    },
-{
-      "name": "Aniretro",
-      "logo": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
-      "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8",
-      "category": "Retro"
-    },   
+    },  
 {
       "name": "Retro Tv Palmares",
-      "logo": "https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo-300x193.jpg",
+      "logo": "https://i.imgur.com/jzRhrMX.png",
       "url": "https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8",
       "category": "Retro"
     },
 {
-      "name": "Retro Cartoon",
-      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp",
-      "url": "https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8",
+      "name": "Sur infantil",
+      "logo": "https://i.imgur.com/6FVdX2q.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-opinionsurn/opinionsurn/chunks.m3u8",
       "category": "Retro"
     },
-{
-      "name": "TVS Retro",
-      "logo": "https://i.ibb.co/McNsbnt/logo-TVS-Retro.png",
-      "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+    {
+      "name": "Sur Cine",
+      "logo": "https://i.imgur.com/PqRoJQ4.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8",
       "category": "Retro"
     },
-{
-      "name": "Sur Series",
-      "logo": "https://i.ibb.co/2PypkCM/Logo-Opinion-Sur.png",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsurs/chunks.m3u8",
+     {
+      "name": "Sur series",
+      "logo": "https://i.imgur.com/CrgozvH.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-opinionsurs/opinionsurs/chunks.m3u8",
       "category": "Retro"
     },
 {
@@ -353,12 +347,6 @@
       "logo": "https://i.imgur.com/NknFWnx.png",
       "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
       "category": "Deporte"
-    },
-    {
-      "name": "ToonzKids",
-      "logo": "https://a.jsrdn.com/hls/23131/toonzkids-ninos/logo_20231219_223332_60.png",
-      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/c81b2ba2-1be8-4698-98c8-69ff4488a438/2.m3u8",
-      "category": "Infantil"
     },
     {
       "name": "Anzoateguitv",
@@ -375,13 +363,13 @@
     {
       "name": "Planeta Channel",
       "logo": "https://planetaradiotv.com/wp-content/uploads/2021/08/cropped-logo-new-Planeta-2-114x83.png",
-      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/planeta55tv/chunks.m3u8",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/chunks.m3u8",
       "category": "Variado"
     },
 {
       "name": "Tigueritos TV",
       "logo": "https://i.imgur.com/ZpthDIy.jpeg",
-      "url": "https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w265717333.m3u8",
+      "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w872116142.m3u8",
       "category": "Variado"
     },
 {
@@ -428,45 +416,21 @@
     },
 {
       "name": "Planeta tv",
-      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b047c9713a6e55d2169cc2c9bc9aadf2.webp",
+      "logo": "https://i.imgur.com/G8sw9hz.png",
       "url": "https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8",
       "category": "Musica"
     },
     {
       "name": "TopLatino",
-      "logo": "https://i.imgur.com/yCOxmtO.jpeg",
+      "logo": "https://i.imgur.com/DRbKglx.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8",
       "category": "Musica"
     },
     {
       "name": "Video musica hindu",
-      "logo": "https://gia.tv/streams/logo/208246.jpg",
-      "url": "https://stream.gia.tv/giatv/giatv-Infinittyott/Infinittyott/chunks.m3u8",
+      "logo": "https://i.imgur.com/gX1oR3P.png",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/92c35548-e9f4-44ac-b175-89f69f042976/0.m3u8",
       "category": "Musica"
-    },
-    {
-      "name": "Maiboli musica hindu",
-      "logo": "https://a.jsrdn.com/hls/22973/maiboli/logo_20231219_215344_67.png",
-      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/dd45c11c-6dcf-41fc-b5d8-aadcf68950af/3.m3u8",
-      "category": "Musica"
-    },
-    {
-      "name": "Tabertv",
-      "logo": "https://gia.tv/streams/logo/208187.jpg?1744588829",
-      "url": "https://stream.gia.tv/giatv/giatv-tabertv/tabertv/chunks.m3u8",
-      "category": "Religion"
-    },
-    {
-      "name": "Lametrohn",
-      "logo": "https://www.lametrohn.com/static/img/grupoStereo.png",
-      "url": "https://s.emisoras.tv:8081/cholutecatv/tracks-v1a1/mono.m3u8",
-      "category": "Religion"
-    },
-    {
-      "name": "Bollywood HD",
-      "logo": "https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png",
-      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/921c6178-e0eb-486a-a674-febd5dcfa83a/0.m3u8",
-      "category": "Hindu"
     }
   ]
 }
