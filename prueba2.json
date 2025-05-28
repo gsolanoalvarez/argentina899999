@@ -8,7 +8,7 @@
     },
     {
       "name": "+Cine",
-      "logo": "https://cdn.m3u.cl/logo/1435__Cine.png",
+      "logo": "https://i.imgur.com/O5D029N.png",
       "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8",
       "category": "Peliculas"
     },
@@ -20,25 +20,25 @@
     },
     {
       "name": "FMHMovies",
-      "logo": "https://i.imgur.com/37Mu2e4.png",
+      "logo": "https://i.imgur.com/4xEmxu1.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8",
       "category": "Peliculas"
     },
     {
       "name": "FMHKids",
-      "logo": "https://i.imgur.com/IY5gc8d.png",
+      "logo": "https://i.imgur.com/5CSuza7.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8",
       "category": "Peliculas"
     },
     {
       "name": "Cineclub ",
-      "logo": "https://i.imgur.com/mrsefms.png",
+      "logo": "https://i.imgur.com/fu9iCZy.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8",
       "category": "Peliculas"
     },
     {
       "name": "Bayres tv",
-      "logo": "https://i.imgur.com/FQLLWtY.png",
+      "logo": "https://i.imgur.com/AV6FabN.png",
       "url": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8",
       "category": "Peliculas"
     },
@@ -50,13 +50,13 @@
     },
 {
       "name": "Super canal",
-      "logo": "https://i.ibb.co/3pB4xsR/logoheader.webp",
+      "logo": "https://i.imgur.com/F4TKdGn.png",
       "url": "https://live.obslivestream.com/supercanal/index.m3u8",
       "category": "Peliculas"
     },
 {
       "name": "fm cosmo tv",
-      "logo": "https://i.imgur.com/oYaTu3J.png",
+      "logo": "https://i.imgur.com/FYFZt9t.png",
       "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
       "category": "Peliculas"
     },
@@ -68,7 +68,7 @@
     },
 {
       "name": "Vision tv",
-      "logo": "https://i.imgur.com/XvGrxKG.png",
+      "logo": "https://i.imgur.com/gK6BYlp.png",
       "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
       "category": "Peliculas"
     },
@@ -86,8 +86,8 @@
     },
     {
       "name": "Wow movies",
-      "logo": "https://gia.tv/streams/logo/208301.png?1744588041",
-      "url": "https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8",
+      "logo": "https://i.imgur.com/dhxytky.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/canal69/chunks.m3u8",
       "category": "Peliculas"
     },
 {
@@ -98,7 +98,7 @@
     },
 {
       "name": "Orbit tv",
-      "logo": "https://i.imgur.com/qvFgvRY.png",
+      "logo": "https://i.imgur.com/gmMKLvu.png",
       "url": "https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8",
       "category": "Peliculas"
     },
@@ -122,19 +122,19 @@
     },
     {
       "name": "Next TV",
-      "logo": "https://neotv.cl/assets/img/channels/next-hd-2.png",
+      "logo": "https://i.imgur.com/DlMDN1L.png",
       "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
       "category": "Peliculas"
     },
 {
       "name": "Kanade",
-      "logo": "https://neotv.cl/assets/img/channels/kanade-2.png",
+      "logo": "https://i.imgur.com/BllkzYT.png",
       "url": "https://stream.wifiexpert.cl/kanade/kanadetv/chunks.m3u8",
       "category": "Anime"
     },
     {
       "name": "Senpai tv",
-      "logo": "https://senpaitv.com/wp-content/themes/tsunayoshi/assets/img/logosenpai2.png",
+      "logo": "https://i.imgur.com/09FQldv.png",
       "url": "http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
       "category": "Anime"
     },
