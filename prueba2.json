@@ -158,13 +158,13 @@
     },
 {
       "name": "Goku tv",
-      "logo": "https://serenotv.com/cargas/2025/05/canal-goku-24.jpg",
+      "logo": "https://i.imgur.com/KtioMXW.png",
       "url": "https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8",
       "category": "Anime"
     },
 {
       "name": "Zyoon TV",
-      "logo": "https://i.imgur.com/dtQgh7R.png",
+      "logo": "https://i.imgur.com/kcR0Q5U.png",
       "url": "https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8",
       "category": "Anime"
     },
@@ -182,38 +182,44 @@
     },
     {
       "name": "Anime Onegai",
-      "logo": "https://i.imgur.com/dW2KNuL.png",
+      "logo": "https://i.imgur.com/x6iIoJN.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8",
       "category": "Anime"
     },
 {
       "name": "Toonami",
-      "logo": "https://i.imgur.com/lxUgLqF.png",
+      "logo": "https://i.imgur.com/JUz4bCj.png",
       "url": "https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8",
       "category": "Anime"
     },
     {
       "name": "Anime 2",
-      "logo": "https://serenotv.com/cargas/2025/05/anime-presente-2-150x150.jpg",
+      "logo": "https://i.imgur.com/v9UO46v.png",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/agaki/chunks.m3u8",
       "category": "Anime"
     },
 {
       "name": "Retro Magico",
-      "logo": "https://i.imgur.com/UKHdD96.jpeg",
+      "logo": "https://i.imgur.com/aTX1SzA.png",
       "url": "https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8",
       "category": "Anime"
     },
 {
       "name": "Talta tv",
-      "logo": "https://neotv.cl/assets/img/channels/taltal-tv.png",
+      "logo": "https://i.imgur.com/6bpmTEY.png",
       "url": "https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8",
       "category": "Anime"
     },
     {
       "name": "Talta tv mix",
-      "logo": "https://i.imgur.com/75Pa4wH.png",
+      "logo": "https://i.imgur.com/46WXxu8.png",
       "url": "https://ssh101.bozztv.com/ssh101/animacion/chunks.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Taltal anime",
+      "logo": "https://i.imgur.com/AchfGGu.png",
+      "url": "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8",
       "category": "Anime"
     },
 {
@@ -224,20 +230,14 @@
     },
     {
       "name": "Dreiko TV",
-      "logo": "https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw",
+      "logo": "https://i.imgur.com/9l6N1wr.png",
       "url": "https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8",
       "category": "Anime"
     },
     {
       "name": "Locomotion",
-      "logo": "https://i.postimg.cc/VN7B7qmk/d591e0bba96cfb3fbe0ae1a9e23ae2ed.png",
+      "logo": "https://i.imgur.com/lrYLU4H.png",
       "url": "http://51.222.85.85:81/hls/loco/index.m3u8",
-      "category": "Anime"
-    },
-    {
-      "name": "Taltal anime",
-      "logo": "https://i.imgur.com/75Pa4wH.png",
-      "url": "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8",
       "category": "Anime"
     },
 {
@@ -254,13 +254,13 @@
     },
     {
       "name": "Creo latino",
-      "logo": "https://i.imgur.com/SS0f9uV.png",
+      "logo": "https://i.imgur.com/MPfJgVf.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8",
       "category": "Retro"
     },
     {
       "name": "Teleanimemania",
-      "logo": "https://i.imgur.com/E43dfrt.png",
+      "logo": "https://i.imgur.com/h8miDFW.png",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
       "category": "Retro"
     },
@@ -272,13 +272,7 @@
     },
 {
       "name": "Caracola Tv",
-      "logo": "https://neotv.cl/assets/img/channels/caracola-tv.png",
-      "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
-      "category": "Retro"
-    },
-    {
-      "name": "Caracola Tv",
-      "logo": "https://neotv.cl/assets/img/channels/caracola-tv.png",
+      "logo": "https://i.imgur.com/q5106PD.png",
       "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
       "category": "Retro"
     },
@@ -296,7 +290,7 @@
     },
 {
       "name": "Frecuencia Musical Tv",
-      "logo": "https://serenotv.com/cargas/2022/07/FMTV-fusion-2.1-150x150.jpg",
+      "logo": "https://i.imgur.com/gcvQt71.png",
       "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
       "category": "Retro"
     },
