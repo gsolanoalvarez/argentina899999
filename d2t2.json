@@ -13,9 +13,21 @@
       "category": "Peliculas"
     },
     {
+      "name": "Cinema Familia",
+      "logo": "https://img.hidra.app/247/cinemafamilia.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50581",
+      "category": "Peliculas"
+    },
+    {
       "name": "Cinema DC Comics FHD",
       "logo": "https://img.hidra.app/247/cinemadccomics.png",
       "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50576",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Cinema DC Universe",
+      "logo": "https://img.hidra.app/247/cinemadcuniverse.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50577",
       "category": "Peliculas"
     },
     {
@@ -40,6 +52,12 @@
       "name": "Cinema Anime",
       "logo": "https://img.hidra.app/247/cinemaanime128x128.png",
       "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58069",
+      "category": "Anime"
+    },
+    {
+      "name": "Dragon Ball GT",
+      "logo": "https://img.hidra.app/247/dbgt.png",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58084",
       "category": "Anime"
     },
     {
