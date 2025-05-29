@@ -259,15 +259,15 @@
       "category": "Anime"
     }, 
     {
-      "name": "Creo latino",
-      "logo": "https://i.imgur.com/MPfJgVf.png",
-      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8",
-      "category": "Retro"
-    },
-    {
       "name": "Teleanimemania",
       "logo": "https://i.imgur.com/h8miDFW.png",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Creo latino",
+      "logo": "https://i.imgur.com/MPfJgVf.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8",
       "category": "Retro"
     },
     {
@@ -322,24 +322,6 @@
       "name": "Retro Tv Palmares",
       "logo": "https://i.imgur.com/jzRhrMX.png",
       "url": "https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8",
-      "category": "Retro"
-    },
-{
-      "name": "Sur infantil",
-      "logo": "https://i.imgur.com/6FVdX2q.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-opinionsurn/opinionsurn/chunks.m3u8",
-      "category": "Retro"
-    },
-    {
-      "name": "Sur Cine",
-      "logo": "https://i.imgur.com/PqRoJQ4.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8",
-      "category": "Retro"
-    },
-     {
-      "name": "Sur series",
-      "logo": "https://i.imgur.com/CrgozvH.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-opinionsurs/opinionsurs/chunks.m3u8",
       "category": "Retro"
     },
 {
