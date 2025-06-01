@@ -151,6 +151,12 @@
       "category": "Anime"
     },
     {
+      "name": "Etc tv",
+      "logo": "https://i.postimg.cc/zBjGz3dQ/Logoetctv.png",
+      "url": "http://45.181.122.46:8090/play/a00t",
+      "category": "Anime"
+    },
+    {
       "name": "Anifun",
       "logo": "https://i.imgur.com/otx8M4S.png",
       "url": "https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8",
