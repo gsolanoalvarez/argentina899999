@@ -342,6 +342,12 @@
       "url": "https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8",
       "category": "Retro"
     },
+    {
+      "name": "Tele Cinco Trelew",
+      "logo": "https://i.imgur.com/8EZWq4V.png",
+      "url": "https://videohd.live:19360/8016/8016.m3u8",
+      "category": "Retro"
+    },
 {
       "name": "Real Madrid tv",
       "logo": "https://i.imgur.com/NknFWnx.png",
