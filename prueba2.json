@@ -126,6 +126,12 @@
       "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
       "category": "Peliculas"
     },
+    {
+      "name": "Anzoateguitv",
+      "logo": "https://lorini.net/anzoateguitv/LOGO%20BLANCO.png",
+      "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w2110942778.m3u8",
+      "category": "Peliculas"
+    },
 {
       "name": "Kanade",
       "logo": "https://i.imgur.com/BllkzYT.png",
@@ -348,17 +354,17 @@
       "url": "https://videohd.live:19360/8016/8016.m3u8",
       "category": "Retro"
     },
-{
-      "name": "Real Madrid tv",
-      "logo": "https://i.imgur.com/NknFWnx.png",
-      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
-      "category": "Deporte"
+    {
+      "name": "Tigueritos TV",
+      "logo": "https://i.imgur.com/ZpthDIy.jpeg",
+      "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w872116142.m3u8",
+      "category": "Retro"
     },
     {
-      "name": "Anzoateguitv",
-      "logo": "https://lorini.net/anzoateguitv/LOGO%20BLANCO.png",
-      "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w2110942778.m3u8",
-      "category": "Variado"
+      "name": "TV Clasica",
+      "logo": "https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png",
+      "url": "https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8",
+      "category": "Retro"
     },
     {
       "name": "Meganet tv",
@@ -370,12 +376,6 @@
       "name": "Planeta Channel",
       "logo": "https://planetaradiotv.com/wp-content/uploads/2021/08/cropped-logo-new-Planeta-2-114x83.png",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/chunks.m3u8",
-      "category": "Variado"
-    },
-{
-      "name": "Tigueritos TV",
-      "logo": "https://i.imgur.com/ZpthDIy.jpeg",
-      "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w872116142.m3u8",
       "category": "Variado"
     },
 {
@@ -403,16 +403,16 @@
       "category": "Variado"
     },
 {
-      "name": "TV Clasica",
-      "logo": "https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png",
-      "url": "https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8",
-      "category": "Variado"
-    },
-{
       "name": "Pitufo TV",
       "logo": "https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png",
       "url": "https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8",
       "category": "Variado"
+    },
+    {
+      "name": "Real Madrid tv",
+      "logo": "https://i.imgur.com/NknFWnx.png",
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "category": "Deporte"
     },
 {
       "name": "Kpop",
