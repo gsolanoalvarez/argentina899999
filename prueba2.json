@@ -336,6 +336,12 @@
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8",
       "category": "Retro"
     },
+     {
+      "name": "Mega tv",
+      "logo": "https://i.imgur.com/4If3CLR.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8",
+      "category": "Retro"
+    },
     {
       "name": "Retrotoons",
       "logo": "https://i.imgur.com/WKsnda2.png",
