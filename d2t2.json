@@ -1,21 +1,21 @@
 {
   "channels": [
     {
-      "name": "Cinema Happy Madison FHD",
-      "logo": "https://img.hidra.app/247/cinemahappymadison128.png",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50582",
+      "name": "Cine canal",
+      "logo": "https://tvlibreonline.org/img/cinecanal.webp",
+      "url": "http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
       "category": "Peliculas"
     },
     {
-      "name": "Cinema Marvel Studios FHD",
-      "logo": "https://img.hidra.app/247/cinemamarvel1.png",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50586",
+      "name": "Space",
+      "logo": "https://tvlibreonline.org//img/space.webp",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/space.stream/playlist.m3u8",
       "category": "Peliculas"
     },
     {
-      "name": "Cinema Familia",
-      "logo": "https://img.hidra.app/247/cinemafamilia.png",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50581",
+      "name": "TNT",
+      "logo": "https://tvlibreonline.org//img/tnt.webp",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8",
       "category": "Peliculas"
     },
     {
