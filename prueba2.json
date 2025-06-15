@@ -207,7 +207,7 @@
 
     {
       "name": "Pluto anime",
-      "logo": "https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage_1748797352124.jpg",
+      "logo": "https://i.imgur.com/unoYYCE.png",
       "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
       "category": "Anime"
     },
@@ -345,8 +345,14 @@
     },
     {
       "name": "Teleclasica",
-      "logo": "https://i.ibb.co/vxhyRfg4/logo-Telecl-sica-removebg-preview.png",
+      "logo": "https://i.imgur.com/yELGuZE.png",
       "url": "hhttps://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "Series retro",
+      "logo": "https://i.imgur.com/hOM9OqK.png",
+      "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
       "category": "Retro"
     },
      {
