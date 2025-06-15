@@ -49,12 +49,6 @@
       "category": "Peliculas"
     },
 {
-      "name": "Super canal",
-      "logo": "https://i.imgur.com/F4TKdGn.png",
-      "url": "https://live.obslivestream.com/supercanal/index.m3u8",
-      "category": "Peliculas"
-    },
-{
       "name": "fm cosmo tv",
       "logo": "https://i.imgur.com/FYFZt9t.png",
       "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
@@ -82,12 +76,6 @@
       "name": "Wow tv",
       "logo": "https://www.wowelsalvador.com/imagen/logo2.png",
       "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1448199906_b2000000_slen.m3u8",
-      "category": "Peliculas"
-    },
-    {
-      "name": "Wow movies",
-      "logo": "https://i.imgur.com/dhxytky.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8",
       "category": "Peliculas"
     },
 {
@@ -124,12 +112,6 @@
       "name": "Next TV",
       "logo": "https://i.imgur.com/DlMDN1L.png",
       "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
-      "category": "Peliculas"
-    },
-    {
-      "name": "Anzoateguitv",
-      "logo": "https://lorini.net/anzoateguitv/LOGO%20BLANCO.png",
-      "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w2110942778.m3u8",
       "category": "Peliculas"
     },
     {
@@ -371,18 +353,6 @@
       "name": "Caracola Tv",
       "logo": "https://i.imgur.com/q5106PD.png",
       "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
-      "category": "Retro"
-    },
-    {
-      "name": "Cartoon Clasico",
-      "logo": "https://i.imgur.com/dSckQUA.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8",
-      "category": "Retro"
-    },
-    {
-      "name": "Funtv retro",
-      "logo": "https://i.imgur.com/zHNNcVG.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-funtvretro/funtvretro/chunks.m3u8",
       "category": "Retro"
     },
 {
