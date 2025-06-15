@@ -204,6 +204,13 @@
       "url": "http://45.181.122.46:8090/play/a00t",
       "category": "Anime"
     },
+
+    {
+      "name": "Pluto anime",
+      "logo": "https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage_1748797352124.jpg",
+      "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "category": "Anime"
+    },
     {
       "name": "Anifun",
       "logo": "https://i.imgur.com/otx8M4S.png",
