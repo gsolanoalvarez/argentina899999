@@ -37,6 +37,30 @@
       "category": "Peliculas"
     },
     {
+      "name": "HBO+",
+      "logo": "https://tvlibreonline.org//img/hboplus.webp",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hboplus/playlist.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "PARAMOUNT",
+      "logo": "https://tvlibreonline.org//img/paramount.webp",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/paramount.stream/playlist.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Golden",
+      "logo": "https://i.imgur.com/U8inKIG.png",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "fx",
+      "logo": "https://tvlibreonline.org//img/fx.webp",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx.stream/playlist.m3u8",
+      "category": "Peliculas"
+    },
+    {
       "name": "Cinema DC Comics FHD",
       "logo": "https://img.hidra.app/247/cinemadccomics.png",
       "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50576",
