@@ -440,6 +440,12 @@
       "category": "Variado"
     },
     {
+      "name": "telelima",
+      "logo": "https://i.imgur.com/83AWZCO.png",
+      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8",
+      "category": "Peru"
+    },
+    {
       "name": "Bonita tv",
       "logo": "https://i.imgur.com/Umora6T.png",
       "url": "https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8",
