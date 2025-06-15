@@ -19,6 +19,24 @@
       "category": "Peliculas"
     },
     {
+      "name": "star channel",
+      "logo": "https://tvlibreonline.org//img/star.webp",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "hbo",
+      "logo": "https://tvlibreonline.org//img/hbo.webp",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "universal",
+      "logo": "https://tvlibreonline.org//img/universalcinema.webp",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8",
+      "category": "Peliculas"
+    },
+    {
       "name": "Cinema DC Comics FHD",
       "logo": "https://img.hidra.app/247/cinemadccomics.png",
       "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50576",
@@ -29,12 +47,6 @@
       "logo": "https://img.hidra.app/247/cinemadcuniverse.png",
       "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50577",
       "category": "Peliculas"
-    },
-    {
-      "name": "Cuentos de la Cripta SD",
-      "logo": "https://img.hidra.app/247/cuentosdelacripta.png",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50589",
-      "category": "Series"
     },
     {
       "name": "Looney Tunes HD",
