@@ -19,6 +19,12 @@
       "category": "Peliculas"
     },
     {
+      "name": "Like tv",
+      "logo": "https://i.imgur.com/Q0AE2lH.png",
+      "url": "https://live-evg1.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8",
+      "category": "Peliculas"
+    },
+    {
       "name": "FMHMovies",
       "logo": "https://i.imgur.com/4xEmxu1.png",
       "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/FMH_Movies.stream/playlist.m3u8",
