@@ -9,25 +9,25 @@
     {
       "name": "Space",
       "logo": "https://tvlibreonline.org//img/space.webp",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/space.stream/playlist.m3u8",
+      "url": "http://200.60.124.19:29000/play/a028/index.m3u8",
       "category": "Peliculas"
     },
     {
       "name": "TNT",
       "logo": "https://tvlibreonline.org//img/tnt.webp",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34957",
       "category": "Peliculas"
     },
     {
       "name": "star channel",
       "logo": "https://tvlibreonline.org//img/star.webp",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302645",
       "category": "Peliculas"
     },
     {
       "name": "hbo",
       "logo": "https://tvlibreonline.org//img/hbo.webp",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302664",
       "category": "Peliculas"
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "HBO+",
       "logo": "https://tvlibreonline.org//img/hboplus.webp",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hboplus/playlist.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34892",
       "category": "Peliculas"
     },
     {
