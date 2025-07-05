@@ -3,61 +3,61 @@
     {
       "name": "Cine canal",
       "logo": "https://tvlibreonline.org/img/cinecanal.webp",
-      "url": "http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34994",
       "category": "Peliculas"
     },
     {
       "name": "Space",
       "logo": "https://tvlibreonline.org//img/space.webp",
-      "url": "http://200.60.124.19:29000/play/a028/index.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312898",
       "category": "Peliculas"
     },
     {
       "name": "TNT",
       "logo": "https://tvlibreonline.org//img/tnt.webp",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34957",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302733",
       "category": "Peliculas"
     },
     {
       "name": "star channel",
       "logo": "https://tvlibreonline.org//img/star.webp",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302645",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34928",
       "category": "Peliculas"
     },
     {
       "name": "hbo",
       "logo": "https://tvlibreonline.org//img/hbo.webp",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302664",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34883",
       "category": "Peliculas"
     },
     {
       "name": "universal",
       "logo": "https://tvlibreonline.org//img/universalcinema.webp",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302739",
       "category": "Peliculas"
     },
     {
       "name": "HBO+",
       "logo": "https://tvlibreonline.org//img/hboplus.webp",
-      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34892",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302668",
       "category": "Peliculas"
     },
     {
       "name": "PARAMOUNT",
       "logo": "https://tvlibreonline.org//img/paramount.webp",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/paramount.stream/playlist.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302716",
       "category": "Peliculas"
     },
     {
       "name": "Golden",
       "logo": "https://i.imgur.com/U8inKIG.png",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34989",
       "category": "Peliculas"
     },
     {
       "name": "fx",
       "logo": "https://tvlibreonline.org//img/fx.webp",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx.stream/playlist.m3u8",
+      "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34976",
       "category": "Peliculas"
     },
     {
