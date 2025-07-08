@@ -145,6 +145,12 @@
       "category": "Anime"
     },
     {
+      "name": "Varied tv",
+      "logo": "https://i.imgur.com/KCOI1q3.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8",
+      "category": "Anime"
+    },
+    {
       "name": "Senpai tv",
       "logo": "https://i.imgur.com/09FQldv.png",
       "url": "http://45.184.87.142:8000/play/a021",
