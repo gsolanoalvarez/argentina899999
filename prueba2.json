@@ -25,33 +25,21 @@
       "category": "Peliculas"
     },
     {
-      "name": "Like tv",
-      "logo": "https://i.imgur.com/Q0AE2lH.png",
-      "url": "https://live-evg1.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8",
-      "category": "Peliculas"
-    },
-    {
       "name": "FMHMovies",
       "logo": "https://i.imgur.com/4xEmxu1.png",
-      "url": "https://live-evg20.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
+      "url": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
       "category": "Peliculas"
     },
     {
       "name": "FMHKids",
       "logo": "https://i.imgur.com/5CSuza7.png",
-      "url": "https://live-evg20.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
-      "category": "Peliculas"
-    },
-    {
-      "name": "Cineclub ",
-      "logo": "https://i.imgur.com/fu9iCZy.png",
-      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8",
+      "url": "evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
       "category": "Peliculas"
     },
     {
       "name": "Bayres tv",
       "logo": "https://i.imgur.com/AV6FabN.png",
-      "url": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8",
+      "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w732046190.m3u8",
       "category": "Peliculas"
     },
     {
@@ -87,13 +75,13 @@
 {
       "name": "Wow tv",
       "logo": "https://www.wowelsalvador.com/imagen/logo2.png",
-      "url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1448199906_b2000000_slen.m3u8",
+      "url": "https://cdn-edge2.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=164697",
       "category": "Peliculas"
     },
 {
       "name": "Gen TV",
       "logo": "https://i.imgur.com/qGddRW4.png",
-      "url": "https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8",
+      "url": "https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8",
       "category": "Peliculas"
     },
 {
@@ -262,7 +250,7 @@
 {
       "name": "Gogoplay TV",
       "logo": "https://i.imgur.com/zAWE9O4.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/gogoplayhd/chunks.m3u8",
+      "url": "https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
       "category": "Anime"
     },
     {
