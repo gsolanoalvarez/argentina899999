@@ -156,7 +156,12 @@
       "url": "http://45.181.122.46:8090/play/a00t",
       "category": "Anime"
     },
-
+    {
+      "name": "teleanimemania latino",
+      "logo": "https://i.imgur.com/YhXjwyy.jpeg",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8",
+      "category": "Anime"
+    },
     {
       "name": "Pluto anime",
       "logo": "https://i.imgur.com/unoYYCE.png",
