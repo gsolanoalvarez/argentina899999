@@ -258,24 +258,6 @@
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8",
       "category": "Anime"
     },
-{
-      "name": "EnerGeek Fan",
-      "logo": "https://neotv.cl/assets/img/channels/eg-fan-2.png",
-      "url": "https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to",
-      "category": "Anime"
-    },
-    {
-      "name": "EnerGeek Retro",
-      "logo": "https://neotv.cl/assets/img/channels/eg-retro-3.png",
-      "url": "https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to",
-      "category": "Anime"
-    },
-    {
-      "name": "Aniretro",
-      "logo": "https://i.imgur.com/XHEqow4.png",
-      "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8",
-      "category": "Anime"
-    }, 
     {
       "name": "Teleanimemania",
       "logo": "https://i.imgur.com/h8miDFW.png",
