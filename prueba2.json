@@ -127,18 +127,6 @@
       "category": "Anime"
     },
     {
-      "name": "Anime Vision",
-      "logo": "https://i.imgur.com/roS2Bwb.png",
-      "url": "https://jmp2.uk/sam-ES300029LP.m3u8",
-      "category": "Anime"
-    },
-    {
-      "name": "Anime Vision Classics",
-      "logo": "https://i.imgur.com/4Zv4ckq.png",
-      "url": "https://jmp2.uk/sam-ES3000288I.m3u8",
-      "category": "Anime"
-    },
-    {
       "name": "Varied tv",
       "logo": "https://i.imgur.com/KCOI1q3.png",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8",
@@ -208,12 +196,6 @@
       "name": "Max Anime",
       "logo": "https://www.neotv.cl/assets/img/channels/max-anime-3-c.png",
       "url": "https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8",
-      "category": "Anime"
-    },
-    {
-      "name": "Anime Onegai",
-      "logo": "https://i.imgur.com/x6iIoJN.png",
-      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8",
       "category": "Anime"
     },
 {
@@ -297,13 +279,7 @@
     {
       "name": "Creo latino",
       "logo": "https://i.imgur.com/MPfJgVf.png",
-      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8",
-      "category": "Retro"
-    },
-    {
-      "name": "Evasion rero",
-      "logo": "https://i.imgur.com/qQxBrzk.png",
-      "url": "https://premium.tvcontrolcp.com:1936/evaretro/evaretro/chunklist_w114137120.m3u8",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?uid=8209793",
       "category": "Retro"
     },
     {
@@ -321,13 +297,7 @@
      {
       "name": "Mega tv",
       "logo": "https://i.imgur.com/4If3CLR.png",
-      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8",
-      "category": "Retro"
-    },
-    {
-      "name": "Retrotoons",
-      "logo": "https://i.imgur.com/WKsnda2.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?uid=8209793",
       "category": "Retro"
     },
 {
@@ -343,33 +313,15 @@
       "category": "Retro"
     },
 {
-      "name": "classic channel",
-      "logo": "https://classicchannel.online/img/logo-radio.png",
-      "url": "https://paneltv.online:1936/classicchannel/classicchannel/chunklist_w1728722185.m3u8",
-      "category": "Retro"
-    },
-    {
-      "name": "Retroplus",
-      "logo": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv/chunks.m3u8",
-      "category": "Retro"
-    },
-{
       "name": "Retrox Tv",
       "logo": "https://i.imgur.com/CRRJd0R.png",
-      "url": "https://acceso.radiosportstv.online:3259/hybrid/play.m3u8",
+      "url": "https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8",
       "category": "Retro"
     },  
 {
       "name": "Retro Tv Palmares",
       "logo": "https://i.imgur.com/jzRhrMX.png",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8",
-      "category": "Retro"
-    },
-    {
-      "name": "Tele Cinco Trelew",
-      "logo": "https://i.imgur.com/8EZWq4V.png",
-      "url": "https://videohd.live:19360/8016/8016.m3u8",
       "category": "Retro"
     },
     {
@@ -381,7 +333,7 @@
     {
       "name": "TV Clasica",
       "logo": "https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png",
-      "url": "https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8",
+      "url": "https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1857180799.m3u8",
       "category": "Retro"
     },
     {
@@ -414,16 +366,10 @@
       "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
       "category": "Variado"
     },
-{
-      "name": "Mundo Series",
-      "logo": "https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png",
-      "url": "https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8",
-      "category": "Variado"
-    },
     {
       "name": "telelima",
       "logo": "https://i.imgur.com/83AWZCO.png",
-      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8?uid=8209793",
       "category": "Variado"
     },
     {
@@ -465,7 +411,7 @@
     {
       "name": "TopLatino",
       "logo": "https://i.imgur.com/DRbKglx.png",
-      "url": "https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8",
+      "url": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1651724738_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzY0MDMwMTc1Jndvd3phdG9rZW5lbmR0aW1lPTE3NjQwMzExNzUmd293emF0b2tlbmhhc2g9RXJXUXZCQVA2S3BjM0Z2ZWpfTm5ERkV6Z1dxRDlWcDIxcmZySW9fcDNvND0=.m3u8",
       "category": "Musica"
     },
     {
