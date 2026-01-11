@@ -165,7 +165,7 @@
     {
       "name": "Pluto anime",
       "logo": "https://i.imgur.com/unoYYCE.png",
-      "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+      "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcde17bf6591d0009839e02/3321280/playlist.m3u8?sid=675208a2-ee7c-11f0-a5e5-e2b870127bb0&deviceId=705574f7-002d-4a3e-be5d-856c07861c16&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjY0MGFkOThjLTY4MzctNGY2Ni04ZjVkLTNjNTBhNTIxYjlkMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2NzUyMDhhMi1lZTdjLTExZjAtYTVlNS1lMmI4NzAxMjdiYjAiLCJjbGllbnRJUCI6IjI4MDM6ZWM5MDoxMDA5OmQ4MDA6OWQ5Yjo5NTJlOmIwZjc6ZDIzZiIsImNpdHkiOiJUcnVqaWxsbyIsInBvc3RhbENvZGUiOiIxMzAwNyIsImNvdW50cnkiOiJQRSIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi04LjEzMDAwMDExNDQ0MDkxOCwiZGV2aWNlTG9uIjotNzkuMDEwMDAyMTM2MjMwNDcsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE0My4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuMTguMC0zMjI5NmQ0N2M5ODgyNzU0ZTM2MGYxYjI4YTMzMDI3YzU0Y2JhZDE2IiwiY2xpZW50SUQiOiI3MDU1NzRmNy0wMDJkLTRhM2UtYmU1ZC04NTZjMDc4NjFjMTYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9MaW1hIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifSwic3RpdGNoZXJIbHNOZ1ZsbCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZ1ZvZCI6eyJlbmFibGVkIjp0cnVlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNzA1NTc0ZjctMDAyZC00YTNlLWJlNWQtODU2YzA3ODYxYzE2IiwiZndWY0lEMkNvcHBhIjoiNzA1NTc0ZjctMDAyZC00YTNlLWJlNWQtODU2YzA3ODYxYzE2IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI3MDU1NzRmNy0wMDJkLTRhM2UtYmU1ZC04NTZjMDc4NjFjMTYiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDA5LDEwMDEzLDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIwLDEwMDIxLDEwMDAwIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpBMU5UYzBaamN0TURBeVpDMDBZVE5sTFdKbE5XUXRPRFUyWXpBM09EWXhZekUyIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc2ODE3NDI1MiwiaWF0IjoxNzY4MDg3ODUyLCJqdGkiOiI2OThkZjg0YS02ZGYzLTQwZWQtOWM5Mi00MjliNWM2MTVkNWQifQ.04p5KxAILitnTjWnHDLEf2qLjMKSwjq-e6duoJKlXaA&CMCD=mtp%3D35100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220eb185df-e46e-486f-990f-dee8ea11a4dd%22%2Csu",
       "category": "Anime"
     },
     {
@@ -231,13 +231,13 @@
     {
       "name": "Talta tv mix",
       "logo": "https://i.imgur.com/46WXxu8.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8",
+      "url": "https://live20.bozztv.com/giatv/giatv-TALTALPELICULAS/TALTALPELICULAS/chunks.m3u8",
       "category": "Anime"
     },
     {
       "name": "Taltal anime",
       "logo": "https://i.imgur.com/AchfGGu.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8",
+      "url": "https://live21.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8",
       "category": "Anime"
     },
 {
