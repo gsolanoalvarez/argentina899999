@@ -177,7 +177,7 @@
 {
       "name": "Magic Kids",
       "logo": "https://magickids.site/img/magickidslogo.webp",
-      "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
+      "url": "https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8",
       "category": "Anime"
     },
     {
@@ -243,7 +243,7 @@
 {
       "name": "Gogoplay TV",
       "logo": "https://i.imgur.com/zAWE9O4.png",
-      "url": "https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8",
       "category": "Anime"
     },
     {
