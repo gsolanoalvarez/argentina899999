@@ -8,24 +8,10 @@
       "category": "Peliculas"
     },
     {
-      "name": "BOX Cinema",
-"estado": "en vivo",
-      "logo": "https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png",
-      "url": "https://d3s7x6kmqcnb6b.cloudfront.net/hls/6PNDS7Q/3D7568C35498/m.m3u8",
-      "category": "Peliculas"
-    },
-    {
       "name": "Wow movies",
 "estado": "en vivo",
       "logo": "https://i.imgur.com/dhxytky.png",
       "url": "https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8",
-      "category": "Peliculas"
-    },
-    {
-      "name": "+Cine",
-"estado": "en vivo",
-      "logo": "https://i.imgur.com/O5D029N.png",
-      "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8",
       "category": "Peliculas"
     },
      {
@@ -33,13 +19,6 @@
 "estado": "en vivo",
       "logo": "https://i.imgur.com/kxDSSrY.png",
       "url": "https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8",
-      "category": "Peliculas"
-    },
-    {
-      "name": "Planeta tv",
-"estado": "en vivo",
-      "logo": "https://i.ibb.co/GnTz4kx/LOGO-PLANETA-HD.webp",
-      "url": "https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8",
       "category": "Peliculas"
     },
     {
@@ -60,7 +39,7 @@
       "name": "Bayres tv",
 "estado": "en vivo",
       "logo": "https://i.imgur.com/AV6FabN.png",
-      "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w732046190.m3u8",
+      "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1735478623.m3u8",
       "category": "Peliculas"
     },
     {
@@ -102,7 +81,7 @@
       "name": "Wow tv",
 "estado": "en vivo",
       "logo": "https://www.wowelsalvador.com/imagen/logo2.png",
-      "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=1442076",
+      "url": "https://cdn-edge2.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=6395845",
       "category": "Peliculas"
     },
 {
