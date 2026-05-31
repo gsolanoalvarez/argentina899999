@@ -5,11 +5,9 @@
     "s2_b": "aHR0cHM6Ly9yZWdpb25hbGVzLnNhb2hnZGFzcmVnaW9ucy5mdW4vdHZwb3JpbnRlcm5ldDMucGhwP3N0cmVhbT0=",
     "s3_b": "https://telegratuita.net/repro/?r=",
     "l1_b": "aHR0cHM6Ly93d3cuY2FibGV2aXNpb25oZC5jb20vaW1nZS8=",
-    "l2_b": "aHR0cHM6Ly93d3cudHZwb3JpbnRlcm5ldDIuY29tL2ltZ2Uv",
-    "l3_b": "aHR0cHM6Ly93d3cudHZzcGFjZWhkLmNvbS9pbWcv"
+    "l2_b": "aHR0cHM6Ly93d3cudHZwb3JpbnRlcm5ldDIuY29tL2ltZ2Uv"
   },
   "channels": [
-    { "n": "Yml0bWU=", "l": "Yml0bWUuanBn", "li": 3, "s3": "L3ByaS5waHA/aWQ9Yml0bWU=", "s4": "L2lwdHYucGhwP2NoYW5uZWw9Yml0bWU=" },
     { "n": "QU1D", "l": "YW1jLnBuZw==", "li": 1, "s1": "YW1jLmh0bWw=", "s2": "NjNf", "s3": "L3Byb2VzLnBocD9pZD1hbWM=" },
     { "n": "QU5JTUFMIFBMQU5FVA==", "l": "YW5pbWFscGxhbmV0LnBuZw==", "li": 1, "s1": "YW5pbWFscGxhbmV0Lmh0bWw=", "s2": "NDZf", "s3": "L3ByaS5waHA/aWQ9cGxhbmV0" },
     { "n": "QVhO", "l": "YXhuLnBuZw==", "li": 1, "s1": "YXhuLmh0bWw=", "s2": "NjFf", "s3": "L3Byb2VzLnBocD9pZD1heG4=" },
